@@ -1,0 +1,1582 @@
+city,club,date,level,name,position,state
+ Faribault,Shattuck-Saint Mary's,2017/08/04,U-15, JT Harms ,Goalkeeper,Minnesota
+ Norridge,Chicago Fire,2017/08/04,U-15, Damian Las ,Goalkeeper,Illinois
+ Chicago,FC United Soccer Club,2017/08/04,U-15, Axel Alejandre ,Defender,Illinois
+ Douglasville,Atlanta United,2017/08/04,U-15, George Bello ,Defender,Georgia
+ Springfield,Sporting Kansas City,2017/08/04,U-15, Mitch Eise ,Defender,Missouri
+ Tampa,Chargers Soccer Club,2017/08/04,U-15, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/08/04,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/08/04,U-15, Joseph Scally ,Defender,New York
+ Seattle,Seattle Sounders,2017/08/04,U-15, Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/08/04,U-15, Gilbert Fuentes ,Midfielder,California
+ Dallas,FC Dallas,2017/08/04,U-15, Cesar Garcia ,Midfielder,Texas
+ Panorama City,Real So Cal,2017/08/04,U-15, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2017/08/04,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting Kansas City,2017/08/04,U-15, Gianluca Busio ,Forward,North Carolina
+ Austin,Lonestar Soccer Club,2017/08/04,U-15, Julian Gaines ,Forward,Texas
+ Duluth,Atlanta United,2017/08/04,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2017/08/04,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,New York City FC,2017/08/04,U-15, Giovanni Reyna ,Forward,New York
+ Indian Head,D.C. United,2018/05/04,U-15, Mikah Seger ,Goalkeeper,Maryland
+ Addison,Chicago Fire,2018/05/04,U-15, Gabriel Slonina ,Goalkeeper,Illinois
+ Pembroke Pines,Weston FC,2018/05/04,U-15, Noah Allen ,Defender,Florida
+ Philadelphia,Philadelphia Union,2018/05/04,U-15, Brandon Craig ,Defender,Pennsylvania
+ Long Beach,Los Angeles Football Club,2018/05/04,U-15, Antonio Leone ,Defender,California
+ Glen Ellyn,Sockers FC,2018/05/04,U-15, Ryan Quintos ,Defender,Illinois
+ Chicago,Chicago Fire,2018/05/04,U-15, Justin Reynolds ,Defender,Illinois
+ Akron,Internationals,2018/05/04,U-15, Levi Stephens ,Defender,Ohio
+ Barcelona,UE Cornella/ESP,2018/05/04,U-15, Devan Tanton ,Defender,Spain
+ Tukwila,Seattle Sounders FC,2018/05/04,U-15, Juan Alvarez ,Midfielder,Washington
+ Eden,La Roca,2018/05/04,U-15, Zach Booth ,Midfielder,Utah
+ Little Elm,FC Dallas,2018/05/04,U-15, Cesar Elizalde ,Midfielder,Texas
+ Lincroft,Players Development Academy,2018/05/04,U-15, Kenan Hot ,Midfielder,New Jersey
+ Apex,North Carolina FC Youth,2018/05/04,U-15, Brendan Lambe ,Midfielder,North Carolina
+ Stillwater,Oklahoma City Energy FC,2018/05/04,U-15, Rokas Pukstas ,Midfielder,Okla.
+ Elkhart,Indiana Fire Academy,2018/05/04,U-15, Allan Rodriguez ,Midfielder,Ind.
+ La Mesa,San Diego Surf,2018/05/04,U-15, Evan Rotundo ,Midfielder,California
+ Seattle,Seattle Sounders FC,2018/05/04,U-15, Austin Brummett ,Forward,Washington
+ Rancho Cordova,Sacramento Republic FC,2018/05/04,U-15, Rafael Jauregui ,Forward,California
+ Redmond,Crossfire Premier,2018/05/04,U-15, Korede Osundina ,Forward,Washington
+ San Jose,De Anza Force,2018/01/12,U-15, Damian Alguera ,Goalkeeper,California
+ Frisco,FC Dallas,2018/01/12,U-15, Antonio Carrera ,Goalkeeper,Texas
+ St. Paul,Minnesota United FC,2018/01/12,U-15, Fred Emmings ,Goalkeeper,Minnesota
+ Addison,Chicago Fire,2018/01/12,U-15, Gabriel Slonina ,Goalkeeper,Illinois
+ Atlanta,Atlanta United FC,2018/01/12,U-15,: Bryan Casanova ,Defender,Georgia
+ Ridgewood,New York Red Bulls,2018/01/12,U-15, John Carlos Cortez ,Defender,New Jersey
+ Philadelphia,Philadelphia Union,2018/01/12,U-15, Brandan Craig ,Defender,Pennsylvania
+ South Gate,LA Galaxy,2018/01/12,U-15, Jason Cruz ,Defender,California
+ Dix Hills,New York City FC,2018/01/12,U-15, Cooper Flax ,Defender,New York
+ Torrance,Los Angeles Football Club,2018/01/12,U-15, Robert Kaemmerer ,Defender,California
+ New York,New York City FC,2018/01/12,U-15, Justin Kern ,Defender,New York
+ Ambler,Philadelphia Union,2018/01/12,U-15, Ryan Lau ,Defender,Pennsylvania
+ Long Beach,Los Angeles Football Club,2018/01/12,U-15, Antonio Leone ,Defender,California
+ Allen,FC Dallas,2018/01/12,U-15, George Medill ,Defender,Texas
+ Chicago,Chicago Fire,2018/01/12,U-15, Justin Reynolds ,Defender,Illinois
+ Issaquah,Pacific Northwest Soccer Club,2018/01/12,U-15, Takashi Sasaki ,Defender,Washington
+ San Antonio,San Antonio FC,2018/01/12,U-15, Leo Torres Hurtado ,Defender,Texas
+ Tukwila,Pacific Northwest Soccer Club,2018/01/12,U-15,: Juan Alvarez ,Midfielder,Washington
+ Stockton,Sacramento Republic FC,2018/01/12,U-15, Josemaria Barrera ,Midfielder,California
+ Eden,La Roca,2018/01/12,U-15, Zack Booth ,Midfielder,Utah
+ Parkville,Sporting Kansas City,2018/01/12,U-15, Osvaldo Cisneros ,Midfielder,Missouri
+ Little Elm,FC Dallas,2018/01/12,U-15, Cesar Elizalde ,Midfielder,Texas
+ Lincroft,Players Development Academy,2018/01/12,U-15, Kenan Hot ,Midfielder,New Jersey
+ Escondido,San Diego Surf,2018/01/12,U-15, Rey Millan ,Midfielder,California
+ San Antonio,San Antonio FC,2018/01/12,U-15, Rocky Perez ,Midfielder,Texas
+ Porter Ranch,Los Angeles Football Club,2018/01/12,U-15, Dylan Presto ,Midfielder,California
+ Stillwater,Oklahoma Energy FC,2018/01/12,U-15, Rokus Pukstas ,Midfielder,Okla.
+ La Mesa,San Diego Surf,2018/01/12,U-15, Evan Rotundo ,Midfielder,California
+ Issaquah,Pacific Northwest Soccer Club,2018/01/12,U-15, Ben Burns ,Forward,Washington
+ Oklahoma City,Oklahoma Energy FC,2018/01/12,U-15, Daniel Gutierrez-Jaime ,Forward,Okla.
+ Rancho Cordova,Sacramento Republic FC,2018/01/12,U-15, Rafael Jauregui ,Forward,California
+ Moreno Valley,Los Angeles Football Club,2018/01/12,U-15, Kevin Jimenez ,Forward,California
+ Fourqueux,Paris Saint-Germain,2018/01/12,U-15, Kevin Kelley ,Forward,France
+ Gaithersburg,CE Sabadell SC,2018/01/12,U-15, Ian Marcano ,Forward,Maryland
+ Redmond,Crossfire Oregon,2018/01/12,U-15, Korede Osundine ,Forward,Washington
+ Federal Way,Seattle Sounders FC,2018/01/12,U-15, Oscar Rincon-Rodriguez ,Forward,Washington
+ Chino Hills,LA Galaxy,2016/11/07,U-15, Aaron Cervantes ,Goalkeeper,California
+ Norridge,Chicago Fire,2016/11/07,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2016/11/07,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Anchorage,Cook Inlet Soccer Club,2016/11/07,U-15, Jakob Stone ,Goalkeeper,Alaska
+ Chicago,FC United,2016/11/07,U-15,: Axel Alejandre ,Defender,Illinois
+ Kearny,Cedar Stars Bergen,2016/11/07,U-15, Anthony Alvites ,Defender,New Jersey
+ Highlands Ranch,Real Colorado,2016/11/07,U-15, Sebastian Anderson ,Defender,Colorado
+ Olney,Bethesda Olney,2016/11/07,U-15, Noah Atanda ,Defender,Maryland
+ Douglasville,Atlanta United FC,2016/11/07,U-15, George Bello ,Defender,Georgia
+ Los Gatos,Santa Cruz Breakers,2016/11/07,U-15, Nicholas Douglas ,Defender,California
+ Tampa,Tampa Bay United,2016/11/07,U-15, Mason Judge ,Defender,Florida
+ Royal Palm Beach,Boca United,2016/11/07,U-15, Rayvon McGann ,Defender,Florida
+ Bergen,Cedar Stars Bergen,2016/11/07,U-15, Joshua Negrete ,Defender,New Jersey
+ Irvine,Pateadores,2016/11/07,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,NYC FC,2016/11/07,U-15, Joseph Scally ,Defender,New York
+ Lake Forest,Pateadores,2016/11/07,U-15, Skyler Smith ,Defender,California
+ Washington,D.C. United,2016/11/07,U-15,: Nick Andersen ,Midfielder,D.C.
+ Seattle,Seattle Sounders,2016/11/07,U-15, Josh Atencio ,Midfielder,Washington
+ Detroit,Vardar,2016/11/07,U-15, Gavin Brose ,Midfielder,Michigan
+ Dallas,FC Dallas,2016/11/07,U-15, James Dunning ,Midfielder,Texas
+ Tracy,San Jose Earthquakes,2016/11/07,U-15, Gilbert Fuentes ,Midfielder,California
+ Georgetown,Lonestar Soccer Club,2016/11/07,U-15, Kaya Ignacio ,Midfielder,Texas
+ Austin,Lonestar Soccer Club,2016/11/07,U-15, Jorge Lopez ,Midfielder,Texas
+ Greenwich,NYC FC,2016/11/07,U-15, Harrison Robledo ,Midfielder,Connecticut
+ Burien,Seattle Sounders,2016/11/07,U-15, Daniel Robles ,Midfielder,Washington
+ Chester,NY Red Bulls,2016/11/07,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting KC,2016/11/07,U-15,: Gianluca Busio ,Forward,North Carolina
+ Santa Monica,LA Galaxy,2016/11/07,U-15, Victor Cano ,Forward,California
+ Dallas,Solar Chelsea SC,2016/11/07,U-15, Jackson Castro ,Forward,Texas
+ Wayne,Philadelphia Union,2016/11/07,U-15, Jack De Vries ,Forward,Pennsylvania
+ Austin,Lonestar Soccer Club,2016/11/07,U-15, Julian Gaines ,Forward,Texas
+ San Jose,De Anza Force,2016/11/07,U-15, Jack Imperato ,Forward,California
+ Greenwich,NYC FC,2016/11/07,U-15, Andres Jasson ,Forward,Connecticut
+ Duluth,Georgia United,2016/11/07,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2016/11/07,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,NYC FC,2016/11/07,U-15, Giovanni Reyna ,Forward,New York
+ Norridge,Chicago Fire,2017/04/25,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/04/25,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United,2017/04/25,U-15, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Real Colorado,2017/04/25,U-15, Sebastian Anderson ,Defender,Colorado
+ Stockton,Sac Republic,2017/04/25,U-15, Erik Centeno ,Defender,California
+ Denver,Colorado Rapids,2017/04/25,U-15, Brandon Farmelo ,Defender,Colorado
+ Saint John's,Armada FC,2017/04/25,U-15, Owen Guske ,Defender,Florida
+ Tampa,Chargers Soccer Club,2017/04/25,U-15, Mason Judge ,Defender,Florida
+ Bergen,Cedar Stars Bergen,2017/04/25,U-15, Joshua Negrete ,Defender,New Jersey
+ Irvine,Pateadores,2017/04/25,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/04/25,U-15, Joseph Scally ,Defender,New York
+ Palmetto,Chargers Soccer Club,2017/04/25,U-15, Landon Ameres ,Midfielder,Florida
+ Ocean,Philadelphia Union,2017/04/25,U-15, Julian Anderson ,Midfielder,New Jersey
+ Seattle,Seattle Sounders,2017/04/25,U-15,  Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/04/25,U-15, Gilbert Fuentes ,Midfielder,California
+ Burien,Seattle Sounders,2017/04/25,U-15, Daniel Robles ,Midfielder,Washington
+ Panorama City,Real So Cal,2017/04/25,U-15, Adam Saldana ,Midfielder,California
+ Chester,NYRB,2017/04/25,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting KC,2017/04/25,U-15, Gianluca Busio ,Forward,North Carolina
+ Santa Monica,LA Galaxy,2017/04/25,U-15, Victor Cano ,Forward,California
+ Austin,Lonestar Soccer Club,2017/04/25,U-15, Julian Gaines ,Forward,Texas
+ Duluth,Atlanta United,2017/04/25,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2017/04/25,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,New York City FC,2017/04/25,U-15, Giovanni Reyna ,Forward,New York
+ Norridge,Chicago Fire,2017/01/09,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/01/09,U-15, Kash Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United,2017/01/09,U-15, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Real Colorado,2017/01/09,U-15, Sebastian Anderson ,Defender,Colorado
+ Douglasville,Atlanta United,2017/01/09,U-15, George Bello ,Defender,Georgia
+ Saint Johns,Armada FC,2017/01/09,U-15, Owen Guske ,Defender,Florida
+ Tampa,Chargers SC,2017/01/09,U-15, Mason Judge ,Defender,Florida
+ Clifton,Cedar Stars Bergen,2017/01/09,U-15, Joshua Negrete ,Defender,New Jersey
+ Irvine,Pateadores,2017/01/09,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,NYCFC,2017/01/09,U-15, Joseph Scally ,Defender,New York
+Washington,D.C. United,2017/01/09,U-15, Nick Andersen ,Midfielder,D.C.
+ Ocean,Philadelphia Union,2017/01/09,U-15, Julian Anderson ,Midfielder,New Jersey
+ Seattle,Seattle Sounders FC,2017/01/09,U-15, Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/01/09,U-15, Gilbert Fuentes Perez ,Midfielder,California
+ Burien,Seattle Sounders FC,2017/01/09,U-15, Daniel Robles ,Midfielder,Washington
+ Panorama City,Real So Cal,2017/01/09,U-15, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2017/01/09,U-15, Peter Stroud ,Midfielder,New Jersey
+Greensboro,Sporting KC,2017/01/09,U-15, Gianluca Busio ,Forward,North Carolina
+ Santa Monica,LA Galaxy,2017/01/09,U-15, Victor Cano ,Forward,California
+ Austin,Lonestar SC,2017/01/09,U-15, Julian Gaines ,Forward,Texas
+ Greenwich,NYCFC,2017/01/09,U-15, Andres Jasson ,Forward,Connecticut
+ Duluth,Atlanta United,2017/01/09,U-15, Daniel Mangarov ,Forward,Georgia
+ Graham,Seattle Sounders FC,2017/01/09,U-15, Alfonso Ocampo Chavez ,Forward,Washington
+ Bedord,NYCFC,2017/01/09,U-15, Giovanni Reyna ,Forward,New York
+ Norridge,Chicago Fire,2017/04/25,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/04/25,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United,2017/04/25,U-15, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Real Colorado,2017/04/25,U-15, Sebastian Anderson ,Defender,Colorado
+ Douglasville,Atlanta United,2017/04/25,U-15, George Bello ,Defender,Georgia
+ Denver,Colorado Rapids,2017/04/25,U-15, Brandon Farmelo ,Defender,Colorado
+ Tampa,Chargers Soccer Club,2017/04/25,U-15, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/04/25,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,NYCFC,2017/04/25,U-15, Joseph Scally ,Defender,New York
+ Ocean,Philadelphia Union,2017/04/25,U-15, Julian Anderson ,Midfielder,New Jersey
+ Seattle,Seattle Sounders,2017/04/25,U-15,  Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/04/25,U-15, Gilbert Fuentes ,Midfielder,California
+ Panorama City,Real So Cal,2017/04/25,U-15, Adam Saldana ,Midfielder,California
+ Chester,NYRB,2017/04/25,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting KC,2017/04/25,U-15, Gianluca Busio ,Forward,North Carolina
+ Austin,Lonestar Soccer Club,2017/04/25,U-15, Julian Gaines ,Forward,Texas
+ Chino,FC Golden State,2017/04/25,U-15, Diego Lopez ,Forward,California
+ Duluth,Atlanta United,2017/04/25,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2017/04/25,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,NYCFC,2017/04/25,U-15, Giovanni Reyna ,Forward,New York
+ Indian Head,D.C. United,2018/05/04,U-15, Mikah Seger ,Goalkeeper,Maryland
+ Addison,Chicago Fire,2018/05/04,U-15, Gabriel Slonina ,Goalkeeper,Illinois
+ Pembroke Pines,Weston FC,2018/05/04,U-15, Noah Allen ,Defender,Florida
+ Philadelphia,Philadelphia Union,2018/05/04,U-15, Brandon Craig ,Defender,Pennsylvania
+ Long Beach,Los Angeles Football Club,2018/05/04,U-15, Antonio Leone ,Defender,California
+ Glen Ellyn,Sockers FC,2018/05/04,U-15, Ryan Quintos ,Defender,Illinois
+ Chicago,Chicago Fire,2018/05/04,U-15, Justin Reynolds ,Defender,Illinois
+ Akron,Internationals,2018/05/04,U-15, Levi Stephens ,Defender,Ohio
+ Barcelona,UE Cornella/ESP,2018/05/04,U-15, Devan Tanton ,Defender,Spain
+ Tukwila,Seattle Sounders FC,2018/05/04,U-15, Juan Alvarez ,Midfielder,Washington
+ Eden,La Roca,2018/05/04,U-15, Zach Booth ,Midfielder,Utah
+ Little Elm,FC Dallas,2018/05/04,U-15, Cesar Elizalde ,Midfielder,Texas
+ Lincroft,Players Development Academy,2018/05/04,U-15, Kenan Hot ,Midfielder,New Jersey
+ Apex,North Carolina FC Youth,2018/05/04,U-15, Brendan Lambe ,Midfielder,North Carolina
+ Stillwater,Oklahoma City Energy FC,2018/05/04,U-15, Rokas Pukstas ,Midfielder,Okla.
+ Elkhart,Indiana Fire Academy,2018/05/04,U-15, Allan Rodriguez ,Midfielder,Ind.
+ La Mesa,San Diego Surf,2018/05/04,U-15, Evan Rotundo ,Midfielder,California
+ Seattle,Seattle Sounders FC,2018/05/04,U-15, Austin Brummett ,Forward,Washington
+ Rancho Cordova,Sacramento Republic FC,2018/05/04,U-15, Rafael Jauregui ,Forward,California
+ Redmond,Crossfire Premier,2018/05/04,U-15, Korede Osundina ,Forward,Washington
+ Faribault,Shattuck-Saint Mary's,2017/08/04,U-15, JT Harms ,Goalkeeper,Minnesota
+ Norridge,Chicago Fire,2017/08/04,U-15, Damian Las ,Goalkeeper,Illinois
+ Chicago,FC United Soccer Club,2017/08/04,U-15, Axel Alejandre ,Defender,Illinois
+ Douglasville,Atlanta United,2017/08/04,U-15, George Bello ,Defender,Georgia
+ Springfield,Sporting Kansas City,2017/08/04,U-15, Mitch Eise ,Defender,Missouri
+ Tampa,Chargers Soccer Club,2017/08/04,U-15, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/08/04,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/08/04,U-15, Joseph Scally ,Defender,New York
+ Seattle,Seattle Sounders,2017/08/04,U-15, Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/08/04,U-15, Gilbert Fuentes ,Midfielder,California
+ Dallas,FC Dallas,2017/08/04,U-15, Cesar Garcia ,Midfielder,Texas
+ Panorama City,Real So Cal,2017/08/04,U-15, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2017/08/04,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting Kansas City,2017/08/04,U-15, Gianluca Busio ,Forward,North Carolina
+ Austin,Lonestar Soccer Club,2017/08/04,U-15, Julian Gaines ,Forward,Texas
+ Duluth,Atlanta United,2017/08/04,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2017/08/04,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,New York City FC,2017/08/04,U-15, Giovanni Reyna ,Forward,New York
+ Norridge,Chicago Fire,2017/04/25,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/04/25,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United,2017/04/25,U-15, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Real Colorado,2017/04/25,U-15, Sebastian Anderson ,Defender,Colorado
+ Douglasville,Atlanta United,2017/04/25,U-15, George Bello ,Defender,Georgia
+ Denver,Colorado Rapids,2017/04/25,U-15, Brandon Farmelo ,Defender,Colorado
+ Tampa,Chargers Soccer Club,2017/04/25,U-15, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/04/25,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,NYCFC,2017/04/25,U-15, Joseph Scally ,Defender,New York
+ Ocean,Philadelphia Union,2017/04/25,U-15, Julian Anderson ,Midfielder,New Jersey
+ Seattle,Seattle Sounders,2017/04/25,U-15,  Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/04/25,U-15, Gilbert Fuentes ,Midfielder,California
+ Panorama City,Real So Cal,2017/04/25,U-15, Adam Saldana ,Midfielder,California
+ Chester,NYRB,2017/04/25,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting KC,2017/04/25,U-15, Gianluca Busio ,Forward,North Carolina
+ Austin,Lonestar Soccer Club,2017/04/25,U-15, Julian Gaines ,Forward,Texas
+ Chino,FC Golden State,2017/04/25,U-15, Diego Lopez ,Forward,California
+ Duluth,Atlanta United,2017/04/25,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2017/04/25,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,NYCFC,2017/04/25,U-15, Giovanni Reyna ,Forward,New York
+ San Jose,De Anza Force,2018/01/12,U-15, Damian Alguera ,Goalkeeper,California
+ Frisco,FC Dallas,2018/01/12,U-15, Antonio Carrera ,Goalkeeper,Texas
+ St. Paul,Minnesota United FC,2018/01/12,U-15, Fred Emmings ,Goalkeeper,Minnesota
+ Addison,Chicago Fire,2018/01/12,U-15, Gabriel Slonina ,Goalkeeper,Illinois
+ Atlanta,Atlanta United FC,2018/01/12,U-15,: Bryan Casanova ,Defender,Georgia
+ Ridgewood,New York Red Bulls,2018/01/12,U-15, John Carlos Cortez ,Defender,New Jersey
+ Philadelphia,Philadelphia Union,2018/01/12,U-15, Brandan Craig ,Defender,Pennsylvania
+ South Gate,LA Galaxy,2018/01/12,U-15, Jason Cruz ,Defender,California
+ Dix Hills,New York City FC,2018/01/12,U-15, Cooper Flax ,Defender,New York
+ Torrance,Los Angeles Football Club,2018/01/12,U-15, Robert Kaemmerer ,Defender,California
+ New York,New York City FC,2018/01/12,U-15, Justin Kern ,Defender,New York
+ Ambler,Philadelphia Union,2018/01/12,U-15, Ryan Lau ,Defender,Pennsylvania
+ Long Beach,Los Angeles Football Club,2018/01/12,U-15, Antonio Leone ,Defender,California
+ Allen,FC Dallas,2018/01/12,U-15, George Medill ,Defender,Texas
+ Chicago,Chicago Fire,2018/01/12,U-15, Justin Reynolds ,Defender,Illinois
+ Issaquah,Pacific Northwest Soccer Club,2018/01/12,U-15, Takashi Sasaki ,Defender,Washington
+ San Antonio,San Antonio FC,2018/01/12,U-15, Leo Torres Hurtado ,Defender,Texas
+ Tukwila,Pacific Northwest Soccer Club,2018/01/12,U-15,: Juan Alvarez ,Midfielder,Washington
+ Stockton,Sacramento Republic FC,2018/01/12,U-15, Josemaria Barrera ,Midfielder,California
+ Eden,La Roca,2018/01/12,U-15, Zack Booth ,Midfielder,Utah
+ Parkville,Sporting Kansas City,2018/01/12,U-15, Osvaldo Cisneros ,Midfielder,Missouri
+ Little Elm,FC Dallas,2018/01/12,U-15, Cesar Elizalde ,Midfielder,Texas
+ Lincroft,Players Development Academy,2018/01/12,U-15, Kenan Hot ,Midfielder,New Jersey
+ Escondido,San Diego Surf,2018/01/12,U-15, Rey Millan ,Midfielder,California
+ San Antonio,San Antonio FC,2018/01/12,U-15, Rocky Perez ,Midfielder,Texas
+ Porter Ranch,Los Angeles Football Club,2018/01/12,U-15, Dylan Presto ,Midfielder,California
+ Stillwater,Oklahoma Energy FC,2018/01/12,U-15, Rokus Pukstas ,Midfielder,Okla.
+ La Mesa,San Diego Surf,2018/01/12,U-15, Evan Rotundo ,Midfielder,California
+ Issaquah,Pacific Northwest Soccer Club,2018/01/12,U-15, Ben Burns ,Forward,Washington
+ Oklahoma City,Oklahoma Energy FC,2018/01/12,U-15, Daniel Gutierrez-Jaime ,Forward,Okla.
+ Rancho Cordova,Sacramento Republic FC,2018/01/12,U-15, Rafael Jauregui ,Forward,California
+ Moreno Valley,Los Angeles Football Club,2018/01/12,U-15, Kevin Jimenez ,Forward,California
+ Fourqueux,Paris Saint-Germain,2018/01/12,U-15, Kevin Kelley ,Forward,France
+ Gaithersburg,CE Sabadell SC,2018/01/12,U-15, Ian Marcano ,Forward,Maryland
+ Redmond,Crossfire Oregon,2018/01/12,U-15, Korede Osundine ,Forward,Washington
+ Federal Way,Seattle Sounders FC,2018/01/12,U-15, Oscar Rincon-Rodriguez ,Forward,Washington
+ San Jose,De Anza Force,2018/03/02,U-15, Damian Alguera ,Goalkeeper,California
+ Upper Montclair,Cedar Stars Academy - Bergen,2018/03/02,U-15, Josh Nadison ,Goalkeeper,New Jersey
+ Indian Head,D.C. United,2018/03/02,U-15, Mikah Seger ,Goalkeeper,Maryland
+ Addison,Chicago Fire,2018/03/02,U-15, Gabriel Slonina ,Goalkeeper,Illinois
+ Pembroke Pines,Weston FC,2018/03/02,U-15,: Noah Allen ,Defender,Florida
+Washington,D.C. United,2018/03/02,U-15, Avery Miles ,Defender,D.C.
+ Ridgewood,New York Red Bulls,2018/03/02,U-15, John Carlos Cortez ,Defender,New Jersey
+ Philadelphia,Philadelphia Union,2018/03/02,U-15, Brandan Craig ,Defender,Pennsylvania
+ Dix Hills,New York City FC,2018/03/02,U-15, Cooper Flax ,Defender,New York
+ Long Beach,Los Angeles Football Club,2018/03/02,U-15, Antonio Leone ,Defender,California
+ Glen Ellyn,Sockers FC,2018/03/02,U-15, Ryan Quintos ,Defender,Illinois
+ Chicago,Chicago Fire,2018/03/02,U-15, Justin Reynolds ,Defender,Illinois
+ Akron,Internationals Soccer Club,2018/03/02,U-15, Levi Stephens ,Defender,Ohio
+ Barcelona,UE Cornella/ESP,2018/03/02,U-15, Devan Tanton ,Defender,Spain
+ Redondo Beach,Los Angeles Football Club,2018/03/02,U-15, Beau Yantz ,Defender,California
+ Tukwila,Seattle Sounders FC,2018/03/02,U-15,: Juan Alvarez ,Midfielder,Washington
+ Eden,La Roca,2018/03/02,U-15, Zack Booth ,Midfielder,Utah
+ Aurora,Sockers FC,2018/03/02,U-15, Wyatt Borso ,Midfielder,Illinois
+ Little Elm,FC Dallas,2018/03/02,U-15, Cesar Elizalde ,Midfielder,Texas
+ Lincroft,Players Development Academy,2018/03/02,U-15, Kenan Hot ,Midfielder,New Jersey
+ Smyrna,Atlanta United FC,2018/03/02,U-15, Samuel Kolby ,Midfielder,Georgia
+ Apex,North Carolina FC,2018/03/02,U-15, Brendan Lambe ,Midfielder,North Carolina
+ Guadalajara,Toluca/MEX,2018/03/02,U-15, Nicolas Perez Guillen ,Midfielder,Mexico
+ Porter Ranch,Los Angeles Football Club,2018/03/02,U-15, Dylan Presto ,Midfielder,California
+ Stillwater,Oklahoma City Energy FC,2018/03/02,U-15, Rokus Pukstas ,Midfielder,Okla.
+ Elkhart,Indiana Fire Academy,2018/03/02,U-15, Allen Rodriguez ,Midfielder,Ind.
+ La Mesa,San Diego Surf,2018/03/02,U-15, Evan Rotundo ,Midfielder,California
+ Seattle,Seattle Sounders FC,2018/03/02,U-15, Austin Brummett ,Forward,Washington
+ Issaquah,Pacific Northwest Soccer Club,2018/03/02,U-15, Ben Burns ,Forward,Washington
+ Parkville,Sporting Kansas City,2018/03/02,U-15, Osvaldo Cisneros ,Forward,Missouri
+ Oklahoma City,Oklahoma City Energy FC,2018/03/02,U-15, Daniel Gutierrez-Jaime ,Forward,Okla.
+ Rancho Cordova,Sacramento Republic FC,2018/03/02,U-15, Rafael Jauregui ,Forward,California
+ Raleigh,North Carolina FC,2018/03/02,U-15, Marvin Mariche Prudente ,Forward,North Carolina
+ Redmond,Crossfire Premier,2018/03/02,U-15, Korede Osundina ,Forward,Washington
+ Miami,Weston FC,2018/03/02,U-15, Aran Perez ,Forward,Florida
+Corona,FC Golden State,2018/03/02,U-15, Favian Vazquez ,Forward,California
+ Norridge,Chicago Fire,2017/01/09,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/01/09,U-15, Kash Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United,2017/01/09,U-15, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Real Colorado,2017/01/09,U-15, Sebastian Anderson ,Defender,Colorado
+ Douglasville,Atlanta United,2017/01/09,U-15, George Bello ,Defender,Georgia
+ Saint Johns,Armada FC,2017/01/09,U-15, Owen Guske ,Defender,Florida
+ Tampa,Chargers SC,2017/01/09,U-15, Mason Judge ,Defender,Florida
+ Clifton,Cedar Stars Bergen,2017/01/09,U-15, Joshua Negrete ,Defender,New Jersey
+ Irvine,Pateadores,2017/01/09,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,NYCFC,2017/01/09,U-15, Joseph Scally ,Defender,New York
+Washington,D.C. United,2017/01/09,U-15, Nick Andersen ,Midfielder,D.C.
+ Ocean,Philadelphia Union,2017/01/09,U-15, Julian Anderson ,Midfielder,New Jersey
+ Seattle,Seattle Sounders FC,2017/01/09,U-15, Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/01/09,U-15, Gilbert Fuentes Perez ,Midfielder,California
+ Burien,Seattle Sounders FC,2017/01/09,U-15, Daniel Robles ,Midfielder,Washington
+ Panorama City,Real So Cal,2017/01/09,U-15, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2017/01/09,U-15, Peter Stroud ,Midfielder,New Jersey
+Greensboro,Sporting KC,2017/01/09,U-15, Gianluca Busio ,Forward,North Carolina
+ Santa Monica,LA Galaxy,2017/01/09,U-15, Victor Cano ,Forward,California
+ Austin,Lonestar SC,2017/01/09,U-15, Julian Gaines ,Forward,Texas
+ Greenwich,NYCFC,2017/01/09,U-15, Andres Jasson ,Forward,Connecticut
+ Duluth,Atlanta United,2017/01/09,U-15, Daniel Mangarov ,Forward,Georgia
+ Graham,Seattle Sounders FC,2017/01/09,U-15, Alfonso Ocampo Chavez ,Forward,Washington
+ Bedord,NYCFC,2017/01/09,U-15, Giovanni Reyna ,Forward,New York
+ Chino Hills,LA Galaxy,2016/11/07,U-15, Aaron Cervantes ,Goalkeeper,California
+ Norridge,Chicago Fire,2016/11/07,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2016/11/07,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Anchorage,Cook Inlet Soccer Club,2016/11/07,U-15, Jakob Stone ,Goalkeeper,Alaska
+ Chicago,FC United,2016/11/07,U-15,: Axel Alejandre ,Defender,Illinois
+ Kearny,Cedar Stars Bergen,2016/11/07,U-15, Anthony Alvites ,Defender,New Jersey
+ Highlands Ranch,Real Colorado,2016/11/07,U-15, Sebastian Anderson ,Defender,Colorado
+ Olney,Bethesda Olney,2016/11/07,U-15, Noah Atanda ,Defender,Maryland
+ Douglasville,Atlanta United FC,2016/11/07,U-15, George Bello ,Defender,Georgia
+ Los Gatos,Santa Cruz Breakers,2016/11/07,U-15, Nicholas Douglas ,Defender,California
+ Tampa,Tampa Bay United,2016/11/07,U-15, Mason Judge ,Defender,Florida
+ Royal Palm Beach,Boca United,2016/11/07,U-15, Rayvon McGann ,Defender,Florida
+ Bergen,Cedar Stars Bergen,2016/11/07,U-15, Joshua Negrete ,Defender,New Jersey
+ Irvine,Pateadores,2016/11/07,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,NYC FC,2016/11/07,U-15, Joseph Scally ,Defender,New York
+ Lake Forest,Pateadores,2016/11/07,U-15, Skyler Smith ,Defender,California
+ Washington,D.C. United,2016/11/07,U-15,: Nick Andersen ,Midfielder,D.C.
+ Seattle,Seattle Sounders,2016/11/07,U-15, Josh Atencio ,Midfielder,Washington
+ Detroit,Vardar,2016/11/07,U-15, Gavin Brose ,Midfielder,Michigan
+ Dallas,FC Dallas,2016/11/07,U-15, James Dunning ,Midfielder,Texas
+ Tracy,San Jose Earthquakes,2016/11/07,U-15, Gilbert Fuentes ,Midfielder,California
+ Georgetown,Lonestar Soccer Club,2016/11/07,U-15, Kaya Ignacio ,Midfielder,Texas
+ Austin,Lonestar Soccer Club,2016/11/07,U-15, Jorge Lopez ,Midfielder,Texas
+ Greenwich,NYC FC,2016/11/07,U-15, Harrison Robledo ,Midfielder,Connecticut
+ Burien,Seattle Sounders,2016/11/07,U-15, Daniel Robles ,Midfielder,Washington
+ Chester,NY Red Bulls,2016/11/07,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting KC,2016/11/07,U-15,: Gianluca Busio ,Forward,North Carolina
+ Santa Monica,LA Galaxy,2016/11/07,U-15, Victor Cano ,Forward,California
+ Dallas,Solar Chelsea SC,2016/11/07,U-15, Jackson Castro ,Forward,Texas
+ Wayne,Philadelphia Union,2016/11/07,U-15, Jack De Vries ,Forward,Pennsylvania
+ Austin,Lonestar Soccer Club,2016/11/07,U-15, Julian Gaines ,Forward,Texas
+ San Jose,De Anza Force,2016/11/07,U-15, Jack Imperato ,Forward,California
+ Greenwich,NYC FC,2016/11/07,U-15, Andres Jasson ,Forward,Connecticut
+ Duluth,Georgia United,2016/11/07,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2016/11/07,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,NYC FC,2016/11/07,U-15, Giovanni Reyna ,Forward,New York
+ Norridge,Chicago Magic,2016/04/01,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2016/04/01,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,Chicago Fire North,2016/04/01,U-15, Axel Alejandre ,Defender,Illinois
+ Olney,Bethesda Olney,2016/04/01,U-15, Noah Atanda ,Defender,Maryland
+ Douglasville,Ambush,2016/04/01,U-15, George Bello ,Defender,Georgia
+ Houston,Houston Dynamo,2016/04/01,U-15, James Crath ,Defender,Texas
+ San Francisco,Ballistic United,2016/04/01,U-15, Max Goeggel ,Defender,California
+ Cary,CASL,2016/04/01,U-15, Jake O'Connor ,Defender,North Carolina
+ Chester,New York Red Bulls,2016/04/01,U-15, Peter Stroud ,Defender,New Jersey
+ Bluffton,Storm,2016/04/01,U-15, Juan Zuniga ,Defender,South Carolina
+ Los Angeles,LA Galaxy,2016/04/01,U-15, Efrain Alvarez ,Midfielder,California
+ Greensboro,North Carolina Fusion,2016/04/01,U-15, Gianluca Busio ,Midfielder,North Carolina
+ Tracy,Ballistic United,2016/04/01,U-15, Gilbert Fuentes ,Midfielder,California
+ Naperville,LA Galaxy,2016/04/01,U-15, Cade Hagan ,Midfielder,Illinois
+ San Jose,De Anza Force,2016/04/01,U-15, Jack Imperato ,Midfielder,California
+ Oxford,Oakwood,2016/04/01,U-15, Mikey Maunsell ,Midfielder,Connecticut
+ Bakersfield,Central CA Aztecs,2016/04/01,U-15, Marco Ceja ,Forward,California
+ Austin,Lonestar Soccer Club,2016/04/01,U-15, Julian Gaines ,Forward,Texas
+ Waianae,Maui United,2016/04/01,U-15, Kanoa Kelii ,Forward,Hawaii
+ Bedford,NYCFC,2016/04/01,U-15, Giovanni Reyna ,Forward,New York
+ Chino Hills,Pateadores,2018/06/01,U-17, Aaron Cervantes ,Goalkeeper,California
+ Chicago,Chicago Fire,2018/06/01,U-17, Damian Las ,Goalkeeper,Illinois
+ Calgary,Vancouver Whitecaps FC,2018/06/01,U-17, *Chituru Odunze ,Goalkeeper,Canada
+ Cambridge,FC Greater Boston Bolts,2018/06/01,U-17, Marzuq Puckerin ,Goalkeeper,Massachusetts
+ Surrey,Chelsea FC,2018/06/01,U-17, *Ethan Wady ,Goalkeeper,United Kingdom
+ Chicago,FC United,2018/06/01,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/06/01,U-17, Michael Barragan ,Defender,Mexico
+ Stockton,Sacramento Republic FC,2018/06/01,U-17, *Erik Centeno ,Defender,California
+ Elmont,New York Red Bulls,2018/06/01,U-17, Amir Daley ,Defender,New York
+ Bronx,New York City FC,2018/06/01,U-17, Tayvon Gray ,Defender,New York
+ Saint Johns,Portland Timbers,2018/06/01,U-17, Owen Guske ,Defender,Florida
+ Los Angeles,LA Galaxy,2018/06/01,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/06/01,U-17, Mason Judge ,Defender,Florida
+ Chatham,New York Red Bulls,2018/06/01,U-17, John Tolkin ,Defender,New Jersey
+ Norcross,United Futbol Academy,2018/06/01,U-17, *Simon Carlson ,Midfielder,Georgia
+ Half Moon Bay,Shattuck- Saint Mary's,2018/06/01,U-17, Luis Flores ,Midfielder,California
+ Tracy,San Jose Earthquakes,2018/06/01,U-17, Gilbert Fuentes ,Midfielder,California
+ San Jose,De Anza Force,2018/06/01,U-17, Jack Imperato ,Midfielder,California
+ Greenwich,New York City FC,2018/06/01,U-17, *Harrison Robledo ,Midfielder,Connecticut
+ Panorama City,Real So Cal,2018/06/01,U-17, Adam Saldana ,Midfielder,California
+ Graham,Seattle Sounders FC,2018/06/01,U-17, Ray Serrano ,Midfielder,Washington
+ Chester,New York Red Bulls,2018/06/01,U-17, Peter Stroud ,Midfielder,New Jersey
+ Greenwich,New York City FC,2018/06/01,U-17, Andres Jasson ,Forward,Connecticut
+ Chino,Atlanta United FC,2018/06/01,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2018/06/01,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Amsterdam,AFC Ajax,2018/06/01,U-17, Joshua Pynadath ,Forward,Netherlands
+ Carrollton,FC Dallas,2018/06/01,U-17, Benjamin Redzic ,Forward,Texas
+ Irving,FC Dallas,2018/06/01,U-17, *David Rodriguez ,Forward,Texas
+ Clifton,DC United,2018/06/01,U-17, *Griffin Yow ,Forward,New Jersey
+ Norridge,Chicago Fire,2017/04/25,U-15, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/04/25,U-15, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United,2017/04/25,U-15, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Real Colorado,2017/04/25,U-15, Sebastian Anderson ,Defender,Colorado
+ Stockton,Sac Republic,2017/04/25,U-15, Erik Centeno ,Defender,California
+ Denver,Colorado Rapids,2017/04/25,U-15, Brandon Farmelo ,Defender,Colorado
+ Saint John's,Armada FC,2017/04/25,U-15, Owen Guske ,Defender,Florida
+ Tampa,Chargers Soccer Club,2017/04/25,U-15, Mason Judge ,Defender,Florida
+ Bergen,Cedar Stars Bergen,2017/04/25,U-15, Joshua Negrete ,Defender,New Jersey
+ Irvine,Pateadores,2017/04/25,U-15, Kenny Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/04/25,U-15, Joseph Scally ,Defender,New York
+ Palmetto,Chargers Soccer Club,2017/04/25,U-15, Landon Ameres ,Midfielder,Florida
+ Ocean,Philadelphia Union,2017/04/25,U-15, Julian Anderson ,Midfielder,New Jersey
+ Seattle,Seattle Sounders,2017/04/25,U-15,  Josh Atencio ,Midfielder,Washington
+ Tracy,San Jose Earthquakes,2017/04/25,U-15, Gilbert Fuentes ,Midfielder,California
+ Burien,Seattle Sounders,2017/04/25,U-15, Daniel Robles ,Midfielder,Washington
+ Panorama City,Real So Cal,2017/04/25,U-15, Adam Saldana ,Midfielder,California
+ Chester,NYRB,2017/04/25,U-15, Peter Stroud ,Midfielder,New Jersey
+ Greensboro,Sporting KC,2017/04/25,U-15, Gianluca Busio ,Forward,North Carolina
+ Santa Monica,LA Galaxy,2017/04/25,U-15, Victor Cano ,Forward,California
+ Austin,Lonestar Soccer Club,2017/04/25,U-15, Julian Gaines ,Forward,Texas
+ Duluth,Atlanta United,2017/04/25,U-15, Daniel Mangarov ,Forward,Georgia
+ Fresno,Seattle Sounders,2017/04/25,U-15, Alfonso Ocampo Chavez ,Forward,California
+ Bedford,New York City FC,2017/04/25,U-15, Giovanni Reyna ,Forward,New York
+ Brownsville,RGV Toros,2018/03/12,U-16, Isaac Acevedo ,Goalkeeper,Texas
+ Fair Oaks,Sacramento Republic,2018/03/12,U-16, Gavin Krenecki ,Goalkeeper,California
+ Cumming,Atlanta United FC,2018/03/12,U-16, Vincente Reyes ,Goalkeeper,Georgia
+ Los Angeles,LA Galaxy,2018/03/12,U-16,: Adrian Aguilar ,Defender,California
+ Phoenix,Barca Academy,2018/03/12,U-16, Edwin Arias ,Defender,Arizona
+ Aurora,Internationals Soccer Academy,2018/03/12,U-16, Max Brown ,Defender,Ohio
+ San Jose,San Jose Earthquakes,2018/03/12,U-16, Israel Carrillo ,Defender,California
+ Los Angeles,LA Galaxy,2018/03/12,U-16, Mauricio Cuevas ,Defender,California
+ Phoenix,Sereno Soccer Club,2018/03/12,U-16, Abedi Godefroid ,Defender,Arizona
+ Cincinnati,Columbus Crew SC,2018/03/12,U-16, Noah Hall ,Defender,Ohio
+ Frisco,FC Dallas,2018/03/12,U-16, Kyle Jordan ,Defender,Texas
+ Las Condes,Club Deportivo Universidad Católica,2018/03/12,U-16, Dylan Kelemen ,Defender,Chile
+ Tacoma,Seattle Sounders FC,2018/03/12,U-16, Eric Kinzner ,Defender,Washington
+ San Diego,Albion SC,2018/03/12,U-16, Victor Salazar ,Defender,California
+ Ann Arbor,Crew SC Academy,2018/03/12,U-16, Anton Sorenson ,Defender,Michigan
+ Montgomery,Atlanta United FC,2018/03/12,U-16, Kobey Stoup ,Defender,Alabama
+ Mill Valley,San Jose Earthquakes,2018/03/12,U-16, Casey Walls ,Defender,California
+ Addison,Chicago Fire,2018/03/12,U-16,: Javier Casas Jr. ,Midfielder,Illinois
+ Blacklick,Columbus Crew SC,2018/03/12,U-16, Elton Chifamba ,Midfielder,Ohio
+ Leeds,Sheffield Wednesday Football Club,2018/03/12,U-16, Chitua Hani-Okoroafor ,Midfielder,England
+ Edmonds,Seattle Sounders,2018/03/12,U-16, Sota Kitahara ,Midfielder,Washington
+ Seattle,Seattle Sounders FC,2018/03/12,U-16, Daniel Leyva ,Midfielder,Washington
+ Sunnyvale,San Jose Earthquakes,2018/03/12,U-16, Diego Luna ,Midfielder,California
+ Middle Village,BW Gottschee,2018/03/12,U-16, Jack McGlynn ,Midfielder,New York
+ Naperville,Chicago Fire,2018/03/12,U-16, Alex Monis ,Midfielder,Illinois
+ El Paso,FC Dallas,2018/03/12,U-16, Edwin Villarreal ,Midfielder,Texas
+ Compton,CDA Slammers FC,2018/03/12,U-16, Eduardo Villeda ,Midfielder,California
+ Philadelphia,Philadelphia Union,2018/03/12,U-16, Patrick Bohui ,Forward,Pennsylvania
+Duluth,Atlanta United FC,2018/03/12,U-16, Joseph Collins ,Forward,Georgia
+ Wiltshire,Southhampton FC,2018/03/12,U-16, Vaughn Covil ,Forward,England
+ Shawnee,Sporting KC,2018/03/12,U-16, Tyler Freeman ,Forward,Kansas
+ Madison,Vestavia Hills Soccer Club,2018/03/12,U-16, Tega Ikoba ,Forward,Illinois
+ Royersford,Philadelphia Union,2018/03/12,U-16, Selmir Miscic ,Forward,Pennsylvania
+ Frisco,FC Dallas,2018/03/12,U-16, Dante Sealy ,Forward,Texas
+ Trenton,PDA,2018/03/12,U-16, Dantouma Toure ,Forward,New Jersey
+ Rocklin,Sacramento Republic,2018/03/12,U-16, Dominic Vegaalban ,Forward,California
+ Southwest Ranches,Everton FC,2017/04/10,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Oxnard,Real Salt Lake,2017/04/10,U-16, David Ochoa ,Goalkeeper,California
+ Lompoc,Santa Barbara SC,2017/04/10,U-16, Julian Araujo ,Defender,California
+ Riverside,FC Golden State,2017/04/10,U-16, Abraham Gonzalez ,Defender,California
+ Wilton,Karlsruher SC,2017/04/10,U-16, Ian Hoffmann ,Defender,Connecticut
+ Montebello,IMG Academy,2017/04/10,U-16, Kevin Peraza ,Defender,California
+ Panorama City,FC Golden State,2017/04/10,U-16, Victor Rangel ,Defender,California
+ Livermore,San Jose Earthquakes,2017/04/10,U-16, Mario Anaya ,Midfielder,California
+ Chula Vista,San Diego Surf,2017/04/10,U-16, Armando Haro ,Midfielder,California
+ Woodbridge,DC United,2017/04/10,U-16, Nelson Martinez ,Midfielder,Virginia
+ Frisco,FC Dallas,2017/03/10,U-16, Michael Collodi ,Goalkeeper,Texas
+ Pittsburgh,Pittsburgh Riverhounds,2017/03/10,U-16, Dane Jacomen ,Goalkeeper,Pennsylvania
+ Lompoc,Santa Barbara SC,2017/03/10,U-16,: Julian Araujo ,Defender,California
+ Wilton,New York City FC,2017/03/10,U-16, Nico Benalcazar ,Defender,Connecticut
+ Salida,Sacramento Republic FC,2017/03/10,U-16, Edward Berumen ,Defender,California
+ Napa,Real Salt Lake,2017/03/10,U-16, Eduardo Blancas ,Defender,California
+ Brooklyn,New York City FC,2017/03/10,U-16, Justin Haak ,Defender,New York
+ Long Beach,LA Galaxy,2017/03/10,U-16, John Hilton ,Defender,California
+ Huntington Station,New York City FC,2017/03/10,U-16, Alexsi Morel ,Defender,New York
+ Highlands Ranch,Colorado Rapids,2017/03/10,U-16, Eben Noverr ,Defender,Colorado
+ Folsom,Sacramento Republic FC,2017/03/10,U-16, Cole Rovegno ,Defender,California
+ McKinney,FC Dallas,2017/03/10,U-16, Nathan Toledo ,Defender,Texas
+ Indio,IMG Academy,2017/03/10,U-16, Oscar Cervantes ,Midfielder,California
+ Olathe,Sporting KC,2017/03/10,U-16, Cameron Duke ,Midfielder,Kansas
+ Woodbridge,DC United,2017/03/10,U-16, Nelson Martinez ,Midfielder,Virginia
+ Buenos Aires,A.A. Argentinos Juniors,2017/03/10,U-16, Matko Milijevic ,Midfielder,Argentina
+ Houston,Houston Dynamo,2017/03/10,U-16, Marcelo Palomino ,Midfielder,Texas
+ Frisco,FC Dallas,2017/03/10,U-16, Thomas Roberts ,Midfielder,Texas
+ Santa Rosa,Real Salt Lake,2017/03/10,U-16, Luis Arriaga ,Forward,California
+ Lake Mary,Orlando City SC,2017/03/10,U-16, Jordan Bender ,Forward,Florida
+ Renton,Seattle Sounders FC,2017/03/10,U-16, Azriel Gonzalez ,Forward,Washington
+ Orem,Real Salt Lake,2017/03/10,U-16, Ben Ortiz ,Forward,Utah
+ Bethesa,Bethesda SC,2017/03/10,U-16, Gabe Segal ,Forward,Maryland
+ Millburn,New York Red Bulls,2017/03/10,U-16, Scotty Taylor ,Forward,New Jersey
+ San Jose,De Anza Force,2018/03/02,U-15, Damian Alguera ,Goalkeeper,California
+ Upper Montclair,Cedar Stars Academy - Bergen,2018/03/02,U-15, Josh Nadison ,Goalkeeper,New Jersey
+ Indian Head,D.C. United,2018/03/02,U-15, Mikah Seger ,Goalkeeper,Maryland
+ Addison,Chicago Fire,2018/03/02,U-15, Gabriel Slonina ,Goalkeeper,Illinois
+ Pembroke Pines,Weston FC,2018/03/02,U-15,: Noah Allen ,Defender,Florida
+Washington,D.C. United,2018/03/02,U-15, Avery Miles ,Defender,D.C.
+ Ridgewood,New York Red Bulls,2018/03/02,U-15, John Carlos Cortez ,Defender,New Jersey
+ Philadelphia,Philadelphia Union,2018/03/02,U-15, Brandan Craig ,Defender,Pennsylvania
+ Dix Hills,New York City FC,2018/03/02,U-15, Cooper Flax ,Defender,New York
+ Long Beach,Los Angeles Football Club,2018/03/02,U-15, Antonio Leone ,Defender,California
+ Glen Ellyn,Sockers FC,2018/03/02,U-15, Ryan Quintos ,Defender,Illinois
+ Chicago,Chicago Fire,2018/03/02,U-15, Justin Reynolds ,Defender,Illinois
+ Akron,Internationals Soccer Club,2018/03/02,U-15, Levi Stephens ,Defender,Ohio
+ Barcelona,UE Cornella/ESP,2018/03/02,U-15, Devan Tanton ,Defender,Spain
+ Redondo Beach,Los Angeles Football Club,2018/03/02,U-15, Beau Yantz ,Defender,California
+ Tukwila,Seattle Sounders FC,2018/03/02,U-15,: Juan Alvarez ,Midfielder,Washington
+ Eden,La Roca,2018/03/02,U-15, Zack Booth ,Midfielder,Utah
+ Aurora,Sockers FC,2018/03/02,U-15, Wyatt Borso ,Midfielder,Illinois
+ Little Elm,FC Dallas,2018/03/02,U-15, Cesar Elizalde ,Midfielder,Texas
+ Lincroft,Players Development Academy,2018/03/02,U-15, Kenan Hot ,Midfielder,New Jersey
+ Smyrna,Atlanta United FC,2018/03/02,U-15, Samuel Kolby ,Midfielder,Georgia
+ Apex,North Carolina FC,2018/03/02,U-15, Brendan Lambe ,Midfielder,North Carolina
+ Guadalajara,Toluca/MEX,2018/03/02,U-15, Nicolas Perez Guillen ,Midfielder,Mexico
+ Porter Ranch,Los Angeles Football Club,2018/03/02,U-15, Dylan Presto ,Midfielder,California
+ Stillwater,Oklahoma City Energy FC,2018/03/02,U-15, Rokus Pukstas ,Midfielder,Okla.
+ Elkhart,Indiana Fire Academy,2018/03/02,U-15, Allen Rodriguez ,Midfielder,Ind.
+ La Mesa,San Diego Surf,2018/03/02,U-15, Evan Rotundo ,Midfielder,California
+ Seattle,Seattle Sounders FC,2018/03/02,U-15, Austin Brummett ,Forward,Washington
+ Issaquah,Pacific Northwest Soccer Club,2018/03/02,U-15, Ben Burns ,Forward,Washington
+ Parkville,Sporting Kansas City,2018/03/02,U-15, Osvaldo Cisneros ,Forward,Missouri
+ Oklahoma City,Oklahoma City Energy FC,2018/03/02,U-15, Daniel Gutierrez-Jaime ,Forward,Okla.
+ Rancho Cordova,Sacramento Republic FC,2018/03/02,U-15, Rafael Jauregui ,Forward,California
+ Raleigh,North Carolina FC,2018/03/02,U-15, Marvin Mariche Prudente ,Forward,North Carolina
+ Redmond,Crossfire Premier,2018/03/02,U-15, Korede Osundina ,Forward,Washington
+ Miami,Weston FC,2018/03/02,U-15, Aran Perez ,Forward,Florida
+Corona,FC Golden State,2018/03/02,U-15, Favian Vazquez ,Forward,California
+ Southwest Ranches,Weston FC,2017/02/03,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Casa Grande,Real Salt Lake AZ,2017/02/03,U-16, David Ochoa ,Goalkeeper,Arizona
+ Lompoc,Santa Barbara SC,2017/02/03,U-16, Julian Araujo ,Defender,California
+ Douglasville,Atlanta United FC,2017/02/03,U-16, George Bello ,Defender,Georgia
+ Long Beach,LA Galaxy,2017/02/03,U-16, John Hilton ,Defender,California
+ Corona,LA Galaxy,2017/02/03,U-16, Leonardo Sepulveda ,Defender,California
+ McKinney,FC Dallas,2017/02/03,U-16, Nathan Toledo ,Defender,Texas
+ Alexandria,D.C. United,2017/02/03,U-16, Everson Amaya Mejia ,Midfielder,Virginia
+ Livermore,San Jose Earthquakes,2017/02/03,U-16, Mario Anaya ,Midfielder,California
+ Lake Mary,Orlando City SC,2017/02/03,U-16, Jordan Bender ,Midfielder,Florida
+ Eden,Real Salt Lake AZ,2017/02/03,U-16, Taylor Booth ,Midfielder,Utah
+ Olathe,Sporting KC,2017/02/03,U-16, Cameron Duke ,Midfielder,Kansas
+ Woodbridge,DC United,2017/02/03,U-16, Nelson Martinez Rivera ,Midfielder,Virginia
+ Buenos Aires,A.A. Argentinos Juniors,2017/02/03,U-16, Matko Miljevic ,Midfielder,Argentina
+ Houston,Houston Dynamo,2017/02/03,U-16, Marcelo Palomino ,Midfielder,Texas
+Savannah,IMG Academy,2017/02/03,U-16, Indiana Vassilev ,Midfielder,Georgia
+ Coconut Creek,Clube de Regatas do Flamengo,2017/02/03,U-16, Nicholas Mendonca ,Forward,Florida
+ Orem,La Roca FC,2017/02/03,U-16, Benjamin Ortiz ,Forward,Utah
+ Little Elm,FC Dallas,2017/02/03,U-16, Bryan Reynolds ,Forward,Texas
+ Bethesda,Bethesda-Olney,2017/02/03,U-16, Gabriel Segal ,Forward,Maryland
+ Weston,Weston FC,2017/02/03,U-16, Jose Rivas ,Forward,Florida
+ Southwest Ranches,Weston FC,2016/12/14,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Casa Grande,Real Salt Lake AZ,2016/12/14,U-16, David Ochoa ,Goalkeeper,Arizona
+ Lompoc,Santa Barbara Soccer Club,2016/12/14,U-16, Julian Araujo ,Defender,California
+ Douglasville,Atlanta United FC,2016/12/14,U-16, George Bello ,Defender,Georgia
+ Wilton,NYCFC,2016/12/14,U-16, Nico Benalcazar ,Defender,Connecticut
+ Salida,Sacramento Republic FC,2016/12/14,U-16, Edward Berumen ,Defender,California
+ Long Beach,LA Galaxy,2016/12/14,U-16, John Hilton ,Defender,California
+ Corona,LA Galaxy,2016/12/14,U-16, Leonardo Sepulveda ,Defender,California
+ Westerville,Crew SC Academy,2016/12/14,U-16, Sebastian Berhalter ,Midfielder,Ohio
+ Eden,Real Salt Lake AZ,2016/12/14,U-16, Taylor Booth ,Midfielder,Utah
+ Indio,LA Premier FC,2016/12/14,U-16, Oscar Cervantes ,Midfielder,California
+ Brooklyn,NYCFC,2016/12/14,U-16, Justin Haak ,Midfielder,New York
+ Woodbridge,DC United,2016/12/14,U-16, Nelson Martinez ,Midfielder,Virginia
+ Olathe,Sporting Kansas City,2016/12/14,U-16, Jonathan Munoz ,Midfielder,Kansas
+ Houston,Houston Dynamo,2016/12/14,U-16, Marcelo Palomino ,Midfielder,Texas
+ Savannah,IMG Academy,2016/12/14,U-16, Indiana Vassilev ,Midfielder,Georgia
+ Alexandria,D.C. United,2016/12/14,U-16, Everson Amaya ,Forward,Virginia
+ Renton,Seattle Sounders FC,2016/12/14,U-16, Azriel Gonzalez ,Forward,Washington
+ Newport Beach,Pateadores,2016/12/14,U-16, Cameron Harper ,Forward,California
+ Orem,La Roca,2016/12/14,U-16, Ben Ortiz ,Forward,Utah
+ Round Rock,Philadelphia Union,2016/12/14,U-16, Axel Picazo ,Forward,Texas
+ Little Elm,FC Dallas,2016/12/14,U-16, Bryan Reynolds ,Forward,Texas
+ Bethesda,Bethesda SC,2016/12/14,U-16, Gabe Segal ,Forward,Maryland
+ Chino Hills,Pateadores,2018/06/01,U-17, Aaron Cervantes ,Goalkeeper,California
+ Chicago,Chicago Fire,2018/06/01,U-17, Damian Las ,Goalkeeper,Illinois
+ Calgary,Vancouver Whitecaps FC,2018/06/01,U-17, *Chituru Odunze ,Goalkeeper,Canada
+ Cambridge,FC Greater Boston Bolts,2018/06/01,U-17, Marzuq Puckerin ,Goalkeeper,Massachusetts
+ Surrey,Chelsea FC,2018/06/01,U-17, *Ethan Wady ,Goalkeeper,United Kingdom
+ Chicago,FC United,2018/06/01,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/06/01,U-17, Michael Barragan ,Defender,Mexico
+ Stockton,Sacramento Republic FC,2018/06/01,U-17, *Erik Centeno ,Defender,California
+ Elmont,New York Red Bulls,2018/06/01,U-17, Amir Daley ,Defender,New York
+ Bronx,New York City FC,2018/06/01,U-17, Tayvon Gray ,Defender,New York
+ Saint Johns,Portland Timbers,2018/06/01,U-17, Owen Guske ,Defender,Florida
+ Los Angeles,LA Galaxy,2018/06/01,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/06/01,U-17, Mason Judge ,Defender,Florida
+ Chatham,New York Red Bulls,2018/06/01,U-17, John Tolkin ,Defender,New Jersey
+ Norcross,United Futbol Academy,2018/06/01,U-17, *Simon Carlson ,Midfielder,Georgia
+ Half Moon Bay,Shattuck- Saint Mary's,2018/06/01,U-17, Luis Flores ,Midfielder,California
+ Tracy,San Jose Earthquakes,2018/06/01,U-17, Gilbert Fuentes ,Midfielder,California
+ San Jose,De Anza Force,2018/06/01,U-17, Jack Imperato ,Midfielder,California
+ Greenwich,New York City FC,2018/06/01,U-17, *Harrison Robledo ,Midfielder,Connecticut
+ Panorama City,Real So Cal,2018/06/01,U-17, Adam Saldana ,Midfielder,California
+ Graham,Seattle Sounders FC,2018/06/01,U-17, Ray Serrano ,Midfielder,Washington
+ Chester,New York Red Bulls,2018/06/01,U-17, Peter Stroud ,Midfielder,New Jersey
+ Greenwich,New York City FC,2018/06/01,U-17, Andres Jasson ,Forward,Connecticut
+ Chino,Atlanta United FC,2018/06/01,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2018/06/01,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Amsterdam,AFC Ajax,2018/06/01,U-17, Joshua Pynadath ,Forward,Netherlands
+ Carrollton,FC Dallas,2018/06/01,U-17, Benjamin Redzic ,Forward,Texas
+ Irving,FC Dallas,2018/06/01,U-17, *David Rodriguez ,Forward,Texas
+ Clifton,DC United,2018/06/01,U-17, *Griffin Yow ,Forward,New Jersey
+ Brownsville,RGV Toros,2018/03/12,U-16, Isaac Acevedo ,Goalkeeper,Texas
+ Fair Oaks,Sacramento Republic,2018/03/12,U-16, Gavin Krenecki ,Goalkeeper,California
+ Cumming,Atlanta United FC,2018/03/12,U-16, Vincente Reyes ,Goalkeeper,Georgia
+ Los Angeles,LA Galaxy,2018/03/12,U-16,: Adrian Aguilar ,Defender,California
+ Phoenix,Barca Academy,2018/03/12,U-16, Edwin Arias ,Defender,Arizona
+ Aurora,Internationals Soccer Academy,2018/03/12,U-16, Max Brown ,Defender,Ohio
+ San Jose,San Jose Earthquakes,2018/03/12,U-16, Israel Carrillo ,Defender,California
+ Los Angeles,LA Galaxy,2018/03/12,U-16, Mauricio Cuevas ,Defender,California
+ Phoenix,Sereno Soccer Club,2018/03/12,U-16, Abedi Godefroid ,Defender,Arizona
+ Cincinnati,Columbus Crew SC,2018/03/12,U-16, Noah Hall ,Defender,Ohio
+ Frisco,FC Dallas,2018/03/12,U-16, Kyle Jordan ,Defender,Texas
+ Las Condes,Club Deportivo Universidad Católica,2018/03/12,U-16, Dylan Kelemen ,Defender,Chile
+ Tacoma,Seattle Sounders FC,2018/03/12,U-16, Eric Kinzner ,Defender,Washington
+ San Diego,Albion SC,2018/03/12,U-16, Victor Salazar ,Defender,California
+ Ann Arbor,Crew SC Academy,2018/03/12,U-16, Anton Sorenson ,Defender,Michigan
+ Montgomery,Atlanta United FC,2018/03/12,U-16, Kobey Stoup ,Defender,Alabama
+ Mill Valley,San Jose Earthquakes,2018/03/12,U-16, Casey Walls ,Defender,California
+ Addison,Chicago Fire,2018/03/12,U-16,: Javier Casas Jr. ,Midfielder,Illinois
+ Blacklick,Columbus Crew SC,2018/03/12,U-16, Elton Chifamba ,Midfielder,Ohio
+ Leeds,Sheffield Wednesday Football Club,2018/03/12,U-16, Chitua Hani-Okoroafor ,Midfielder,England
+ Edmonds,Seattle Sounders,2018/03/12,U-16, Sota Kitahara ,Midfielder,Washington
+ Seattle,Seattle Sounders FC,2018/03/12,U-16, Daniel Leyva ,Midfielder,Washington
+ Sunnyvale,San Jose Earthquakes,2018/03/12,U-16, Diego Luna ,Midfielder,California
+ Middle Village,BW Gottschee,2018/03/12,U-16, Jack McGlynn ,Midfielder,New York
+ Naperville,Chicago Fire,2018/03/12,U-16, Alex Monis ,Midfielder,Illinois
+ El Paso,FC Dallas,2018/03/12,U-16, Edwin Villarreal ,Midfielder,Texas
+ Compton,CDA Slammers FC,2018/03/12,U-16, Eduardo Villeda ,Midfielder,California
+ Philadelphia,Philadelphia Union,2018/03/12,U-16, Patrick Bohui ,Forward,Pennsylvania
+Duluth,Atlanta United FC,2018/03/12,U-16, Joseph Collins ,Forward,Georgia
+ Wiltshire,Southhampton FC,2018/03/12,U-16, Vaughn Covil ,Forward,England
+ Shawnee,Sporting KC,2018/03/12,U-16, Tyler Freeman ,Forward,Kansas
+ Madison,Vestavia Hills Soccer Club,2018/03/12,U-16, Tega Ikoba ,Forward,Illinois
+ Royersford,Philadelphia Union,2018/03/12,U-16, Selmir Miscic ,Forward,Pennsylvania
+ Frisco,FC Dallas,2018/03/12,U-16, Dante Sealy ,Forward,Texas
+ Trenton,PDA,2018/03/12,U-16, Dantouma Toure ,Forward,New Jersey
+ Rocklin,Sacramento Republic,2018/03/12,U-16, Dominic Vegaalban ,Forward,California
+ Southwest Ranches,Everton FC,2017/04/10,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Oxnard,Real Salt Lake,2017/04/10,U-16, David Ochoa ,Goalkeeper,California
+ Lompoc,Santa Barbara SC,2017/04/10,U-16, Julian Araujo ,Defender,California
+ Riverside,FC Golden State,2017/04/10,U-16, Abraham Gonzalez ,Defender,California
+ Wilton,Karlsruher SC,2017/04/10,U-16, Ian Hoffmann ,Defender,Connecticut
+ Montebello,IMG Academy,2017/04/10,U-16, Kevin Peraza ,Defender,California
+ Panorama City,FC Golden State,2017/04/10,U-16, Victor Rangel ,Defender,California
+ Livermore,San Jose Earthquakes,2017/04/10,U-16, Mario Anaya ,Midfielder,California
+ Chula Vista,San Diego Surf,2017/04/10,U-16, Armando Haro ,Midfielder,California
+ Woodbridge,DC United,2017/04/10,U-16, Nelson Martinez ,Midfielder,Virginia
+ Frisco,FC Dallas,2017/03/10,U-16, Michael Collodi ,Goalkeeper,Texas
+ Pittsburgh,Pittsburgh Riverhounds,2017/03/10,U-16, Dane Jacomen ,Goalkeeper,Pennsylvania
+ Lompoc,Santa Barbara SC,2017/03/10,U-16,: Julian Araujo ,Defender,California
+ Wilton,New York City FC,2017/03/10,U-16, Nico Benalcazar ,Defender,Connecticut
+ Salida,Sacramento Republic FC,2017/03/10,U-16, Edward Berumen ,Defender,California
+ Napa,Real Salt Lake,2017/03/10,U-16, Eduardo Blancas ,Defender,California
+ Brooklyn,New York City FC,2017/03/10,U-16, Justin Haak ,Defender,New York
+ Long Beach,LA Galaxy,2017/03/10,U-16, John Hilton ,Defender,California
+ Huntington Station,New York City FC,2017/03/10,U-16, Alexsi Morel ,Defender,New York
+ Highlands Ranch,Colorado Rapids,2017/03/10,U-16, Eben Noverr ,Defender,Colorado
+ Folsom,Sacramento Republic FC,2017/03/10,U-16, Cole Rovegno ,Defender,California
+ McKinney,FC Dallas,2017/03/10,U-16, Nathan Toledo ,Defender,Texas
+ Indio,IMG Academy,2017/03/10,U-16, Oscar Cervantes ,Midfielder,California
+ Olathe,Sporting KC,2017/03/10,U-16, Cameron Duke ,Midfielder,Kansas
+ Woodbridge,DC United,2017/03/10,U-16, Nelson Martinez ,Midfielder,Virginia
+ Buenos Aires,A.A. Argentinos Juniors,2017/03/10,U-16, Matko Milijevic ,Midfielder,Argentina
+ Houston,Houston Dynamo,2017/03/10,U-16, Marcelo Palomino ,Midfielder,Texas
+ Frisco,FC Dallas,2017/03/10,U-16, Thomas Roberts ,Midfielder,Texas
+ Santa Rosa,Real Salt Lake,2017/03/10,U-16, Luis Arriaga ,Forward,California
+ Lake Mary,Orlando City SC,2017/03/10,U-16, Jordan Bender ,Forward,Florida
+ Renton,Seattle Sounders FC,2017/03/10,U-16, Azriel Gonzalez ,Forward,Washington
+ Orem,Real Salt Lake,2017/03/10,U-16, Ben Ortiz ,Forward,Utah
+ Bethesa,Bethesda SC,2017/03/10,U-16, Gabe Segal ,Forward,Maryland
+ Millburn,New York Red Bulls,2017/03/10,U-16, Scotty Taylor ,Forward,New Jersey
+ Southwest Ranches,Weston FC,2017/02/03,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Casa Grande,Real Salt Lake AZ,2017/02/03,U-16, David Ochoa ,Goalkeeper,Arizona
+ Lompoc,Santa Barbara SC,2017/02/03,U-16, Julian Araujo ,Defender,California
+ Douglasville,Atlanta United FC,2017/02/03,U-16, George Bello ,Defender,Georgia
+ Long Beach,LA Galaxy,2017/02/03,U-16, John Hilton ,Defender,California
+ Corona,LA Galaxy,2017/02/03,U-16, Leonardo Sepulveda ,Defender,California
+ McKinney,FC Dallas,2017/02/03,U-16, Nathan Toledo ,Defender,Texas
+ Alexandria,D.C. United,2017/02/03,U-16, Everson Amaya Mejia ,Midfielder,Virginia
+ Livermore,San Jose Earthquakes,2017/02/03,U-16, Mario Anaya ,Midfielder,California
+ Lake Mary,Orlando City SC,2017/02/03,U-16, Jordan Bender ,Midfielder,Florida
+ Eden,Real Salt Lake AZ,2017/02/03,U-16, Taylor Booth ,Midfielder,Utah
+ Olathe,Sporting KC,2017/02/03,U-16, Cameron Duke ,Midfielder,Kansas
+ Woodbridge,DC United,2017/02/03,U-16, Nelson Martinez Rivera ,Midfielder,Virginia
+ Buenos Aires,A.A. Argentinos Juniors,2017/02/03,U-16, Matko Miljevic ,Midfielder,Argentina
+ Houston,Houston Dynamo,2017/02/03,U-16, Marcelo Palomino ,Midfielder,Texas
+Savannah,IMG Academy,2017/02/03,U-16, Indiana Vassilev ,Midfielder,Georgia
+ Coconut Creek,Clube de Regatas do Flamengo,2017/02/03,U-16, Nicholas Mendonca ,Forward,Florida
+ Orem,La Roca FC,2017/02/03,U-16, Benjamin Ortiz ,Forward,Utah
+ Little Elm,FC Dallas,2017/02/03,U-16, Bryan Reynolds ,Forward,Texas
+ Bethesda,Bethesda-Olney,2017/02/03,U-16, Gabriel Segal ,Forward,Maryland
+ Weston,Weston FC,2017/02/03,U-16, Jose Rivas ,Forward,Florida
+ Southwest Ranches,Weston FC,2016/12/14,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Casa Grande,Real Salt Lake AZ,2016/12/14,U-16, David Ochoa ,Goalkeeper,Arizona
+ Lompoc,Santa Barbara Soccer Club,2016/12/14,U-16, Julian Araujo ,Defender,California
+ Douglasville,Atlanta United FC,2016/12/14,U-16, George Bello ,Defender,Georgia
+ Wilton,NYCFC,2016/12/14,U-16, Nico Benalcazar ,Defender,Connecticut
+ Salida,Sacramento Republic FC,2016/12/14,U-16, Edward Berumen ,Defender,California
+ Long Beach,LA Galaxy,2016/12/14,U-16, John Hilton ,Defender,California
+ Corona,LA Galaxy,2016/12/14,U-16, Leonardo Sepulveda ,Defender,California
+ Westerville,Crew SC Academy,2016/12/14,U-16, Sebastian Berhalter ,Midfielder,Ohio
+ Eden,Real Salt Lake AZ,2016/12/14,U-16, Taylor Booth ,Midfielder,Utah
+ Indio,LA Premier FC,2016/12/14,U-16, Oscar Cervantes ,Midfielder,California
+ Brooklyn,NYCFC,2016/12/14,U-16, Justin Haak ,Midfielder,New York
+ Woodbridge,DC United,2016/12/14,U-16, Nelson Martinez ,Midfielder,Virginia
+ Olathe,Sporting Kansas City,2016/12/14,U-16, Jonathan Munoz ,Midfielder,Kansas
+ Houston,Houston Dynamo,2016/12/14,U-16, Marcelo Palomino ,Midfielder,Texas
+ Savannah,IMG Academy,2016/12/14,U-16, Indiana Vassilev ,Midfielder,Georgia
+ Alexandria,D.C. United,2016/12/14,U-16, Everson Amaya ,Forward,Virginia
+ Renton,Seattle Sounders FC,2016/12/14,U-16, Azriel Gonzalez ,Forward,Washington
+ Newport Beach,Pateadores,2016/12/14,U-16, Cameron Harper ,Forward,California
+ Orem,La Roca,2016/12/14,U-16, Ben Ortiz ,Forward,Utah
+ Round Rock,Philadelphia Union,2016/12/14,U-16, Axel Picazo ,Forward,Texas
+ Little Elm,FC Dallas,2016/12/14,U-16, Bryan Reynolds ,Forward,Texas
+ Bethesda,Bethesda SC,2016/12/14,U-16, Gabe Segal ,Forward,Maryland
+ Southwest Ranches,Weston FC,2016/04/19,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ New York,NYCFC,2016/04/19,U-16, Alex Rando ,Goalkeeper,New York
+ Napa,Napa Soccer Academy,2016/04/19,U-16, Eduardo Blancas ,Defender,California
+ Lincoln Park,PDA,2016/04/19,U-16, Dominic De Almeida ,Defender,New Jersey
+ Littleton,Colorado Rush,2016/04/19,U-16, Luke Hansen ,Defender,Colorado
+ Long Beach,unattached,2016/04/19,U-16, John Hilton ,Defender,California
+ Corona,LA Galaxy,2016/04/19,U-16, Leonardo Sepulveda ,Defender,California
+ Miami,Weston FC,2016/04/19,U-16, Sebastian Serpa ,Defender,Florida
+ Eden,RSL-Arizona,2016/04/19,U-16, Taylor Booth ,Midfielder,Utah
+ Barcelona,FC Barcelona,2016/04/19,U-16, Konrad De la Fuente ,Midfielder,Spain
+ Roseville,Sacramento Republic FC,2016/04/19,U-16, Roberto Hategan ,Midfielder,California
+ Huntington Station,NYCFC,2016/04/19,U-16, Alexsi Morel ,Midfielder,New York
+ Houston,Houston Dynamo,2016/04/19,U-16, Marcelo Palomino ,Midfielder,Texas
+ Wenonah,Philadelphia Union,2016/04/19,U-16, Michael Pellegrino ,Midfielder,New Jersey
+ Santa Rosa,RSL-Arizona,2016/04/19,U-16, Luis Arriaga ,Forward,California
+ Lynwood,LA Galaxy,2016/04/19,U-16, Ulysses Llanez ,Forward,California
+ Coconut,Flamengo,2016/04/19,U-16, Nicholas Mendonca ,Forward,Florida
+ Weston,Weston FC,2016/04/19,U-16, Jose Rivas ,Forward,Florida
+ Bethesda,Bethesda-Olney,2016/04/19,U-16, Gabriel Segal ,Forward,Maryland
+ Savannah,IMG Academy,2016/04/19,U-16, Indiana Vassilev ,Forward,Georgia
+ Chino Hills,Pateadores,2018/06/01,U-17, Aaron Cervantes ,Goalkeeper,California
+ Chicago,Chicago Fire,2018/06/01,U-17, Damian Las ,Goalkeeper,Illinois
+ Calgary,Vancouver Whitecaps FC,2018/06/01,U-17, *Chituru Odunze ,Goalkeeper,Canada
+ Cambridge,FC Greater Boston Bolts,2018/06/01,U-17, Marzuq Puckerin ,Goalkeeper,Massachusetts
+ Surrey,Chelsea FC,2018/06/01,U-17, *Ethan Wady ,Goalkeeper,United Kingdom
+ Chicago,FC United,2018/06/01,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/06/01,U-17, Michael Barragan ,Defender,Mexico
+ Stockton,Sacramento Republic FC,2018/06/01,U-17, *Erik Centeno ,Defender,California
+ Elmont,New York Red Bulls,2018/06/01,U-17, Amir Daley ,Defender,New York
+ Bronx,New York City FC,2018/06/01,U-17, Tayvon Gray ,Defender,New York
+ Saint Johns,Portland Timbers,2018/06/01,U-17, Owen Guske ,Defender,Florida
+ Los Angeles,LA Galaxy,2018/06/01,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/06/01,U-17, Mason Judge ,Defender,Florida
+ Chatham,New York Red Bulls,2018/06/01,U-17, John Tolkin ,Defender,New Jersey
+ Norcross,United Futbol Academy,2018/06/01,U-17, *Simon Carlson ,Midfielder,Georgia
+ Half Moon Bay,Shattuck- Saint Mary's,2018/06/01,U-17, Luis Flores ,Midfielder,California
+ Tracy,San Jose Earthquakes,2018/06/01,U-17, Gilbert Fuentes ,Midfielder,California
+ San Jose,De Anza Force,2018/06/01,U-17, Jack Imperato ,Midfielder,California
+ Greenwich,New York City FC,2018/06/01,U-17, *Harrison Robledo ,Midfielder,Connecticut
+ Panorama City,Real So Cal,2018/06/01,U-17, Adam Saldana ,Midfielder,California
+ Graham,Seattle Sounders FC,2018/06/01,U-17, Ray Serrano ,Midfielder,Washington
+ Chester,New York Red Bulls,2018/06/01,U-17, Peter Stroud ,Midfielder,New Jersey
+ Greenwich,New York City FC,2018/06/01,U-17, Andres Jasson ,Forward,Connecticut
+ Chino,Atlanta United FC,2018/06/01,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2018/06/01,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Amsterdam,AFC Ajax,2018/06/01,U-17, Joshua Pynadath ,Forward,Netherlands
+ Carrollton,FC Dallas,2018/06/01,U-17, Benjamin Redzic ,Forward,Texas
+ Irving,FC Dallas,2018/06/01,U-17, *David Rodriguez ,Forward,Texas
+ Clifton,DC United,2018/06/01,U-17, *Griffin Yow ,Forward,New Jersey
+ Chino Hills,Pateadores,2018/04/13,U-17, Aaron Cervantes ,Goalkeeper,California
+ Chicago,Chicago Fire,2018/04/13,U-17, Damian Las ,Goalkeeper,Illinois
+ Chicago,FC United,2018/04/13,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/04/13,U-17, Michael Barragan ,Defender,Mexico
+ Douglasville,Atlanta United FC,2018/04/13,U-17, George Bello ,Defender,Georgia
+ Bronx,New York City FC,2018/04/13,U-17, Tayvon Gray ,Defender,New York
+ Los Angeles,LA Galaxy,2018/04/13,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/04/13,U-17, Mason Judge ,Defender,Florida
+ Lake Grove,New York City FC,2018/04/13,U-17, Joseph Scally ,Defender,New York
+ Chatham,New York Red Bulls,2018/04/13,U-17, John Tolkin ,Defender,New Jersey
+ Half Moon Bay,Shattuck-Saint Mary's,2018/04/13,U-17, Luis Flores ,Midfielder,California
+ Tracy,San Jose Earthquakes,2018/04/13,U-17, Gilbert Fuentes ,Midfielder,California
+ Carrollton,FC Dallas,2018/04/13,U-17, Cesar Garcia ,Midfielder,Texas
+ San Jose,De Anza Force,2018/04/13,U-17, Jack Imperato ,Midfielder,California
+ Greenwich,New York City FC,2018/04/13,U-17, Andres Jasson ,Midfielder,Connecticut
+ Panorama City,Real So Cal,2018/04/13,U-17, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2018/04/13,U-17, Peter Stroud ,Midfielder,New Jersey
+ Cary,North Carolina FC Youth,2018/04/13,U-17, Adam Armour ,Forward,North Carolina
+ Greensboro,Sporting Kansas City,2018/04/13,U-17, Gianluca Busio ,Forward,North Carolina
+ Chino,Atlanta United FC,2018/04/13,U-17, Diego Lopez ,Forward,California
+ Amsterdam,AFC Ajax,2018/04/13,U-17, Joshua Pynadath ,Forward,Netherlands
+ Carrollton,FC Dallas,2018/04/13,U-17, Benjamin Redzic ,Forward,Texas
+ Bedford Corners,New York City FC,2018/04/13,U-17, Giovanni Reyna ,Forward,New York
+ Graham,Seattle Sounders FC,2018/04/13,U-17, Ray Serrano ,Forward,Washington
+ Chino Hills,Pateadores,2018/02/23,U-17, Aaron Cervantes ,Goalkeeper,California
+ Whitefish Bay,Shattuck- Saint Mary's,2018/02/23,U-17, John Tyler Harms ,Goalkeeper,Wisconsin
+ Chicago,Chicago Fire,2018/02/23,U-17, Damian Las ,Goalkeeper,Illinois
+ Cambridge,FC Greater Boston Bolts,2018/02/23,U-17, Marzuq Puckerin ,Goalkeeper,Massachusetts
+ Chicago,FC United,2018/02/23,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/02/23,U-17, Michael Barragan ,Defender,Mexico
+ Elmont,New York Red Bulls,2018/02/23,U-17, Amir Daley ,Defender,New York
+ Bronx,New York City FC,2018/02/23,U-17, Tayvon Gray ,Defender,New York
+ Saint Johns,Portland Timbers,2018/02/23,U-17, Owen Guske ,Defender,Florida
+ Los Angeles,LA Galaxy,2018/02/23,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/02/23,U-17, Mason Judge ,Defender,Florida
+ Chatham,New York Red Bulls,2018/02/23,U-17, John Tolkin ,Defender,New Jersey
+ Bellevue,Seattle Sounders,2018/02/23,U-17,Joshua Atencio ,Midfielder,Washington
+ Half Moon Bay,Shattuck- Saint Mary's,2018/02/23,U-17, Luis Flores ,Midfielder,California
+Tracy,San Jose Earthquakes,2018/02/23,U-17, Gilbert Fuentes ,Midfielder,California
+ Carrollton,FC Dallas,2018/02/23,U-17, Benjamin Redzic ,Midfielder,Texas
+ Panorama City,Real So Cal,2018/02/23,U-17, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2018/02/23,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2018/02/23,U-17, Julian Gaines ,Forward,Texas
+ Greenwich,New York City FC,2018/02/23,U-17, Andres Jasson ,Forward,Connecticut
+ Chino,Atlanta United FC,2018/02/23,U-17, Diego Lopez ,Forward,California
+ Duluth,Atlanta United FC,2018/02/23,U-17, Daniel Mangarov ,Forward,Georgia
+ Bedford Corners,New York City FC,2018/02/23,U-17, Giovanni Reyna ,Forward,New York
+ Graham,Seattle Sounders FC,2018/02/23,U-17, Ray Serrano ,Forward,Washington
+ Frisco,FC Dallas,2016/10/18,U-16, Michael Collodi ,Goalkeeper,Texas
+ Southwest Ranches,Weston FC,2016/10/18,U-16, Nicolas Defreitas-Hansen ,Goalkeeper,Florida
+ Wilton,NYCFC,2016/10/18,U-16, Nico Benalcazar ,Defender,Connecticut
+ Napa,Real Salt Lake,2016/10/18,U-16, Eduardo Blancas ,Defender,California
+ Olathe,Sporting KC,2016/10/18,U-16, Cameron Duke ,Defender,Kansas
+ Long Beach,Unattached,2016/10/18,U-16, John Hilton ,Defender,California
+ Garland,FC Dallas,2016/10/18,U-16, Julian Hinojosa ,Defender,Texas
+ Norridge,Chicago Fire,2017/12/03,U-17, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/12/03,U-17, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United Soccer Club,2017/12/03,U-17, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Colorado Rapids,2017/12/03,U-17, Sebastian Anderson ,Defender,Co.
+ Douglasville,Atlanta United FC,2017/12/03,U-17, George Bello ,Defender,Georgia
+ Tampa,Chargers Soccer Club,2017/12/03,U-17, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/12/03,U-17, Kenneth Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/12/03,U-17, Joseph Scally ,Defender,New York
+ Bellevue,Seattle Sounders FC,2017/12/03,U-17, Joshua Atencio ,Midfielder,Washington
+ Greensboro,Sporting Kansas City,2017/12/03,U-17, Gianluca Busio ,Midfielder,North Carolina
+ Panorama City,Real So Cal,2017/12/03,U-17, Adam Saldana ,Midfielder,California
+ Tracy,San Jose Earthquakes,2017/12/03,U-17, Gilbert Fuentes Perez ,Midfielder,California
+ San Francisco,VFB Stuttgart,2017/12/03,U-17, Maximillian Goeggel ,Midfielder,California
+ Chester,New York Red Bulls,2017/12/03,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2017/12/03,U-17, Julian Gaines ,Forward,Tex.
+ Naperville,Sockers FC,2017/12/03,U-17, Cade Hagan ,Forward,Illinois
+ Chino,FC Golden State,2017/12/03,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2017/12/03,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Frisco,FC Dallas,2017/12/03,U-17, Dante Sealy ,Forward,Tex.
+ Graham,Seattle Sounders FC,2017/12/03,U-17, Ray Serrano ,Forward,Washington
+ Chino Hills,Pateadores,2018/06/01,U-17, Aaron Cervantes ,Goalkeeper,California
+ Chicago,Chicago Fire,2018/06/01,U-17, Damian Las ,Goalkeeper,Illinois
+ Calgary,Vancouver Whitecaps FC,2018/06/01,U-17, *Chituru Odunze ,Goalkeeper,Canada
+ Cambridge,FC Greater Boston Bolts,2018/06/01,U-17, Marzuq Puckerin ,Goalkeeper,Massachusetts
+ Surrey,Chelsea FC,2018/06/01,U-17, *Ethan Wady ,Goalkeeper,United Kingdom
+ Chicago,FC United,2018/06/01,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/06/01,U-17, Michael Barragan ,Defender,Mexico
+ Stockton,Sacramento Republic FC,2018/06/01,U-17, *Erik Centeno ,Defender,California
+ Elmont,New York Red Bulls,2018/06/01,U-17, Amir Daley ,Defender,New York
+ Bronx,New York City FC,2018/06/01,U-17, Tayvon Gray ,Defender,New York
+ Saint Johns,Portland Timbers,2018/06/01,U-17, Owen Guske ,Defender,Florida
+ Los Angeles,LA Galaxy,2018/06/01,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/06/01,U-17, Mason Judge ,Defender,Florida
+ Chatham,New York Red Bulls,2018/06/01,U-17, John Tolkin ,Defender,New Jersey
+ Norcross,United Futbol Academy,2018/06/01,U-17, *Simon Carlson ,Midfielder,Georgia
+ Half Moon Bay,Shattuck- Saint Mary's,2018/06/01,U-17, Luis Flores ,Midfielder,California
+ Tracy,San Jose Earthquakes,2018/06/01,U-17, Gilbert Fuentes ,Midfielder,California
+ San Jose,De Anza Force,2018/06/01,U-17, Jack Imperato ,Midfielder,California
+ Greenwich,New York City FC,2018/06/01,U-17, *Harrison Robledo ,Midfielder,Connecticut
+ Panorama City,Real So Cal,2018/06/01,U-17, Adam Saldana ,Midfielder,California
+ Graham,Seattle Sounders FC,2018/06/01,U-17, Ray Serrano ,Midfielder,Washington
+ Chester,New York Red Bulls,2018/06/01,U-17, Peter Stroud ,Midfielder,New Jersey
+ Greenwich,New York City FC,2018/06/01,U-17, Andres Jasson ,Forward,Connecticut
+ Chino,Atlanta United FC,2018/06/01,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2018/06/01,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Amsterdam,AFC Ajax,2018/06/01,U-17, Joshua Pynadath ,Forward,Netherlands
+ Carrollton,FC Dallas,2018/06/01,U-17, Benjamin Redzic ,Forward,Texas
+ Irving,FC Dallas,2018/06/01,U-17, *David Rodriguez ,Forward,Texas
+ Clifton,DC United,2018/06/01,U-17, *Griffin Yow ,Forward,New Jersey
+ Chino Hills,Pateadores,2018/04/13,U-17, Aaron Cervantes ,Goalkeeper,California
+ Chicago,Chicago Fire,2018/04/13,U-17, Damian Las ,Goalkeeper,Illinois
+ Chicago,FC United,2018/04/13,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/04/13,U-17, Michael Barragan ,Defender,Mexico
+ Douglasville,Atlanta United FC,2018/04/13,U-17, George Bello ,Defender,Georgia
+ Bronx,New York City FC,2018/04/13,U-17, Tayvon Gray ,Defender,New York
+ Los Angeles,LA Galaxy,2018/04/13,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/04/13,U-17, Mason Judge ,Defender,Florida
+ Lake Grove,New York City FC,2018/04/13,U-17, Joseph Scally ,Defender,New York
+ Chatham,New York Red Bulls,2018/04/13,U-17, John Tolkin ,Defender,New Jersey
+ Half Moon Bay,Shattuck-Saint Mary's,2018/04/13,U-17, Luis Flores ,Midfielder,California
+ Tracy,San Jose Earthquakes,2018/04/13,U-17, Gilbert Fuentes ,Midfielder,California
+ Carrollton,FC Dallas,2018/04/13,U-17, Cesar Garcia ,Midfielder,Texas
+ San Jose,De Anza Force,2018/04/13,U-17, Jack Imperato ,Midfielder,California
+ Greenwich,New York City FC,2018/04/13,U-17, Andres Jasson ,Midfielder,Connecticut
+ Panorama City,Real So Cal,2018/04/13,U-17, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2018/04/13,U-17, Peter Stroud ,Midfielder,New Jersey
+ Cary,North Carolina FC Youth,2018/04/13,U-17, Adam Armour ,Forward,North Carolina
+ Greensboro,Sporting Kansas City,2018/04/13,U-17, Gianluca Busio ,Forward,North Carolina
+ Chino,Atlanta United FC,2018/04/13,U-17, Diego Lopez ,Forward,California
+ Amsterdam,AFC Ajax,2018/04/13,U-17, Joshua Pynadath ,Forward,Netherlands
+ Carrollton,FC Dallas,2018/04/13,U-17, Benjamin Redzic ,Forward,Texas
+ Bedford Corners,New York City FC,2018/04/13,U-17, Giovanni Reyna ,Forward,New York
+ Graham,Seattle Sounders FC,2018/04/13,U-17, Ray Serrano ,Forward,Washington
+ Chino Hills,Pateadores,2018/02/23,U-17, Aaron Cervantes ,Goalkeeper,California
+ Whitefish Bay,Shattuck- Saint Mary's,2018/02/23,U-17, John Tyler Harms ,Goalkeeper,Wisconsin
+ Chicago,Chicago Fire,2018/02/23,U-17, Damian Las ,Goalkeeper,Illinois
+ Cambridge,FC Greater Boston Bolts,2018/02/23,U-17, Marzuq Puckerin ,Goalkeeper,Massachusetts
+ Chicago,FC United,2018/02/23,U-17, Axel Alejandre ,Defender,Illinois
+ Guadalajara,Atlas FC,2018/02/23,U-17, Michael Barragan ,Defender,Mexico
+ Elmont,New York Red Bulls,2018/02/23,U-17, Amir Daley ,Defender,New York
+ Bronx,New York City FC,2018/02/23,U-17, Tayvon Gray ,Defender,New York
+ Saint Johns,Portland Timbers,2018/02/23,U-17, Owen Guske ,Defender,Florida
+ Los Angeles,LA Galaxy,2018/02/23,U-17, Kobe Hernandez ,Defender,California
+ Tampa,Chargers Soccer Club,2018/02/23,U-17, Mason Judge ,Defender,Florida
+ Chatham,New York Red Bulls,2018/02/23,U-17, John Tolkin ,Defender,New Jersey
+ Bellevue,Seattle Sounders,2018/02/23,U-17,Joshua Atencio ,Midfielder,Washington
+ Half Moon Bay,Shattuck- Saint Mary's,2018/02/23,U-17, Luis Flores ,Midfielder,California
+Tracy,San Jose Earthquakes,2018/02/23,U-17, Gilbert Fuentes ,Midfielder,California
+ Carrollton,FC Dallas,2018/02/23,U-17, Benjamin Redzic ,Midfielder,Texas
+ Panorama City,Real So Cal,2018/02/23,U-17, Adam Saldana ,Midfielder,California
+ Chester,New York Red Bulls,2018/02/23,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2018/02/23,U-17, Julian Gaines ,Forward,Texas
+ Greenwich,New York City FC,2018/02/23,U-17, Andres Jasson ,Forward,Connecticut
+ Chino,Atlanta United FC,2018/02/23,U-17, Diego Lopez ,Forward,California
+ Duluth,Atlanta United FC,2018/02/23,U-17, Daniel Mangarov ,Forward,Georgia
+ Bedford Corners,New York City FC,2018/02/23,U-17, Giovanni Reyna ,Forward,New York
+ Graham,Seattle Sounders FC,2018/02/23,U-17, Ray Serrano ,Forward,Washington
+ Norridge,Chicago Fire,2017/12/03,U-17, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/12/03,U-17, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United Soccer Club,2017/12/03,U-17, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Colorado Rapids,2017/12/03,U-17, Sebastian Anderson ,Defender,Co.
+ Douglasville,Atlanta United FC,2017/12/03,U-17, George Bello ,Defender,Georgia
+ Tampa,Chargers Soccer Club,2017/12/03,U-17, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/12/03,U-17, Kenneth Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/12/03,U-17, Joseph Scally ,Defender,New York
+ Bellevue,Seattle Sounders FC,2017/12/03,U-17, Joshua Atencio ,Midfielder,Washington
+ Greensboro,Sporting Kansas City,2017/12/03,U-17, Gianluca Busio ,Midfielder,North Carolina
+ Panorama City,Real So Cal,2017/12/03,U-17, Adam Saldana ,Midfielder,California
+ Tracy,San Jose Earthquakes,2017/12/03,U-17, Gilbert Fuentes Perez ,Midfielder,California
+ San Francisco,VFB Stuttgart,2017/12/03,U-17, Maximillian Goeggel ,Midfielder,California
+ Chester,New York Red Bulls,2017/12/03,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2017/12/03,U-17, Julian Gaines ,Forward,Tex.
+ Naperville,Sockers FC,2017/12/03,U-17, Cade Hagan ,Forward,Illinois
+ Chino,FC Golden State,2017/12/03,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2017/12/03,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Frisco,FC Dallas,2017/12/03,U-17, Dante Sealy ,Forward,Tex.
+ Graham,Seattle Sounders FC,2017/12/03,U-17, Ray Serrano ,Forward,Washington
+ Norridge,Chicago Fire,2017/11/28,U-17, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/11/28,U-17, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United Soccer Club,2017/11/28,U-17, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Colorado Rapids,2017/11/28,U-17, Sebastian Anderson ,Defender,Co.
+ Douglasville,Atlanta United FC,2017/11/28,U-17, George Bello ,Defender,Georgia
+ Tampa,Chargers Soccer Club,2017/11/28,U-17, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/11/28,U-17, Kenneth Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/11/28,U-17, Joseph Scally ,Defender,New York
+ Bellevue,Seattle Sounders FC,2017/11/28,U-17, Joshua Atencio ,Midfielder,Washington
+ Greenboro,Sporting Kansas City,2017/11/28,U-17, Gianluca Busio ,Midfielder,North Carolina
+ Panorama City,Real So Cal,2017/11/28,U-17, Adam Saldana ,Midfielder,California
+ Tracy,San Jose Earthquakes,2017/11/28,U-17, Gilbert Fuentes Perez ,Midfielder,California
+ San Francisco,VFB Stuttgart,2017/11/28,U-17, Maximillian Goeggel ,Midfielder,California
+ Chester,New York Red Bulls,2017/11/28,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2017/11/28,U-17, Julian Gaines ,Forward,Tex.
+ Naperville,Sockers FC,2017/11/28,U-17, Cade Hagan ,Forward,Illinois
+ Chino,FC Golden State,2017/11/28,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2017/11/28,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Frisco,FC Dallas,2017/11/28,U-17, Dante Sealy ,Forward,Tex.
+ Graham,Seattle Sounders FC,2017/11/28,U-17, Ray Serrano ,Forward,Washington
+ Arlington Heights,Sockers FC,2017/10/19,U-17, Alex Budnik ,Goalkeeper,Illinois
+ Philadelphia,Benfica,2017/10/19,U-17, Carlos Joaquim Dos Santos ,Goalkeeper,Pennsylvania
+ Miami,Atlanta United FC,2017/10/19,U-17, Justin Garces ,Goalkeeper,Florida
+ Almere-stad,Ajax,2017/10/19,U-17, Sergiño Dest ,Defender,Netherlands
+ Montclair,New York Red Bulls,2017/10/19,U-17, Christopher Gloster ,Defender,New Jersey
+ Charlotte,Sporting Kansas City,2017/10/19,U-17, Jaylin Lindsey ,Defender,North Carolina
+ Rye,New York City FC,2017/10/19,U-17, James Sands ,Defender,New York
+ Greenwich,New York City FC,2017/10/19,U-17, Tyler Shaver ,Defender,Connecticut
+ Fort Wayne,Portland Timbers,2017/10/19,U-17, Akil Watts ,Defender,Ind.
+ Hollywood,North Carolina FC,2017/10/19,U-17, George Acosta ,Midfielder,Florida
+ Eden,Real Salt Lake,2017/10/19,U-17, Taylor Booth ,Midfielder,Utah
+ Glen Allen,D.C. United,2017/10/19,U-17, Christopher Durkin ,Midfielder,Virginia
+ Southlake,Solar Soccer Club,2017/10/19,U-17, Blaine Ferri ,Midfielder,Texas
+ Locust Grove,Atlanta United FC,2017/10/19,U-17, Chris Goslin ,Midfielder,Georgia
+ Savannah,Unattached,2017/10/19,U-17, Indiana Vassilev ,Midfielder,Georgia
+Brampton,Toronto FC,2017/10/19,U-17, Ayo Akinola ,Forward,Ont.
+ Powder Springs,Atlanta United FC,2017/10/19,U-17, Andrew Carleton ,Forward,Georgia
+ Houston,C.F. Monterrey,2017/10/19,U-17, Jacobo Reyes ,Forward,Texas
+ Little Elm,FC Dallas,2017/10/19,U-17, Bryan Reynolds ,Forward,Texas
+ O'Fallon,St. Louis Scott Gallagher Missouri,2017/10/19,U-17, Joshua Sargent ,Forward,Missouri
+ Rosedale,Paris Saint-Germain F.C.,2017/10/19,U-17, Tim Weah ,Forward,New York
+ Norridge,Chicago Fire,2017/11/21,U-17, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/11/21,U-17, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United Soccer Club,2017/11/21,U-17, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Colorado Rapids,2017/11/21,U-17, Sebastian Anderson ,Defender,Co.
+ Douglasville,Atlanta United FC,2017/11/21,U-17, George Bello ,Defender,Georgia
+ Tampa,Chargers Soccer Club,2017/11/21,U-17, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/11/21,U-17, Kenneth Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/11/21,U-17, Joseph Scally ,Defender,New York
+ Bellevue,Seattle Sounders FC,2017/11/21,U-17, Joshua Atencio ,Midfielder,Washington
+ Greenboro,Sporting Kansas City,2017/11/21,U-17, Gianluca Busio ,Midfielder,North Carolina
+ Panorama City,Real So Cal,2017/11/21,U-17, Adam Saldana ,Midfielder,California
+ Tracy,San Jose Earthquakes,2017/11/21,U-17, Gilbert Fuentes Perez ,Midfielder,California
+ San Francisco,VFB Stuttgart,2017/11/21,U-17, Maximillian Goeggel ,Midfielder,California
+ Chester,New York Red Bulls,2017/11/21,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2017/11/21,U-17, Julian Gaines ,Forward,Tex.
+ Naperville,Sockers FC,2017/11/21,U-17, Cade Hagan ,Forward,Illinois
+ Chino,FC Golden State,2017/11/21,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2017/11/21,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Frisco,FC Dallas,2017/11/21,U-17, Dante Sealy ,Forward,Tex.
+ Graham,Seattle Sounders FC,2017/11/21,U-17, Ray Serrano ,Forward,Washington
+ Walled Lake,Crew Sc Academy Wolves,2018/06/01,U-18, *Owen Finnerty ,Goalkeeper,Michigan
+ Bakersfield,LA Galaxy,2018/06/01,U-18, *John Pulskamp ,Goalkeeper,California
+ New York,New York City FC,2018/06/01,U-18, Alex Rando ,Goalkeeper,New York
+ Lompoc,Barca Academy,2018/06/01,U-18, Julian Araujo ,Defender,California
+ Salida,Sacramento Republic FC,2018/06/01,U-18, *Edward Berumen ,Defender,California
+ Atlanta,Atlanta United FC,2018/06/01,U-18, *Kendall Edwards ,Defender,Georgia
+ Brooklyn,New York City FC,2018/06/01,U-18, Justin Haak ,Defender,New York
+ Garland,FC Dallas,2018/06/01,U-18, *Julian Hinojosa ,Defender,Texas
+ Gilbert,Real Salt Lake,2018/06/01,U-18, *Erwin Martinez ,Defender,Arizona
+ Gage Park,Chicago Fire,2018/06/01,U-18, David Mendoza ,Defender,Illinois
+ Chicago,Chicago Fire,2018/06/01,U-18, *Andre Reynolds ,Defender,Illinois
+ Corona,LA Galaxy,2018/06/01,U-18, Leonardo Sepulveda ,Defender,California
+ Santa Rosa,Real Salt Lake,2018/06/01,U-18, Luis Arriaga ,Midfielder,California
+ Madrid,Atletico Madrid,2018/06/01,U-18, *Michael Carmona ,Midfielder,Spain
+ Tampa,Chargers SC,2018/06/01,U-18, *Jeffery Copper ,Midfielder,Florida
+ Overland Park,Sporting Kansas City,2018/06/01,U-18, Cameron Duke ,Midfielder,Kansas
+ Lincoln,Sacramento Republic FC,2018/06/01,U-18, Hunter George ,Midfielder,California
+ Las Vegas,Seattle Sounders FC,2018/06/01,U-18, Azriel Gonzalez ,Midfielder,Nev.
+ Ft. Lauderdale,Crew SC Academy,2018/06/01,U-18, Aidan Morris ,Midfielder,Florida
+ Little Rock,FC Dallas,2018/06/01,U-18, Thomas Roberts ,Midfielder,Ark.
+ Birmingham,FC Dallas,2018/06/01,U-18, *Tanner Tessmann ,Midfielder,Alabama
+ Sacramento,Sacramento Republic FC,2018/06/01,U-18, Quincy Butler ,Forward,California
+ Manhattan,S.S.C. Napoli,2018/06/01,U-18, *Salvatore Esposito ,Forward,New York
+ Wickford,Southend United,2018/06/01,U-18, *Charlie Kelman ,Forward,England
+ Dallas,FC Dallas,2018/06/01,U-18, *Gibran Rayo ,Forward,Texas
+ Bethesda,Bethesda SC,2018/06/01,U-18, Gabriel Segal ,Forward,Maryland
+ Sandy,Real Salt Lake,2018/06/01,U-18, *Julian Vazquez ,Forward,Utah
+ Herriman,Real Salt Lake,2017/11/20,U-18, David Ochoa ,Goalkeeper,Utah
+ New York,New York City FC,2017/11/20,U-18, Alex Rando ,Goalkeeper,New York
+ Lompoc,Barca Academy,2017/11/20,U-18, Julian Araujo ,Defender,California
+ Douglasville,Atlanta United FC,2017/11/20,U-18, George Bello ,Defender,Georgia
+ Wilton,New York City FC,2017/11/20,U-18, Nico Benalcazar ,Defender,Connecticut
+ Littleton,Colorado Rapids,2017/11/20,U-18, Luke Hansen ,Defender,Colorado
+ Chicago,Chicago Fire,2017/11/20,U-18, David Mendoza ,Defender,Illinois
+ Corona,LA Galaxy,2017/11/20,U-18, Leonardo Sepulveda ,Defender,California
+ Indio,LA Galaxy,2017/11/20,U-18, Oscar Cervantes ,Midfielder,California
+ Overland Park,Sporting Kansas City,2017/11/20,U-18, Cameron Duke ,Midfielder,Kansas
+ Brooklyn,New York City FC,2017/11/20,U-18, Justin Haak ,Midfielder,New York
+ Mesquite,FC Dallas,2017/11/20,U-18, Luis Hernandez ,Midfielder,Texas
+ Woodbridge,D.C. United,2017/11/20,U-18, Nelson Martinez ,Midfielder,Virginia
+ New Albany,Crew SC Academy,2017/11/20,U-18, Aidan Morris ,Midfielder,Ohio
+ Los Angeles,LA Galaxy,2017/01/23,U-18,  Eric Lopez ,Goalkeeper,California
+ Tukwila,Seattle Sounders,2017/01/23,U-18, Trey Muse ,Goalkeeper,Washington
+ Greensboro,NC Fusion,2017/01/23,U-18, Alec Smir ,Goalkeeper,North Carolina
+ Arlington Heights,Sockers FC,2017/10/19,U-17, Alex Budnik ,Goalkeeper,Illinois
+ Philadelphia,Benfica,2017/10/19,U-17, Carlos Joaquim Dos Santos ,Goalkeeper,Pennsylvania
+ Miami,Atlanta United FC,2017/10/19,U-17, Justin Garces ,Goalkeeper,Florida
+ Almere-stad,Ajax,2017/10/19,U-17, Sergiño Dest ,Defender,Netherlands
+ Montclair,New York Red Bulls,2017/10/19,U-17, Christopher Gloster ,Defender,New Jersey
+ Charlotte,Sporting Kansas City,2017/10/19,U-17, Jaylin Lindsey ,Defender,North Carolina
+ Rye,New York City FC,2017/10/19,U-17, James Sands ,Defender,New York
+ Greenwich,New York City FC,2017/10/19,U-17, Tyler Shaver ,Defender,Connecticut
+ Fort Wayne,Portland Timbers,2017/10/19,U-17, Akil Watts ,Defender,Ind.
+ Hollywood,North Carolina FC,2017/10/19,U-17, George Acosta ,Midfielder,Florida
+ Eden,Real Salt Lake,2017/10/19,U-17, Taylor Booth ,Midfielder,Utah
+ Glen Allen,D.C. United,2017/10/19,U-17, Christopher Durkin ,Midfielder,Virginia
+ Southlake,Solar Soccer Club,2017/10/19,U-17, Blaine Ferri ,Midfielder,Texas
+ Locust Grove,Atlanta United FC,2017/10/19,U-17, Chris Goslin ,Midfielder,Georgia
+ Savannah,Unattached,2017/10/19,U-17, Indiana Vassilev ,Midfielder,Georgia
+Brampton,Toronto FC,2017/10/19,U-17, Ayo Akinola ,Forward,Ont.
+ Powder Springs,Atlanta United FC,2017/10/19,U-17, Andrew Carleton ,Forward,Georgia
+ Houston,C.F. Monterrey,2017/10/19,U-17, Jacobo Reyes ,Forward,Texas
+ Little Elm,FC Dallas,2017/10/19,U-17, Bryan Reynolds ,Forward,Texas
+ O'Fallon,St. Louis Scott Gallagher Missouri,2017/10/19,U-17, Joshua Sargent ,Forward,Missouri
+ Rosedale,Paris Saint-Germain F.C.,2017/10/19,U-17, Tim Weah ,Forward,New York
+ Norridge,Chicago Fire,2017/11/30,U-17, Damian Las ,Goalkeeper,Illinois
+ Happy Valley,Portland Timbers,2017/11/30,U-17, Kashope Oladapo ,Goalkeeper,Ore.
+ Chicago,FC United Soccer Club,2017/11/30,U-17, Axel Alejandre ,Defender,Illinois
+ Highlands Ranch,Colorado Rapids,2017/11/30,U-17, Sebastian Anderson ,Defender,Co.
+ Douglasville,Atlanta United FC,2017/11/30,U-17, George Bello ,Defender,Georgia
+ Tampa,Chargers Soccer Club,2017/11/30,U-17, Mason Judge ,Defender,Florida
+ Irvine,Pateadores,2017/11/30,U-17, Kenneth Nielsen ,Defender,California
+ Lake Grove,New York City FC,2017/11/30,U-17, Joseph Scally ,Defender,New York
+ Bellevue,Seattle Sounders FC,2017/11/30,U-17, Joshua Atencio ,Midfielder,Washington
+ Greenboro,Sporting Kansas City,2017/11/30,U-17, Gianluca Busio ,Midfielder,North Carolina
+ Panorama City,Real So Cal,2017/11/30,U-17, Adam Saldana ,Midfielder,California
+ Tracy,San Jose Earthquakes,2017/11/30,U-17, Gilbert Fuentes Perez ,Midfielder,California
+ San Francisco,VFB Stuttgart,2017/11/30,U-17, Maximillian Goeggel ,Midfielder,California
+ Chester,New York Red Bulls,2017/11/30,U-17, Peter Stroud ,Midfielder,New Jersey
+ Austin,Lonestar Soccer Club,2017/11/30,U-17, Julian Gaines ,Forward,Tex.
+ Naperville,Sockers FC,2017/11/30,U-17, Cade Hagan ,Forward,Illinois
+ Chino,FC Golden State,2017/11/30,U-17, Diego Lopez ,Forward,California
+ Fresno,Seattle Sounders FC,2017/11/30,U-17, Alfonso Ocampo Chavez ,Forward,California
+ Frisco,FC Dallas,2017/11/30,U-17, Dante Sealy ,Forward,Tex.
+ Graham,Seattle Sounders FC,2017/11/30,U-17, Ray Serrano ,Forward,Washington
+ Herriman,Real Salt Lake,2017/11/20,U-18, David Ochoa ,Goalkeeper,Utah
+ New York,New York City FC,2017/11/20,U-18, Alex Rando ,Goalkeeper,New York
+ Lompoc,Barca Academy,2017/11/20,U-18, Julian Araujo ,Defender,California
+ Douglasville,Atlanta United FC,2017/11/20,U-18, George Bello ,Defender,Georgia
+ Wilton,New York City FC,2017/11/20,U-18, Nico Benalcazar ,Defender,Connecticut
+ Littleton,Colorado Rapids,2017/11/20,U-18, Luke Hansen ,Defender,Colorado
+ Chicago,Chicago Fire,2017/11/20,U-18, David Mendoza ,Defender,Illinois
+ Corona,LA Galaxy,2017/11/20,U-18, Leonardo Sepulveda ,Defender,California
+ Indio,LA Galaxy,2017/11/20,U-18, Oscar Cervantes ,Midfielder,California
+ Overland Park,Sporting Kansas City,2017/11/20,U-18, Cameron Duke ,Midfielder,Kansas
+ Brooklyn,New York City FC,2017/11/20,U-18, Justin Haak ,Midfielder,New York
+ Mesquite,FC Dallas,2017/11/20,U-18, Luis Hernandez ,Midfielder,Texas
+ Woodbridge,D.C. United,2017/11/20,U-18, Nelson Martinez ,Midfielder,Virginia
+ New Albany,Crew SC Academy,2017/11/20,U-18, Aidan Morris ,Midfielder,Ohio
+ Walled Lake,Crew Sc Academy Wolves,2018/06/01,U-18, *Owen Finnerty ,Goalkeeper,Michigan
+ Bakersfield,LA Galaxy,2018/06/01,U-18, *John Pulskamp ,Goalkeeper,California
+ New York,New York City FC,2018/06/01,U-18, Alex Rando ,Goalkeeper,New York
+ Lompoc,Barca Academy,2018/06/01,U-18, Julian Araujo ,Defender,California
+ Salida,Sacramento Republic FC,2018/06/01,U-18, *Edward Berumen ,Defender,California
+ Atlanta,Atlanta United FC,2018/06/01,U-18, *Kendall Edwards ,Defender,Georgia
+ Brooklyn,New York City FC,2018/06/01,U-18, Justin Haak ,Defender,New York
+ Garland,FC Dallas,2018/06/01,U-18, *Julian Hinojosa ,Defender,Texas
+ Gilbert,Real Salt Lake,2018/06/01,U-18, *Erwin Martinez ,Defender,Arizona
+ Gage Park,Chicago Fire,2018/06/01,U-18, David Mendoza ,Defender,Illinois
+ Chicago,Chicago Fire,2018/06/01,U-18, *Andre Reynolds ,Defender,Illinois
+ Corona,LA Galaxy,2018/06/01,U-18, Leonardo Sepulveda ,Defender,California
+ Santa Rosa,Real Salt Lake,2018/06/01,U-18, Luis Arriaga ,Midfielder,California
+ Madrid,Atletico Madrid,2018/06/01,U-18, *Michael Carmona ,Midfielder,Spain
+ Tampa,Chargers SC,2018/06/01,U-18, *Jeffery Copper ,Midfielder,Florida
+ Overland Park,Sporting Kansas City,2018/06/01,U-18, Cameron Duke ,Midfielder,Kansas
+ Lincoln,Sacramento Republic FC,2018/06/01,U-18, Hunter George ,Midfielder,California
+ Las Vegas,Seattle Sounders FC,2018/06/01,U-18, Azriel Gonzalez ,Midfielder,Nev.
+ Ft. Lauderdale,Crew SC Academy,2018/06/01,U-18, Aidan Morris ,Midfielder,Florida
+ Little Rock,FC Dallas,2018/06/01,U-18, Thomas Roberts ,Midfielder,Ark.
+ Birmingham,FC Dallas,2018/06/01,U-18, *Tanner Tessmann ,Midfielder,Alabama
+ Sacramento,Sacramento Republic FC,2018/06/01,U-18, Quincy Butler ,Forward,California
+ Manhattan,S.S.C. Napoli,2018/06/01,U-18, *Salvatore Esposito ,Forward,New York
+ Wickford,Southend United,2018/06/01,U-18, *Charlie Kelman ,Forward,England
+ Dallas,FC Dallas,2018/06/01,U-18, *Gibran Rayo ,Forward,Texas
+ Bethesda,Bethesda SC,2018/06/01,U-18, Gabriel Segal ,Forward,Maryland
+ Sandy,Real Salt Lake,2018/06/01,U-18, *Julian Vazquez ,Forward,Utah
+ Los Angeles,LA Galaxy,2017/01/23,U-18,  Eric Lopez ,Goalkeeper,California
+ Tukwila,Seattle Sounders,2017/01/23,U-18, Trey Muse ,Goalkeeper,Washington
+ Greensboro,NC Fusion,2017/01/23,U-18, Alec Smir ,Goalkeeper,North Carolina
+ Los Angeles,LA Galaxy,2017/10/02,U-18, Eric Lopez ,Goalkeeper,California
+ Petaluma,FC Koln,2017/10/02,U-18, Brady Scott ,Goalkeeper,California
+ Lompoc,Barca Academy,2017/10/02,U-18, Julian Araujo ,Defender,California
+ Bear,Wake Forest,2017/10/02,U-18, Mark McKenzie ,Defender,Delaware
+ Drexel Hill,Philadelphia Union,2017/10/02,U-18, Matthew Real ,Defender,Pennsylvania
+ Columbia,Saint Louis FC Academy,2017/10/02,U-18, Aedan Stanely ,Defender,Illinois
+ San Diego,Club Tijuana,2017/10/02,U-18, Angel Uribe ,Defender,California
+ Santa Barbara,Stanford,2017/10/02,U-18, Carson Vom Steeg ,Defender,California
+ Granite Bay,Sacramento Republic FC,2016/06/01,U-18, Cameron Douglas ,Goalkeeper,California
+ Los Angeles,LA Galaxy,2016/06/01,U-18, Eric Lopez ,Goalkeeper,California
+ Petaluma,De Anza Force Academy,2016/06/01,U-18, Brady Scott ,Goalkeeper,California
+ Wappingers Fall,New York Red Bulls,2016/06/01,U-18, Tyler Adams ,Defender,New York
+ Saddle River,Leicester City,2016/06/01,U-18, Kyle Gruno ,Defender,New Jersey
+ West Hartford,New England Revolution Academy,2016/06/01,U-18, Daniel Jones ,Defender,Connecticut
+ Drexel Hill,Philadelphia Union,2016/06/01,U-18, Matthew Real ,Defender,New Jersey
+ Columbia,St. Louis Scott Gallagher SC,2016/06/01,U-18, Aedan Stanely ,Defender,Illinois
+ San Diego,Club Tijuana,2016/06/01,U-18, Angel Uribe ,Defender,California
+ Santa Barbara,Real So Cal,2016/06/01,U-18, Carson Vom Steeg ,Defender,California
+ Sanford,Orlando City SC Academy,2016/06/01,U-18, Raul Aguilera ,Midfielder,Florida
+ Del Ray Beach,Genoa C.F.C,2016/06/01,U-18, Paolo Belloni Urso ,Midfielder,Florida
+ Granite Bay,Sacramento Republic,2016/08/08,U-18, Cameron Douglas ,Goalkeeper,California
+ Petaluma,De Anza Force,2016/08/08,U-18, Brady Scott ,Goalkeeper,California
+ Saddle River,Leicester City,2016/08/08,U-18, Kyle Gruno ,Defender,New Jersey
+ West Hartford,New England Revolution,2016/08/08,U-18, Daniel Jones ,Defender,Connecticut
+ Caseyville,St. Louis Scott Gallagher,2016/08/08,U-18, Jack Maher ,Defender,Illinois
+ Drexel Hill,Philadelphia Union,2016/08/08,U-18, Matthew Real ,Defender,Pennsylvania
+ Columbia,Saint Louis FC,2016/08/08,U-18, Aedan Stanley ,Defender,Illinois
+ Santa Barbara,Real So Cal,2016/08/08,U-18, Carson Vom Steeg ,Defender,California
+ Manassas,DC United,2016/08/08,U-18, Jose Carranza ,Midfielder,Virginia
+ Santa Rosa,C.F. Monterrey,2016/08/08,U-18, Jonathan Gonzalez ,Midfielder,California
+ San Jose,San Jose Earthquakes,2016/08/08,U-18, Andrew Paoli ,Midfielder,California
+ Highland Village,FC Dallas,2016/08/08,U-18, Paxton Pomykal ,Midfielder,Texas
+ Birmingham,FC Dallas,2016/08/08,U-18, Brandon Servania ,Midfielder,Alabama
+ Midlothian,Unattached,2016/08/08,U-18, Nick Taitague ,Midfielder,Virginia
+ Sacramento,Sacramento Republic,2016/08/08,U-18, Shaft Brewer ,Forward,California
+ Evergreen,Colorado Rush,2016/08/08,U-18, Griffin Dorsey ,Forward,Colorado
+ San Diego,Club Tijuana,2016/08/08,U-18, Ernesto Espinoza ,Forward,California
+ New York,AIK Fotboll,2016/08/08,U-18, Nebiyou Perry ,Forward,New York
+ Hamilton,New England Revolution,2016/08/08,U-18, Justin Rennicks ,Forward,Massachusetts
+ Sarasota,Unattached,2016/08/08,U-18, Aristotle Zarris ,Forward,Florida
+ Los Angeles,LA Galaxy,2017/10/02,U-18, Eric Lopez ,Goalkeeper,California
+ Petaluma,FC Koln,2017/10/02,U-18, Brady Scott ,Goalkeeper,California
+ Lompoc,Barca Academy,2017/10/02,U-18, Julian Araujo ,Defender,California
+ Bear,Wake Forest,2017/10/02,U-18, Mark McKenzie ,Defender,Delaware
+ Drexel Hill,Philadelphia Union,2017/10/02,U-18, Matthew Real ,Defender,Pennsylvania
+ Columbia,Saint Louis FC Academy,2017/10/02,U-18, Aedan Stanely ,Defender,Illinois
+ San Diego,Club Tijuana,2017/10/02,U-18, Angel Uribe ,Defender,California
+ Santa Barbara,Stanford,2017/10/02,U-18, Carson Vom Steeg ,Defender,California
+ Kingwood,Texans SC Houston,2016/04/26,U-18, Andrew Morrison ,Goalkeeper,Texas
+ Petaluma,De Anza Force Academy,2016/04/26,U-18, Brady Scott ,Goalkeeper,California
+ Leicester,Leicester City,2016/04/26,U-18, Kyle Gruno ,Defender,England
+ Highlands Ranch,Real Colorado,2016/04/26,U-18, Bailey Heller ,Defender,Colorado
+ Drexel Hill,Philadelphia Union,2016/04/26,U-18, Matthew Real ,Defender,Pennsylvania
+ Dallas,FC Dallas,2016/04/26,U-18, Mark Salas ,Defender,Texas
+ Columbia,St. Louis Scott Gallagher Missouri Academy,2016/04/26,U-18, Aedan Stanley ,Defender,Illinois
+ Tijuana,Club Tijuana,2016/04/26,U-18, Angel Uribe ,Defender,Mexico
+ Santa Barbara,Real So Cal,2016/04/26,U-18, Carson Vom Steeg ,Defender,California
+ Sanford,Orlando City SC Acadmey,2016/04/26,U-18, Raul Aguilera Jr. ,Midfielder,Florida
+ Manassas,DC United,2016/04/26,U-18, Jose Carranza ,Midfielder,Virginia
+ Newark,Philadelphia Union,2016/04/26,U-18, Anthony Fontana ,Midfielder,Delaware
+ San Jose,San Jose Earthquakes,2016/04/26,U-18, Andrew Paoli ,Midfielder,California
+ Highland Village,FC Dallas,2016/04/26,U-18, Paxton Pomykal ,Midfielder,Texas
+ Dallas,FC Dallas,2016/04/26,U-18, Brandon Servania ,Midfielder,Texas
+ Midlothian,Carolina RailHawks FC,2016/04/26,U-18, Nicholas Taitague ,Midfielder,Virginia
+ Sacramento,Sacramento Republic FC,2016/04/26,U-18, Shaft Brewer Jr. ,Forward,California
+ Evergreen,Colorado Rush,2016/04/26,U-18, Griffin Dorsey ,Forward,Colorado
+ Melbourne Beach,Orlando City SC Academy,2016/04/26,U-18, Landen Haig ,Forward,Florida
+ Eden Prairie,Minnesota Thunder,2016/04/26,U-18, Thomas Katsiyiannis ,Forward,Minnesota
+ Hamilton,New England Revolution Academy,2016/04/26,U-18, Justin Rennicks ,Forward,Massachusetts
+ Bellevue,Seattle Sounders,2016/04/26,U-18, Kei Tomozawa ,Forward,Washington
+ Casa Grande,Real Salt Lake AZ,2016/04/26,U-18, Aristotle Zarris ,Forward,Arizona
+ Issaquah,Seattle Sounders FC,2018/05/03,U-19, Sam Fowler ,Goalkeeper,Washington
+ Miami,Atlanta United FC,2018/05/03,U-19, Justin Garces ,Goalkeeper,Florida
+ Glendora,LA Galaxy,2018/05/03,U-19, Jake Arteaga ,Defender,California
+ Roswell,Atlanta United FC,2018/05/03,U-19, Charlie Asensio ,Defender,Georgia
+ San Jose,San Jose Earthquakes,2018/05/03,U-19, Jean-Julien Foe Nuphaus ,Defender,California
+ Montclair,Hannover 96,2018/05/03,U-19, Chris Gloster ,Defender,New Jersey
+ Palm Beach,Atlanta United FC,2018/05/03,U-19, Rayshaun McGann ,Defender,Florida
+ Rye,New York City FC,2018/05/03,U-19, James Sands ,Defender,New York
+ Fort Wayne,Unattached,2018/05/03,U-19, Akil Watts ,Defender,Ind.
+ Eden,Unattached,2018/05/03,U-19, Taylor Booth ,Midfielder,Utah
+ Southlake,Solar Soccer Club,2018/05/03,U-19, Blaine Ferri ,Midfielder,Texas
+ Kirkland,Crossfire Premier,2018/05/03,U-19, Declan McGlynn ,Midfielder,Washington
+ Cleveland,Columbus Crew,2018/05/03,U-19, Isaiah Parente ,Midfielder,Ohio
+ Olmsted Falls,Crew SC Academy,2018/05/03,U-19, Sean Zawadzki ,Midfielder,Ohio
+ San Marcos,Pateadores,2018/05/03,U-19, Kyle Holcomb ,Forward,California
+ Littleton,Colorado Rapids,2018/05/03,U-19, Matt Hundley ,Forward,Colorado
+ Clarkston,FC Schalke 04,2018/05/03,U-19, Zyen Jones ,Forward,Georgia
+ Delran,Philadelphia Union,2018/05/03,U-19, Jeremy Rafanello ,Forward,New Jersey
+ Monterrey,C.F. Monterrey,2018/05/03,U-19, Jacobo Reyes ,Forward,Mexico
+ Casa Grande,Real Salt Lake,2018/05/03,U-19, Sebastian Soto ,Forward,Arizona
+ Wayne,Philadelphia Union,2017/02/03,U-19, Matthew Freese ,Goalkeeper,Pennsylvania
+ Mitchellville,D.C. United,2017/02/03,U-19, Noah Lawrence ,Goalkeeper,Maryland
+ Bethlehem,UCLA,2017/02/03,U-19, Kevin Silva ,Goalkeeper,Pennsylvania
+ Allentown,West Bromwich Albion F.C.,2017/02/03,U-19, Daniel Barbir ,Defender,Pennsylvania
+ Nashville,Clemson,2017/02/03,U-19, Tanner Dieterich ,Defender,Tenn.
+ Portland,Portland Timbers,2017/02/03,U-19, Marco Farfan ,Defender,Ore.
+ Indianapolis,Indianapolis Fire,2017/02/03,U-19, Justin Ingram ,Defender,Ind.
+ McKinney,SMU,2017/02/03,U-19, Edwin Munjoma ,Defender,Texas
+ Highland Village,FC Dallas,2017/02/03,U-19, Brandon Terwege ,Defender,Texas
+ Spring Valley,Cal Poly,2017/02/03,U-19,: Christian Enriquez ,Midfielder,California
+ Wethersfield,Providence College,2017/02/03,U-19, Daniel Griffin ,Midfielder,Connecticut
+ Murfreesboro,Swope Park Rangers,2017/02/03,U-19, Felipe Hernandez ,Midfielder,Tenn.
+ Lawrenceville,Atlanta United FC,2017/02/03,U-19, Michael Ille ,Midfielder,Georgia
+ Escondido,Real Salt Lake,2017/02/03,U-19, Milan Iloski ,Midfielder,California
+ Roseville,Sacramento Republic FC,2017/02/03,U-19, Ryley Kraft ,Midfielder,California
+ Tucker,Atlanta United FC,2017/02/03,U-19, Lagos Kunga ,Midfielder,Georgia
+ Bellevue,California-Berkley,2017/02/03,U-19, Simon Lekressner ,Midfielder,Washington
+ Johnson City,Swope Park Rangers,2017/02/03,U-19, William Little III ,Midfielder,Tenn.
+ Bridgeview,Chicago Fire,2017/02/03,U-19, Djordje Mihailovic ,Midfielder,Illinois
+ Columbia,George Mason,2017/02/03,U-19, Grant Robinson ,Midfielder,Maryland
+ Mary Esther,Leg-A-Z,2017/02/03,U-19, Nelson Hunsinger ,Forward,Florida
+ South Orange,PDA,2017/02/03,U-19, Mason Toye ,Forward,New Jersey
+ Mechanicsville,Borussia Dortmund,2016/11/04,U-19, Will Pulisic ,Goalkeeper,Virginia
+ Weston,Ft. Lauderdale Strikers,2016/11/04,U-19, Matias Reynares ,Goalkeeper,FL
+ Allentown,West Bromwich Albion,2016/11/04,U-19, Danny Barbir ,Defender,Pennsylvania
+ Nashville,Clemson,2016/11/04,U-19, Tanner Dieterich ,Defender,Tenn.
+ Portland,Portland Timbers,2016/11/04,U-19, Marco Farfan ,Defender,OR
+ Frisco,Grand Canyon University,2016/11/04,U-19, Hector Montalvo ,Defender,TX
+ Medina,Internationals SC,2016/11/04,U-19, John Nelson ,Defender,OH
+ Glencoe,Scott Gallagher St. Louis,2016/11/04,U-19, Logan Panchot ,Defender,Missouri
+ San Diego,NY Cosmos,2016/11/04,U-19, Alexis Velela ,Defender,CA
+ Seattle,Seattle Sounders FC,2016/11/04,U-19, Habib Barry ,Midfielder,WA
+ Port Chester,Orlando City SC,2016/11/04,U-19, Pierre Da Silva ,Midfielder,New York
+ Spring Valley,Cal Poly,2016/11/04,U-19, Christian Enriquez ,Midfielder,CA
+ Santa Ana,Patedores SC,2016/11/04,U-19, Ronaldo Escudero ,Midfielder,CA
+ Murfreesboro,Sporting KC,2016/11/04,U-19, Felipe Hernandez ,Midfielder,TN
+ Bridgeview,Chicago Fire,2016/11/04,U-19, Djordje Mihailovic ,Midfielder,IL
+ New York,Alianza Lima,2016/11/04,U-19, Adam Ozeri ,Midfielder,New York
+ Cary,Capitol Area Railhawks,2016/11/04,U-19, Alex Rose ,Forward,North Carolina
+ Chula Vista,Club Tijuana,2016/11/04,U-19, Brandon Vazquez ,Forward,CA
+ Berlin,PDA,2016/11/04,U-19, Isaiah Young ,Forward,New Jersey
+ Issaquah,Seattle Sounders FC,2018/05/03,U-19, Sam Fowler ,Goalkeeper,Washington
+ Miami,Atlanta United FC,2018/05/03,U-19, Justin Garces ,Goalkeeper,Florida
+ Glendora,LA Galaxy,2018/05/03,U-19, Jake Arteaga ,Defender,California
+ Roswell,Atlanta United FC,2018/05/03,U-19, Charlie Asensio ,Defender,Georgia
+ San Jose,San Jose Earthquakes,2018/05/03,U-19, Jean-Julien Foe Nuphaus ,Defender,California
+ Montclair,Hannover 96,2018/05/03,U-19, Chris Gloster ,Defender,New Jersey
+ Palm Beach,Atlanta United FC,2018/05/03,U-19, Rayshaun McGann ,Defender,Florida
+ Rye,New York City FC,2018/05/03,U-19, James Sands ,Defender,New York
+ Fort Wayne,Unattached,2018/05/03,U-19, Akil Watts ,Defender,Ind.
+ Eden,Unattached,2018/05/03,U-19, Taylor Booth ,Midfielder,Utah
+ Southlake,Solar Soccer Club,2018/05/03,U-19, Blaine Ferri ,Midfielder,Texas
+ Kirkland,Crossfire Premier,2018/05/03,U-19, Declan McGlynn ,Midfielder,Washington
+ Cleveland,Columbus Crew,2018/05/03,U-19, Isaiah Parente ,Midfielder,Ohio
+ Olmsted Falls,Crew SC Academy,2018/05/03,U-19, Sean Zawadzki ,Midfielder,Ohio
+ San Marcos,Pateadores,2018/05/03,U-19, Kyle Holcomb ,Forward,California
+ Littleton,Colorado Rapids,2018/05/03,U-19, Matt Hundley ,Forward,Colorado
+ Clarkston,FC Schalke 04,2018/05/03,U-19, Zyen Jones ,Forward,Georgia
+ Delran,Philadelphia Union,2018/05/03,U-19, Jeremy Rafanello ,Forward,New Jersey
+ Monterrey,C.F. Monterrey,2018/05/03,U-19, Jacobo Reyes ,Forward,Mexico
+ Casa Grande,Real Salt Lake,2018/05/03,U-19, Sebastian Soto ,Forward,Arizona
+ Oxnard,Real Salt Lake,2018/02/02,U-18,  David Ochoa ,Goalkeeper,California
+ Palm Harbor,Chargers Soccer Club,2018/02/02,U-18, Jacob Schick ,Goalkeeper,Florida
+ Austin,Philadelphia Union,2018/02/02,U-18, Kris Shakes ,Goalkeeper,Texas
+ Lompoc,Barca Academy,2018/02/02,U-18, Julian Araujo ,Defender,California
+ Wilton,New York City FC,2018/02/02,U-18, Nico Benalcazar ,Defender,Connecticut
+ Karlsruher,Karlsuher SC,2018/02/02,U-18, Ian Hoffmann ,Defender,Germany
+ Woodbrigde,D.C. United,2018/02/02,U-18, Nelson Martinez ,Defender,Virginia
+ Gage Park,Chicago Fire,2018/02/02,U-18, David Mendoza ,Defender,Illinois
+ Corona,LA Galaxy,2018/02/02,U-18, Leonardo Sepulveda ,Defender,California
+ Eden,Unattached,2018/02/02,U-18, Taylor Booth ,Midfielder,Utah
+ Wayne,Philadelphia Union,2017/02/03,U-19, Matthew Freese ,Goalkeeper,Pennsylvania
+ Mitchellville,D.C. United,2017/02/03,U-19, Noah Lawrence ,Goalkeeper,Maryland
+ Bethlehem,UCLA,2017/02/03,U-19, Kevin Silva ,Goalkeeper,Pennsylvania
+ Allentown,West Bromwich Albion F.C.,2017/02/03,U-19, Daniel Barbir ,Defender,Pennsylvania
+ Nashville,Clemson,2017/02/03,U-19, Tanner Dieterich ,Defender,Tenn.
+ Portland,Portland Timbers,2017/02/03,U-19, Marco Farfan ,Defender,Ore.
+ Indianapolis,Indianapolis Fire,2017/02/03,U-19, Justin Ingram ,Defender,Ind.
+ McKinney,SMU,2017/02/03,U-19, Edwin Munjoma ,Defender,Texas
+ Highland Village,FC Dallas,2017/02/03,U-19, Brandon Terwege ,Defender,Texas
+ Spring Valley,Cal Poly,2017/02/03,U-19,: Christian Enriquez ,Midfielder,California
+ Wethersfield,Providence College,2017/02/03,U-19, Daniel Griffin ,Midfielder,Connecticut
+ Murfreesboro,Swope Park Rangers,2017/02/03,U-19, Felipe Hernandez ,Midfielder,Tenn.
+ Lawrenceville,Atlanta United FC,2017/02/03,U-19, Michael Ille ,Midfielder,Georgia
+ Escondido,Real Salt Lake,2017/02/03,U-19, Milan Iloski ,Midfielder,California
+ Roseville,Sacramento Republic FC,2017/02/03,U-19, Ryley Kraft ,Midfielder,California
+ Tucker,Atlanta United FC,2017/02/03,U-19, Lagos Kunga ,Midfielder,Georgia
+ Bellevue,California-Berkley,2017/02/03,U-19, Simon Lekressner ,Midfielder,Washington
+ Johnson City,Swope Park Rangers,2017/02/03,U-19, William Little III ,Midfielder,Tenn.
+ Bridgeview,Chicago Fire,2017/02/03,U-19, Djordje Mihailovic ,Midfielder,Illinois
+ Columbia,George Mason,2017/02/03,U-19, Grant Robinson ,Midfielder,Maryland
+ Mary Esther,Leg-A-Z,2017/02/03,U-19, Nelson Hunsinger ,Forward,Florida
+ South Orange,PDA,2017/02/03,U-19, Mason Toye ,Forward,New Jersey
+ Mechanicsville,Borussia Dortmund,2016/11/04,U-19, Will Pulisic ,Goalkeeper,Virginia
+ Weston,Ft. Lauderdale Strikers,2016/11/04,U-19, Matias Reynares ,Goalkeeper,FL
+ Allentown,West Bromwich Albion,2016/11/04,U-19, Danny Barbir ,Defender,Pennsylvania
+ Nashville,Clemson,2016/11/04,U-19, Tanner Dieterich ,Defender,Tenn.
+ Portland,Portland Timbers,2016/11/04,U-19, Marco Farfan ,Defender,OR
+ Frisco,Grand Canyon University,2016/11/04,U-19, Hector Montalvo ,Defender,TX
+ Medina,Internationals SC,2016/11/04,U-19, John Nelson ,Defender,OH
+ Glencoe,Scott Gallagher St. Louis,2016/11/04,U-19, Logan Panchot ,Defender,Missouri
+ San Diego,NY Cosmos,2016/11/04,U-19, Alexis Velela ,Defender,CA
+ Seattle,Seattle Sounders FC,2016/11/04,U-19, Habib Barry ,Midfielder,WA
+ Port Chester,Orlando City SC,2016/11/04,U-19, Pierre Da Silva ,Midfielder,New York
+ Spring Valley,Cal Poly,2016/11/04,U-19, Christian Enriquez ,Midfielder,CA
+ Santa Ana,Patedores SC,2016/11/04,U-19, Ronaldo Escudero ,Midfielder,CA
+ Murfreesboro,Sporting KC,2016/11/04,U-19, Felipe Hernandez ,Midfielder,TN
+ Bridgeview,Chicago Fire,2016/11/04,U-19, Djordje Mihailovic ,Midfielder,IL
+ New York,Alianza Lima,2016/11/04,U-19, Adam Ozeri ,Midfielder,New York
+ Cary,Capitol Area Railhawks,2016/11/04,U-19, Alex Rose ,Forward,North Carolina
+ Chula Vista,Club Tijuana,2016/11/04,U-19, Brandon Vazquez ,Forward,CA
+ Berlin,PDA,2016/11/04,U-19, Isaiah Young ,Forward,New Jersey
+ Los Angeles,Queretaro,2016/04/15,U-19, Benn Diaz ,Goalkeeper,California
+ Frisco,FC Dallas,2016/04/15,U-19, Ben Hale ,Goalkeeper,Texas
+ Norwalk,LA Galaxy,2016/04/15,U-19, Hugo Arellano ,Defender,California
+ Allentown,West Bromwich Albion,2016/04/15,U-19, Danny Barbir ,Defender,Pennsylvania
+ Surbiton,Fulham FC,2016/04/15,U-19, Marlon Fossey ,Defender,England
+ Sacramento,Sacramento Republic,2016/04/15,U-19, Nabilai Kibunguchy ,Defender,California
+ Frisco,FC Dallas,2016/04/15,U-19, Hector Montalvo ,Defender,Texas
+ San Diego,New York Cosmos,2016/04/15,U-19, Alexis Velela ,Defender,California
+ Palmdale,New York Cosmos,2016/04/15,U-19, Eric Calvillo ,Midfielder,California
+ Port Chester,Orlando City SC,2016/04/15,U-19, Pierre Da Silva ,Midfielder,New York
+ San Diego,Fulham FC,2016/04/15,U-19, Luca De La Torre ,Midfielder,California
+ San Diego,RSL Arizona,2016/04/15,U-19, Sebastien Des Pres ,Midfielder,California
+ Getxo,Athletic Bilbao,2016/04/15,U-19, Ander Egiluz ,Midfielder,Spain
+ Mary Esther,Leg A-Z,2016/04/15,U-19, Nelson Hunsinger ,Midfielder,Florida
+ Little Elm,FC Dallas,2016/04/15,U-19, Weston McKinnie ,Midfielder,Texas
+ Cary,Capital Area Railhawks,2016/04/15,U-19, Colby Agu ,Forward,North Carolina
+ San Diego,Club Tijuana,2016/04/15,U-19, Ernesto Espinoza ,Forward,California
+ San Diego,Unattached,2016/04/15,U-19, Joe Gallardo ,Forward,California
+ Chula Vista,Club Tijuana,2016/04/15,U-19, Brandon Vazquez ,Forward,California
+ Berlin,PDA,2016/04/15,U-19, Isaiah Young ,Forward,New Jersey
+ Miami,Atlanta United FC,2018/07/13,U-20, Justin Garces ,Goalkeeper,Florida
+ Raleigh,Clemson University,2018/07/13,U-20, George Marks ,Goalkeeper,North Carolina
+ Tukwila,Indiana University,2018/07/13,U-20, Trey Muse ,Goalkeeper,Washington
+ South Orange,Hannover 96,2018/07/13,U-20, Chris Gloster ,Defender,New Jersey
+ Berlin,FC Union Berlin,2018/07/13,U-20, Lennard Maloney ,Defender,Germany
+ Garner,N.C. State University,2018/07/13,U-20, Manny Perez ,Defender,North Carolina
+ Seattle,Seattle Sounds FC,2018/07/13,U-20, Sam Rogers ,Defender,Washington
+ Columbia,St. Louis FC,2018/07/13,U-20, Aedan Stanley ,Defender,Illinois
+ Eden,Unattached,2018/07/13,U-20, Taylor Booth ,Midfielder,Utah
+ Atlanta,Atlanta United FC,2018/07/13,U-20, Chris Goslin ,Midfielder,Georgia
+ Casa Grande,Real Salt Lake,2018/07/13,U-20, Richie Ledezma ,Midfielder,Arizona
+ Highland Village,FC Dallas,2018/07/13,U-20, Paxton Pomykal ,Midfielder,Texas
+ Birmingham,FC Dallas,2018/07/13,U-20, Brandon Servania ,Midfielder,Alabama
+ Sarasota,LA Galaxy,2018/07/13,U-20, Aristotle Zarris ,Midfielder,Florida
+ Olmsted Falls,Crew SC Academy,2018/07/13,U-20, Sean Zawadski ,Midfielder,Ohio
+ Miami,Boca Juniors,2018/07/13,U-20, George Acosta ,Forward,Florida
+ Sacramento,LAFC,2018/07/13,U-20, Shaft Brewer Jr. ,Forward,California
+ Evergreen,Indiana University,2018/07/13,U-20, Griffin Dorsey ,Forward,Colorado
+ Hamilton,Indiana University,2018/07/13,U-20, Justin Rennicks ,Forward,Massachusetts
+ Carlsbad,Real Salt Lake,2018/07/13,U-20, Sebastian Soto ,Forward,California
+ Oxnard,Real Salt Lake,2018/05/09,U-20, David Ochoa ,Goalkeeper,California
+ O'Fallon,Saint Louis FC,2018/05/09,U-20, Seth Stiebel ,Goalkeeper,Missouri
+ Phoenix,Real Salt Lake,2018/05/09,U-20, Glademir Mendoza ,Defender,Arizona
+ Garner,N.C. State University,2018/05/09,U-20, Manny Perez ,Defender,North Carolina
+ Drexel Hill,Philadelphia Union,2018/05/09,U-20, Matthew Real ,Defender,Pennsylvania
+ Hoover,FC Dallas,2018/05/09,U-20, Chris Richards ,Defender,Alabama
+ Seattle,Seattle Sounders FC,2018/05/09,U-20, Sam Rogers ,Defender,Washington
+ San Diego,Club Tijuana,2018/05/09,U-20, Angel Uribe ,Defender,California
+ Santa Ana,Pateadores,2018/05/09,U-20, Frankie Amaya ,Midfielder,California
+ Powder Springs,Atlanta United FC,2018/05/09,U-20, Andrew Carleton ,Midfielder,Georgia
+ Atlanta,Atlanta United FC,2018/05/09,U-20, Chris Goslin ,Midfielder,Georgia
+ Miami,Envigado FC,2018/05/09,U-20, Andres Jimenez ,Midfielder,Florida
+ Casa Grande,Real Salt Lake,2018/05/09,U-20, Richie Ledezma ,Midfielder,Arizona
+ Los Angeles,LA Galaxy,2018/05/09,U-20, Alex Mendez ,Midfielder,California
+ Sarasota,LA Galaxy,2018/05/09,U-20, Aristotle Zarris ,Midfielder,Florida
+ Brooklyn,Oakwood Academy SC,2018/05/09,U-20, Simon Becher ,Forward,Connecticut
+ Sacramento,LAFC,2018/05/09,U-20, Shaft Brewer Jr. ,Forward,California
+ Encino,Sporting Kansas City,2018/05/09,U-20, Wilson Harris ,Forward,California
+ N.H.,Manchester,2018/05/09,U-20, Abdulkadir Haji ,Forward,Virginia Commonwealth University
+ Lynwood,LA Galaxy,2018/05/09,U-20, Ulysses Llanez Jr. ,Forward,California
+ Hamilton,Indiana University,2018/05/09,U-20, Justin Rennicks ,Forward,Massachusetts
+ Philadelphia,S.L. Benfica,2018/03/16,U-20, CJ Dos Santos ,Goalkeeper,Pennsylvania
+ Minneapolis,Nacional Atlético Clube,2018/03/16,U-20, Phillip Ejimadu ,Goalkeeper,Minnesota
+ Petaluma,FC Köln,2018/03/16,U-20, Brady Scott ,Goalkeeper,California
+ Almere-Stad,AFC Ajax,2018/03/16,U-20, Sergino Dest ,Defender,Netherlands
+ Bear,Philadelphia Union,2018/03/16,U-20, Mark McKenzie ,Defender,Delaware
+ Fort Lauderdale,Seattle Sounders FC,2018/03/16,U-20, Jake Morris ,Defender,Florida
+ Garner,N.C. State University,2018/03/16,U-20, Manny Perez ,Defender,North Carolina
+ Drexel Hill,Philadelphia Union,2018/03/16,U-20, Matthew Real ,Defender,Pennsylvania
+ Seattle,Seattle Sounds FC,2018/03/16,U-20, Sam Rogers ,Defender,Washington
+ Columbia,St. Louis FC,2018/03/16,U-20, Aedan Stanley ,Defender,Illinois
+ San Diego,Club Tijuana,2018/03/16,U-20, Angel Uribe ,Defender,California
+ Santa Ana,Pateadores,2018/03/16,U-20, Frankie Amaya ,Midfielder,California
+ Powder Springs,Atlanta United FC,2018/03/16,U-20, Andrew Carleton ,Midfielder,Georgia
+ Atlanta,Atlanta United FC,2018/03/16,U-20, Chris Goslin ,Midfielder,Georgia
+ Miami,Envigado FC,2018/03/16,U-20, Andres Jimenez ,Midfielder,Florida
+ Casa Grande,Real Salt Lake,2018/03/16,U-20, Richie Ledezma ,Midfielder,Arizona
+ Los Angeles,LA Galaxy,2018/03/16,U-20, Alex Mendez ,Midfielder,California
+ Highland Village,FC Dallas,2018/03/16,U-20, Paxton Pomykal ,Midfielder,Texas
+ Lilbirn,K.S.C. Lokeren Oost-Vlaanderen,2018/03/16,U-20, Juan Pablo Torres ,Midfielder,Georgia
+ Sacramento,Los Angeles FC,2018/03/16,U-20, Shaft Brewer ,Forward,California
+ Clarkston,FC Schalke 04,2018/03/16,U-20, Zyen Jones ,Forward,Georgia
+ Lynwood,LA Galaxy,2018/03/16,U-20, Ulysses Llanez Jr. ,Forward,California
+ New York,FC Köln,2018/03/16,U-20, Nebiyou Perry ,Forward,New York
+ Hamilton,Indiana University,2018/03/16,U-20, Justin Rennicks ,Forward,Massachusetts
+ O'Fallon,SV Werder Bremen,2018/03/16,U-20, Josh Sargent ,Forward,Missouri
+ Oxnard,Real Salt Lake,2018/02/02,U-18,  David Ochoa ,Goalkeeper,California
+ Palm Harbor,Chargers Soccer Club,2018/02/02,U-18, Jacob Schick ,Goalkeeper,Florida
+ Austin,Philadelphia Union,2018/02/02,U-18, Kris Shakes ,Goalkeeper,Texas
+ Lompoc,Barca Academy,2018/02/02,U-18, Julian Araujo ,Defender,California
+ Wilton,New York City FC,2018/02/02,U-18, Nico Benalcazar ,Defender,Connecticut
+ Karlsruher,Karlsuher SC,2018/02/02,U-18, Ian Hoffmann ,Defender,Germany
+ Woodbrigde,D.C. United,2018/02/02,U-18, Nelson Martinez ,Defender,Virginia
+ Gage Park,Chicago Fire,2018/02/02,U-18, David Mendoza ,Defender,Illinois
+ Corona,LA Galaxy,2018/02/02,U-18, Leonardo Sepulveda ,Defender,California
+ Eden,Unattached,2018/02/02,U-18, Taylor Booth ,Midfielder,Utah
+ Oxnard,Real Salt Lake,2018/05/09,U-20, David Ochoa ,Goalkeeper,California
+ O'Fallon,Saint Louis FC,2018/05/09,U-20, Seth Stiebel ,Goalkeeper,Missouri
+ Phoenix,Real Salt Lake,2018/05/09,U-20, Glademir Mendoza ,Defender,Arizona
+ Garner,N.C. State University,2018/05/09,U-20, Manny Perez ,Defender,North Carolina
+ Drexel Hill,Philadelphia Union,2018/05/09,U-20, Matthew Real ,Defender,Pennsylvania
+ Hoover,FC Dallas,2018/05/09,U-20, Chris Richards ,Defender,Alabama
+ Seattle,Seattle Sounders FC,2018/05/09,U-20, Sam Rogers ,Defender,Washington
+ San Diego,Club Tijuana,2018/05/09,U-20, Angel Uribe ,Defender,California
+ Santa Ana,Pateadores,2018/05/09,U-20, Frankie Amaya ,Midfielder,California
+ Powder Springs,Atlanta United FC,2018/05/09,U-20, Andrew Carleton ,Midfielder,Georgia
+ Atlanta,Atlanta United FC,2018/05/09,U-20, Chris Goslin ,Midfielder,Georgia
+ Miami,Envigado FC,2018/05/09,U-20, Andres Jimenez ,Midfielder,Florida
+ Casa Grande,Real Salt Lake,2018/05/09,U-20, Richie Ledezma ,Midfielder,Arizona
+ Los Angeles,LA Galaxy,2018/05/09,U-20, Alex Mendez ,Midfielder,California
+ Sarasota,LA Galaxy,2018/05/09,U-20, Aristotle Zarris ,Midfielder,Florida
+ Brooklyn,Oakwood Academy SC,2018/05/09,U-20, Simon Becher ,Forward,Connecticut
+ Sacramento,LAFC,2018/05/09,U-20, Shaft Brewer Jr. ,Forward,California
+ Encino,Sporting Kansas City,2018/05/09,U-20, Wilson Harris ,Forward,California
+ N.H.,Manchester,2018/05/09,U-20, Abdulkadir Haji ,Forward,Virginia Commonwealth University
+ Lynwood,LA Galaxy,2018/05/09,U-20, Ulysses Llanez Jr. ,Forward,California
+ Hamilton,Indiana University,2018/05/09,U-20, Justin Rennicks ,Forward,Massachusetts
+ Miami,Atlanta United FC,2018/07/13,U-20, Justin Garces ,Goalkeeper,Florida
+ Raleigh,Clemson University,2018/07/13,U-20, George Marks ,Goalkeeper,North Carolina
+ Tukwila,Indiana University,2018/07/13,U-20, Trey Muse ,Goalkeeper,Washington
+ South Orange,Hannover 96,2018/07/13,U-20, Chris Gloster ,Defender,New Jersey
+ Berlin,FC Union Berlin,2018/07/13,U-20, Lennard Maloney ,Defender,Germany
+ Garner,N.C. State University,2018/07/13,U-20, Manny Perez ,Defender,North Carolina
+ Seattle,Seattle Sounds FC,2018/07/13,U-20, Sam Rogers ,Defender,Washington
+ Columbia,St. Louis FC,2018/07/13,U-20, Aedan Stanley ,Defender,Illinois
+ Eden,Unattached,2018/07/13,U-20, Taylor Booth ,Midfielder,Utah
+ Atlanta,Atlanta United FC,2018/07/13,U-20, Chris Goslin ,Midfielder,Georgia
+ Casa Grande,Real Salt Lake,2018/07/13,U-20, Richie Ledezma ,Midfielder,Arizona
+ Highland Village,FC Dallas,2018/07/13,U-20, Paxton Pomykal ,Midfielder,Texas
+ Birmingham,FC Dallas,2018/07/13,U-20, Brandon Servania ,Midfielder,Alabama
+ Sarasota,LA Galaxy,2018/07/13,U-20, Aristotle Zarris ,Midfielder,Florida
+ Olmsted Falls,Crew SC Academy,2018/07/13,U-20, Sean Zawadski ,Midfielder,Ohio
+ Miami,Boca Juniors,2018/07/13,U-20, George Acosta ,Forward,Florida
+ Sacramento,LAFC,2018/07/13,U-20, Shaft Brewer Jr. ,Forward,California
+ Evergreen,Indiana University,2018/07/13,U-20, Griffin Dorsey ,Forward,Colorado
+ Hamilton,Indiana University,2018/07/13,U-20, Justin Rennicks ,Forward,Massachusetts
+ Carlsbad,Real Salt Lake,2018/07/13,U-20, Sebastian Soto ,Forward,California
+ Philadelphia,S.L. Benfica,2018/03/16,U-20, CJ Dos Santos ,Goalkeeper,Pennsylvania
+ Minneapolis,Nacional Atlético Clube,2018/03/16,U-20, Phillip Ejimadu ,Goalkeeper,Minnesota
+ Petaluma,FC Köln,2018/03/16,U-20, Brady Scott ,Goalkeeper,California
+ Almere-Stad,AFC Ajax,2018/03/16,U-20, Sergino Dest ,Defender,Netherlands
+ Bear,Philadelphia Union,2018/03/16,U-20, Mark McKenzie ,Defender,Delaware
+ Fort Lauderdale,Seattle Sounders FC,2018/03/16,U-20, Jake Morris ,Defender,Florida
+ Garner,N.C. State University,2018/03/16,U-20, Manny Perez ,Defender,North Carolina
+ Drexel Hill,Philadelphia Union,2018/03/16,U-20, Matthew Real ,Defender,Pennsylvania
+ Seattle,Seattle Sounds FC,2018/03/16,U-20, Sam Rogers ,Defender,Washington
+ Columbia,St. Louis FC,2018/03/16,U-20, Aedan Stanley ,Defender,Illinois
+ San Diego,Club Tijuana,2018/03/16,U-20, Angel Uribe ,Defender,California
+ Santa Ana,Pateadores,2018/03/16,U-20, Frankie Amaya ,Midfielder,California
+ Powder Springs,Atlanta United FC,2018/03/16,U-20, Andrew Carleton ,Midfielder,Georgia
+ Atlanta,Atlanta United FC,2018/03/16,U-20, Chris Goslin ,Midfielder,Georgia
+ Miami,Envigado FC,2018/03/16,U-20, Andres Jimenez ,Midfielder,Florida
+ Casa Grande,Real Salt Lake,2018/03/16,U-20, Richie Ledezma ,Midfielder,Arizona
+ Los Angeles,LA Galaxy,2018/03/16,U-20, Alex Mendez ,Midfielder,California
+ Highland Village,FC Dallas,2018/03/16,U-20, Paxton Pomykal ,Midfielder,Texas
+ Lilbirn,K.S.C. Lokeren Oost-Vlaanderen,2018/03/16,U-20, Juan Pablo Torres ,Midfielder,Georgia
+ Sacramento,Los Angeles FC,2018/03/16,U-20, Shaft Brewer ,Forward,California
+ Clarkston,FC Schalke 04,2018/03/16,U-20, Zyen Jones ,Forward,Georgia
+ Lynwood,LA Galaxy,2018/03/16,U-20, Ulysses Llanez Jr. ,Forward,California
+ New York,FC Köln,2018/03/16,U-20, Nebiyou Perry ,Forward,New York
+ Hamilton,Indiana University,2018/03/16,U-20, Justin Rennicks ,Forward,Massachusetts
+ O'Fallon,SV Werder Bremen,2018/03/16,U-20, Josh Sargent ,Forward,Missouri
+ Newport Beach,University of California,2017/06/03,U-20, Jonathan Klinsmann ,Goalkeeper,California
+ Alamo,Georgetown,2017/06/03,U-20, J.T. Marcinkowski ,Goalkeeper,California
+ Petaluma,De Anza Force,2017/06/03,U-20, Brady Scott ,Goalkeeper,California
+ Salt Lake City,Real Salt Lake,2017/06/03,U-20, Danny Acosta ,Defender,Utah
+ Westcliff-on-Sea,Tottenham Hotspur FC,2017/06/03,U-20, Cameron Carter-Vickers ,Defender,England
+ Tucson,Real Salt Lake,2017/06/03,U-20, Justen Glad ,Defender,Arizona
+ Las Cruces,University of New Mexico,2017/06/03,U-20, Aaron Herrera ,Defender,New Mexico
+ Lee's Summit,Sporting Kansas City,2017/06/03,U-20, Erik Palmer-Brown ,Defender,Missouri
+ Oviedo,Orlando City SC,2017/06/03,U-20, Tommy Redding ,Defender,Florida
+ Media,Philadelphia Union,2017/06/03,U-20, Auston Trusty ,Defender,Pennsylvania
+ Wappingers Falls,New York Red Bulls,2017/06/03,U-20, Tyler Adams ,Midfielder,New York
+ San Diego,Fulham FC,2017/06/03,U-20, Luca de la Torre ,Midfielder,California
+ Philadelphia,Philadelphia Union,2017/06/03,U-20, Derrick Jones ,Midfielder,Pennsylvania
+ Alexandria,University of Maryland,2017/06/03,U-20, Eryk Williamson ,Midfielder,Virginia
+ Bethesda,Arsenal FC,2017/06/03,U-20, Gedion Zelalem ,Midfielder,Md.*
+ Bethesda,Portland Timbers,2017/06/03,U-20, Jeremy Ebobisse ,Forward,Maryland
+ Newport Beach,University of California,2017/05/31,U-20, Jonathan Klinsmann ,Goalkeeper,California
+ Alamo,Georgetown,2017/05/31,U-20, J.T. Marcinkowski ,Goalkeeper,California
+ Petaluma,De Anza Force,2017/05/31,U-20, Brady Scott ,Goalkeeper,California
+ Salt Lake City,Real Salt Lake,2017/05/31,U-20, Danny Acosta ,Defender,Utah
+ Westcliff-on-Sea,Tottenham Hotspur FC,2017/05/31,U-20, Cameron Carter-Vickers ,Defender,England
+ Tucson,Real Salt Lake,2017/05/31,U-20, Justen Glad ,Defender,Arizona
+ Las Cruces,University of New Mexico,2017/05/31,U-20, Aaron Herrera ,Defender,New Mexico
+ Lee's Summit,Sporting Kansas City,2017/05/31,U-20, Erik Palmer-Brown ,Defender,Missouri
+ Oviedo,Orlando City SC,2017/05/31,U-20, Tommy Redding ,Defender,Florida
+ Media,Philadelphia Union,2017/05/31,U-20, Auston Trusty ,Defender,Pennsylvania
+ Wappingers Falls,New York Red Bulls,2017/05/31,U-20, Tyler Adams ,Midfielder,New York
+ San Diego,Fulham FC,2017/05/31,U-20, Luca de la Torre ,Midfielder,California
+ Philadelphia,Philadelphia Union,2017/05/31,U-20, Derrick Jones ,Midfielder,Pennsylvania
+ Alexandria,University of Maryland,2017/05/31,U-20, Eryk Williamson ,Midfielder,Virginia
+ Bethesda,Arsenal FC,2017/05/31,U-20, Gedion Zelalem ,Midfielder,Md.*
+ Bethesda,Portland Timbers,2017/05/31,U-20, Jeremy Ebobisse ,Forward,Maryland
+ Maple Grove,MK Dons,2015/11/11,U-23, Cody Cropper ,Goalkeeper,Minnesota
+ Cleveland,Leeds United,2015/11/11,U-23, Charlie Horton ,Goalkeeper,Ohio
+ Leawood,Sporting Kansas City,2015/11/11,U-23, Jon Kempin ,Goalkeeper,Kansas
+ Berlin,Hertha BSC,2015/11/11,U-23, John Brooks ,Defender,Germany
+ Westcliff on Sea,Tottenham Hotspur,2015/11/11,U-23, Cameron Carter-Vickers ,Defender,England
+ Woodbury,Montreal Impact,2015/11/11,U-23, Eric Miller ,Defender,Minnesota
+ Boulder,Royal Mouscron,2015/11/11,U-23, Shane O’Neill ,Defender,Colorado
+ Edmund,Real Salt Lake,2015/11/11,U-23, Boyd Okwuonu ,Defender,Okla.
+ Irvine,LA Galaxy,2015/11/11,U-23, Dave Romney ,Defender,California
+ Los Angeles,LA Galaxy,2015/11/11,U-23, Oscar Sorto ,Defender,California
+ Northville,San Jose Earthquakes,2015/11/11,U-23, Fatai Alashe ,Midfielder,Michigan
+ Tampa,Bayern Munich,2015/11/11,U-23, Julian Green ,Midfielder,Florida
+ Chula Vista,Club Tijuana,2015/11/11,U-23, Alejandro Guido ,Midfielder,California
+ Milwaukee,Chicago Fire,2015/11/11,U-23, Matt Polster ,Midfielder,Wisconsin
+ Brighton,Colorado Rapids,2015/11/11,U-23, Dillon Serna ,Midfielder,Colorado
+ Bethesda,Rangers,2015/11/11,U-23, Gedion Zelalem ,Midfielder,Maryland
+ Berlin,VfB Stuttgart,2015/11/11,U-23, Jerome Kiesewetter ,Forward,Germany
+ Leander,New York City FC,2015/11/11,U-23, Khiry Shelton ,Forward,Tex.
+ Washington,FC Sion,2015/11/11,U-23, Maki Tall ,Forward,D.C.
+Cleveland,Leeds,2015/10/09,U-23,  Charlie Horton ,Goalkeeper,Ohio
+ Highlands Ranch,Molde,2015/10/09,U-23, Ethan Horvath ,Goalkeeper,Colorado
+ Downington,Freiburg,2015/10/09,U-23, Zack Steffen ,Goalkeeper,Pennsylvania
+ Westcliff on Sea,Tottenham Hotspur,2015/10/09,U-23, Cameron Carter-Vickers ,Defender,England
+ Clifton,New York Red Bulls,2015/10/09,U-23, Matt Miazga ,Defender,New Jersey
+ Woodbury,Montreal Impact,2015/10/09,U-23, Eric Miller ,Defender,Minnesota
+ Concord,Unattached,2015/10/09,U-23, William Packwood ,Defender,Massachusetts
+ Brighton,Colorado Rapids,2015/10/09,U-23, Dillon Serna ,Defender,Colorado
+ Northville,San Jose Earthquakes,2015/10/09,U-23, Fatai Alashe ,Midfielder,Michigan
+ Arlington,Chesterfield,2015/10/09,U-23, Gboly Ariyibi ,Midfielder,Virginia
+ Garden Grove,Real Salt Lake,2015/10/09,U-23, Luis Gil ,Midfielder,California
+ Dallas,Fulham,2015/10/09,U-23, Emerson Hyndman ,Midfielder,Texas
+ Sunnyvale,San Jose Earthquakes,2015/10/09,U-23, Marc Pelosi ,Midfielder,California
+ Milwaukee,Chicago Fire,2015/10/09,U-23, Matt Polster ,Midfielder,Wisconsin
+ Gahanna,Columbus Crew SC,2015/10/09,U-23, Wil Trapp ,Midfielder,Ohio
+ Bethesda,Rangers,2015/10/09,U-23, Gedion Zelalem ,Midfielder,Maryland
+ El Paso,C.D. Juarez,2015/10/09,U-23, Alonso Hernandez ,Forward,Texas
+ Berlin,VfB Stuttgart,2015/10/09,U-23, Jerome Kiesewetter ,Forward,Germany
+ Mercer Island,Stanford,2015/10/09,U-23, Jordan Morris ,Forward,Washington
+ Washington,FC Sion,2015/10/09,U-23, Maki Tall ,Forward,D.C..

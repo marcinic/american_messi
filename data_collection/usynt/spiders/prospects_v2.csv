@@ -1,0 +1,873 @@
+,city,club,date,level,name,position,state
+0,Faribault,Shattuck-Saint Mary's,2017/08/04,U-15,JT Harms,Goalkeeper,Minnesota
+1,Norridge,Chicago Fire,2017/08/04,U-15,Damian Las,Goalkeeper,Illinois
+2,Chicago,FC United Soccer Club,2017/08/04,U-15,Axel Alejandre,Defender,Illinois
+3,Douglasville,Atlanta United,2017/08/04,U-15,George Bello,Defender,Georgia
+4,Springfield,Sporting Kansas City,2017/08/04,U-15,Mitch Eise,Defender,Missouri
+5,Tampa,Chargers Soccer Club,2017/08/04,U-15,Mason Judge,Defender,Florida
+6,Irvine,Pateadores,2017/08/04,U-15,Kenny Nielsen,Defender,California
+7,Lake Grove,New York City FC,2017/08/04,U-15,Joseph Scally,Defender,New York
+8,Seattle,Seattle Sounders,2017/08/04,U-15,Josh Atencio,Midfielder,Washington
+9,Tracy,San Jose Earthquakes,2017/08/04,U-15,Gilbert Fuentes,Midfielder,California
+10,Dallas,FC Dallas,2017/08/04,U-15,Cesar Garcia,Midfielder,Texas
+11,Panorama City,Real So Cal,2017/08/04,U-15,Adam Saldana,Midfielder,California
+12,Chester,New York Red Bulls,2017/08/04,U-15,Peter Stroud,Midfielder,New Jersey
+13,Greensboro,Sporting Kansas City,2017/08/04,U-15,Gianluca Busio,Forward,North Carolina
+14,Austin,Lonestar Soccer Club,2017/08/04,U-15,Julian Gaines,Forward,Texas
+15,Duluth,Atlanta United,2017/08/04,U-15,Daniel Mangarov,Forward,Georgia
+16,Fresno,Seattle Sounders,2017/08/04,U-15,Alfonso Ocampo Chavez,Forward,California
+17,Bedford,New York City FC,2017/08/04,U-15,Giovanni Reyna,Forward,New York
+18,Indian Head,D.C. United,2018/05/04,U-15,Mikah Seger,Goalkeeper,Maryland
+19,Addison,Chicago Fire,2018/05/04,U-15,Gabriel Slonina,Goalkeeper,Illinois
+20,Pembroke Pines,Weston FC,2018/05/04,U-15,Noah Allen,Defender,Florida
+21,Philadelphia,Philadelphia Union,2018/05/04,U-15,Brandon Craig,Defender,Pennsylvania
+22,Long Beach,Los Angeles Football Club,2018/05/04,U-15,Antonio Leone,Defender,California
+23,Glen Ellyn,Sockers FC,2018/05/04,U-15,Ryan Quintos,Defender,Illinois
+24,Chicago,Chicago Fire,2018/05/04,U-15,Justin Reynolds,Defender,Illinois
+25,Akron,Internationals,2018/05/04,U-15,Levi Stephens,Defender,Ohio
+26,Barcelona,UE Cornella/ESP,2018/05/04,U-15,Devan Tanton,Defender,Spain
+27,Tukwila,Seattle Sounders FC,2018/05/04,U-15,Juan Alvarez,Midfielder,Washington
+28,Eden,La Roca,2018/05/04,U-15,Zach Booth,Midfielder,Utah
+29,Little Elm,FC Dallas,2018/05/04,U-15,Cesar Elizalde,Midfielder,Texas
+30,Lincroft,Players Development Academy,2018/05/04,U-15,Kenan Hot,Midfielder,New Jersey
+31,Apex,North Carolina FC Youth,2018/05/04,U-15,Brendan Lambe,Midfielder,North Carolina
+32,Stillwater,Oklahoma City Energy FC,2018/05/04,U-15,Rokas Pukstas,Midfielder,Oklahoma
+33,Elkhart,Indiana Fire Academy,2018/05/04,U-15,Allan Rodriguez,Midfielder,Indiana
+34,La Mesa,San Diego Surf,2018/05/04,U-15,Evan Rotundo,Midfielder,California
+35,Seattle,Seattle Sounders FC,2018/05/04,U-15,Austin Brummett,Forward,Washington
+36,Rancho Cordova,Sacramento Republic FC,2018/05/04,U-15,Rafael Jauregui,Forward,California
+37,Redmond,Crossfire Premier,2018/05/04,U-15,Korede Osundina,Forward,Washington
+38,San Jose,De Anza Force,2018/01/12,U-15,Damian Alguera,Goalkeeper,California
+39,Frisco,FC Dallas,2018/01/12,U-15,Antonio Carrera,Goalkeeper,Texas
+40,St. Paul,Minnesota United FC,2018/01/12,U-15,Fred Emmings,Goalkeeper,Minnesota
+41,Addison,Chicago Fire,2018/01/12,U-15,Gabriel Slonina,Goalkeeper,Illinois
+42,Atlanta,Atlanta United FC,2018/01/12,U-15, Bryan Casanova,Defender,Georgia
+43,Ridgewood,New York Red Bulls,2018/01/12,U-15,John Carlos Cortez,Defender,New Jersey
+44,Philadelphia,Philadelphia Union,2018/01/12,U-15,Brandan Craig,Defender,Pennsylvania
+45,South Gate,LA Galaxy,2018/01/12,U-15,Jason Cruz,Defender,California
+46,Dix Hills,New York City FC,2018/01/12,U-15,Cooper Flax,Defender,New York
+47,Torrance,Los Angeles Football Club,2018/01/12,U-15,Robert Kaemmerer,Defender,California
+48,New York,New York City FC,2018/01/12,U-15,Justin Kern,Defender,New York
+49,Ambler,Philadelphia Union,2018/01/12,U-15,Ryan Lau,Defender,Pennsylvania
+50,Long Beach,Los Angeles Football Club,2018/01/12,U-15,Antonio Leone,Defender,California
+51,Allen,FC Dallas,2018/01/12,U-15,George Medill,Defender,Texas
+52,Chicago,Chicago Fire,2018/01/12,U-15,Justin Reynolds,Defender,Illinois
+53,Issaquah,Pacific Northwest Soccer Club,2018/01/12,U-15,Takashi Sasaki,Defender,Washington
+54,San Antonio,San Antonio FC,2018/01/12,U-15,Leo Torres Hurtado,Defender,Texas
+55,Tukwila,Pacific Northwest Soccer Club,2018/01/12,U-15, Juan Alvarez,Midfielder,Washington
+56,Stockton,Sacramento Republic FC,2018/01/12,U-15,Josemaria Barrera,Midfielder,California
+57,Eden,La Roca,2018/01/12,U-15,Zack Booth,Midfielder,Utah
+58,Parkville,Sporting Kansas City,2018/01/12,U-15,Osvaldo Cisneros,Midfielder,Missouri
+59,Little Elm,FC Dallas,2018/01/12,U-15,Cesar Elizalde,Midfielder,Texas
+60,Lincroft,Players Development Academy,2018/01/12,U-15,Kenan Hot,Midfielder,New Jersey
+61,Escondido,San Diego Surf,2018/01/12,U-15,Rey Millan,Midfielder,California
+62,San Antonio,San Antonio FC,2018/01/12,U-15,Rocky Perez,Midfielder,Texas
+63,Porter Ranch,Los Angeles Football Club,2018/01/12,U-15,Dylan Presto,Midfielder,California
+64,Stillwater,Oklahoma Energy FC,2018/01/12,U-15,Rokus Pukstas,Midfielder,Oklahoma
+65,La Mesa,San Diego Surf,2018/01/12,U-15,Evan Rotundo,Midfielder,California
+66,Issaquah,Pacific Northwest Soccer Club,2018/01/12,U-15,Ben Burns,Forward,Washington
+67,Oklahoma City,Oklahoma Energy FC,2018/01/12,U-15,Daniel Gutierrez-Jaime,Forward,Oklahoma
+68,Rancho Cordova,Sacramento Republic FC,2018/01/12,U-15,Rafael Jauregui,Forward,California
+69,Moreno Valley,Los Angeles Football Club,2018/01/12,U-15,Kevin Jimenez,Forward,California
+70,Fourqueux,Paris Saint-Germain,2018/01/12,U-15,Kevin Kelley,Forward,France
+71,Gaithersburg,CE Sabadell SC,2018/01/12,U-15,Ian Marcano,Forward,Maryland
+72,Redmond,Crossfire Oregon,2018/01/12,U-15,Korede Osundine,Forward,Washington
+73,Federal Way,Seattle Sounders FC,2018/01/12,U-15,Oscar Rincon-Rodriguez,Forward,Washington
+74,Chino Hills,LA Galaxy,2016/11/07,U-15,Aaron Cervantes,Goalkeeper,California
+75,Norridge,Chicago Fire,2016/11/07,U-15,Damian Las,Goalkeeper,Illinois
+76,Happy Valley,Portland Timbers,2016/11/07,U-15,Kashope Oladapo,Goalkeeper,Oregon
+77,Anchorage,Cook Inlet Soccer Club,2016/11/07,U-15,Jakob Stone,Goalkeeper,Alaska
+78,Chicago,FC United,2016/11/07,U-15, Axel Alejandre,Defender,Illinois
+79,Kearny,Cedar Stars Bergen,2016/11/07,U-15,Anthony Alvites,Defender,New Jersey
+80,Highlands Ranch,Real Colorado,2016/11/07,U-15,Sebastian Anderson,Defender,Colorado
+81,Olney,Bethesda Olney,2016/11/07,U-15,Noah Atanda,Defender,Maryland
+82,Douglasville,Atlanta United FC,2016/11/07,U-15,George Bello,Defender,Georgia
+83,Los Gatos,Santa Cruz Breakers,2016/11/07,U-15,Nicholas Douglas,Defender,California
+84,Tampa,Tampa Bay United,2016/11/07,U-15,Mason Judge,Defender,Florida
+85,Royal Palm Beach,Boca United,2016/11/07,U-15,Rayvon McGann,Defender,Florida
+86,Bergen,Cedar Stars Bergen,2016/11/07,U-15,Joshua Negrete,Defender,New Jersey
+87,Irvine,Pateadores,2016/11/07,U-15,Kenny Nielsen,Defender,California
+88,Lake Grove,NYC FC,2016/11/07,U-15,Joseph Scally,Defender,New York
+89,Lake Forest,Pateadores,2016/11/07,U-15,Skyler Smith,Defender,California
+90,Washington,D.C. United,2016/11/07,U-15, Nick Andersen,Midfielder,District of Columbia
+91,Seattle,Seattle Sounders,2016/11/07,U-15,Josh Atencio,Midfielder,Washington
+92,Detroit,Vardar,2016/11/07,U-15,Gavin Brose,Midfielder,Michigan
+93,Dallas,FC Dallas,2016/11/07,U-15,James Dunning,Midfielder,Texas
+94,Tracy,San Jose Earthquakes,2016/11/07,U-15,Gilbert Fuentes,Midfielder,California
+95,Georgetown,Lonestar Soccer Club,2016/11/07,U-15,Kaya Ignacio,Midfielder,Texas
+96,Austin,Lonestar Soccer Club,2016/11/07,U-15,Jorge Lopez,Midfielder,Texas
+97,Greenwich,NYC FC,2016/11/07,U-15,Harrison Robledo,Midfielder,Connecticut
+98,Burien,Seattle Sounders,2016/11/07,U-15,Daniel Robles,Midfielder,Washington
+99,Chester,NY Red Bulls,2016/11/07,U-15,Peter Stroud,Midfielder,New Jersey
+100,Greensboro,Sporting KC,2016/11/07,U-15, Gianluca Busio,Forward,North Carolina
+101,Santa Monica,LA Galaxy,2016/11/07,U-15,Victor Cano,Forward,California
+102,Dallas,Solar Chelsea SC,2016/11/07,U-15,Jackson Castro,Forward,Texas
+103,Wayne,Philadelphia Union,2016/11/07,U-15,Jack De Vries,Forward,Pennsylvania
+104,Austin,Lonestar Soccer Club,2016/11/07,U-15,Julian Gaines,Forward,Texas
+105,San Jose,De Anza Force,2016/11/07,U-15,Jack Imperato,Forward,California
+106,Greenwich,NYC FC,2016/11/07,U-15,Andres Jasson,Forward,Connecticut
+107,Duluth,Georgia United,2016/11/07,U-15,Daniel Mangarov,Forward,Georgia
+108,Fresno,Seattle Sounders,2016/11/07,U-15,Alfonso Ocampo Chavez,Forward,California
+109,Bedford,NYC FC,2016/11/07,U-15,Giovanni Reyna,Forward,New York
+110,Norridge,Chicago Fire,2017/04/25,U-15,Damian Las,Goalkeeper,Illinois
+111,Happy Valley,Portland Timbers,2017/04/25,U-15,Kashope Oladapo,Goalkeeper,Oregon
+112,Chicago,FC United,2017/04/25,U-15,Axel Alejandre,Defender,Illinois
+113,Highlands Ranch,Real Colorado,2017/04/25,U-15,Sebastian Anderson,Defender,Colorado
+114,Stockton,Sac Republic,2017/04/25,U-15,Erik Centeno,Defender,California
+115,Denver,Colorado Rapids,2017/04/25,U-15,Brandon Farmelo,Defender,Colorado
+116,Saint John's,Armada FC,2017/04/25,U-15,Owen Guske,Defender,Florida
+117,Tampa,Chargers Soccer Club,2017/04/25,U-15,Mason Judge,Defender,Florida
+118,Bergen,Cedar Stars Bergen,2017/04/25,U-15,Joshua Negrete,Defender,New Jersey
+119,Irvine,Pateadores,2017/04/25,U-15,Kenny Nielsen,Defender,California
+120,Lake Grove,New York City FC,2017/04/25,U-15,Joseph Scally,Defender,New York
+121,Palmetto,Chargers Soccer Club,2017/04/25,U-15,Landon Ameres,Midfielder,Florida
+122,Ocean,Philadelphia Union,2017/04/25,U-15,Julian Anderson,Midfielder,New Jersey
+123,Seattle,Seattle Sounders,2017/04/25,U-15,Josh Atencio,Midfielder,Washington
+124,Tracy,San Jose Earthquakes,2017/04/25,U-15,Gilbert Fuentes,Midfielder,California
+125,Burien,Seattle Sounders,2017/04/25,U-15,Daniel Robles,Midfielder,Washington
+126,Panorama City,Real So Cal,2017/04/25,U-15,Adam Saldana,Midfielder,California
+127,Chester,NYRB,2017/04/25,U-15,Peter Stroud,Midfielder,New Jersey
+128,Greensboro,Sporting KC,2017/04/25,U-15,Gianluca Busio,Forward,North Carolina
+129,Santa Monica,LA Galaxy,2017/04/25,U-15,Victor Cano,Forward,California
+130,Austin,Lonestar Soccer Club,2017/04/25,U-15,Julian Gaines,Forward,Texas
+131,Duluth,Atlanta United,2017/04/25,U-15,Daniel Mangarov,Forward,Georgia
+132,Fresno,Seattle Sounders,2017/04/25,U-15,Alfonso Ocampo Chavez,Forward,California
+133,Bedford,New York City FC,2017/04/25,U-15,Giovanni Reyna,Forward,New York
+134,Norridge,Chicago Fire,2017/01/09,U-15,Damian Las,Goalkeeper,Illinois
+135,Happy Valley,Portland Timbers,2017/01/09,U-15,Kash Oladapo,Goalkeeper,Oregon
+136,Chicago,FC United,2017/01/09,U-15,Axel Alejandre,Defender,Illinois
+137,Highlands Ranch,Real Colorado,2017/01/09,U-15,Sebastian Anderson,Defender,Colorado
+138,Douglasville,Atlanta United,2017/01/09,U-15,George Bello,Defender,Georgia
+139,Saint Johns,Armada FC,2017/01/09,U-15,Owen Guske,Defender,Florida
+140,Tampa,Chargers SC,2017/01/09,U-15,Mason Judge,Defender,Florida
+141,Clifton,Cedar Stars Bergen,2017/01/09,U-15,Joshua Negrete,Defender,New Jersey
+142,Irvine,Pateadores,2017/01/09,U-15,Kenny Nielsen,Defender,California
+143,Lake Grove,NYCFC,2017/01/09,U-15,Joseph Scally,Defender,New York
+144,Washington,D.C. United,2017/01/09,U-15,Nick Andersen,Midfielder,District of Columbia
+145,Ocean,Philadelphia Union,2017/01/09,U-15,Julian Anderson,Midfielder,New Jersey
+146,Seattle,Seattle Sounders FC,2017/01/09,U-15,Josh Atencio,Midfielder,Washington
+147,Tracy,San Jose Earthquakes,2017/01/09,U-15,Gilbert Fuentes Perez,Midfielder,California
+148,Burien,Seattle Sounders FC,2017/01/09,U-15,Daniel Robles,Midfielder,Washington
+149,Panorama City,Real So Cal,2017/01/09,U-15,Adam Saldana,Midfielder,California
+150,Chester,New York Red Bulls,2017/01/09,U-15,Peter Stroud,Midfielder,New Jersey
+151,Greensboro,Sporting KC,2017/01/09,U-15,Gianluca Busio,Forward,North Carolina
+152,Santa Monica,LA Galaxy,2017/01/09,U-15,Victor Cano,Forward,California
+153,Austin,Lonestar SC,2017/01/09,U-15,Julian Gaines,Forward,Texas
+154,Greenwich,NYCFC,2017/01/09,U-15,Andres Jasson,Forward,Connecticut
+155,Duluth,Atlanta United,2017/01/09,U-15,Daniel Mangarov,Forward,Georgia
+156,Graham,Seattle Sounders FC,2017/01/09,U-15,Alfonso Ocampo Chavez,Forward,Washington
+157,Bedord,NYCFC,2017/01/09,U-15,Giovanni Reyna,Forward,New York
+162,Douglasville,Atlanta United,2017/04/25,U-15,George Bello,Defender,Georgia
+166,Lake Grove,NYCFC,2017/04/25,U-15,Joseph Scally,Defender,New York
+174,Chino,FC Golden State,2017/04/25,U-15,Diego Lopez,Forward,California
+177,Bedford,NYCFC,2017/04/25,U-15,Giovanni Reyna,Forward,New York
+272,San Jose,De Anza Force,2018/03/02,U-15,Damian Alguera,Goalkeeper,California
+273,Upper Montclair,Cedar Stars Academy - Bergen,2018/03/02,U-15,Josh Nadison,Goalkeeper,New Jersey
+274,Indian Head,D.C. United,2018/03/02,U-15,Mikah Seger,Goalkeeper,Maryland
+275,Addison,Chicago Fire,2018/03/02,U-15,Gabriel Slonina,Goalkeeper,Illinois
+276,Pembroke Pines,Weston FC,2018/03/02,U-15, Noah Allen,Defender,Florida
+277,Washington,D.C. United,2018/03/02,U-15,Avery Miles,Defender,District of Columbia
+278,Ridgewood,New York Red Bulls,2018/03/02,U-15,John Carlos Cortez,Defender,New Jersey
+279,Philadelphia,Philadelphia Union,2018/03/02,U-15,Brandan Craig,Defender,Pennsylvania
+280,Dix Hills,New York City FC,2018/03/02,U-15,Cooper Flax,Defender,New York
+281,Long Beach,Los Angeles Football Club,2018/03/02,U-15,Antonio Leone,Defender,California
+282,Glen Ellyn,Sockers FC,2018/03/02,U-15,Ryan Quintos,Defender,Illinois
+283,Chicago,Chicago Fire,2018/03/02,U-15,Justin Reynolds,Defender,Illinois
+284,Akron,Internationals Soccer Club,2018/03/02,U-15,Levi Stephens,Defender,Ohio
+285,Barcelona,UE Cornella/ESP,2018/03/02,U-15,Devan Tanton,Defender,Spain
+286,Redondo Beach,Los Angeles Football Club,2018/03/02,U-15,Beau Yantz,Defender,California
+287,Tukwila,Seattle Sounders FC,2018/03/02,U-15, Juan Alvarez,Midfielder,Washington
+288,Eden,La Roca,2018/03/02,U-15,Zack Booth,Midfielder,Utah
+289,Aurora,Sockers FC,2018/03/02,U-15,Wyatt Borso,Midfielder,Illinois
+290,Little Elm,FC Dallas,2018/03/02,U-15,Cesar Elizalde,Midfielder,Texas
+291,Lincroft,Players Development Academy,2018/03/02,U-15,Kenan Hot,Midfielder,New Jersey
+292,Smyrna,Atlanta United FC,2018/03/02,U-15,Samuel Kolby,Midfielder,Georgia
+293,Apex,North Carolina FC,2018/03/02,U-15,Brendan Lambe,Midfielder,North Carolina
+294,Guadalajara,Toluca/MEX,2018/03/02,U-15,Nicolas Perez Guillen,Midfielder,Mexico
+295,Porter Ranch,Los Angeles Football Club,2018/03/02,U-15,Dylan Presto,Midfielder,California
+296,Stillwater,Oklahoma City Energy FC,2018/03/02,U-15,Rokus Pukstas,Midfielder,Oklahoma
+297,Elkhart,Indiana Fire Academy,2018/03/02,U-15,Allen Rodriguez,Midfielder,Indiana
+298,La Mesa,San Diego Surf,2018/03/02,U-15,Evan Rotundo,Midfielder,California
+299,Seattle,Seattle Sounders FC,2018/03/02,U-15,Austin Brummett,Forward,Washington
+300,Issaquah,Pacific Northwest Soccer Club,2018/03/02,U-15,Ben Burns,Forward,Washington
+301,Parkville,Sporting Kansas City,2018/03/02,U-15,Osvaldo Cisneros,Forward,Missouri
+302,Oklahoma City,Oklahoma City Energy FC,2018/03/02,U-15,Daniel Gutierrez-Jaime,Forward,Oklahoma
+303,Rancho Cordova,Sacramento Republic FC,2018/03/02,U-15,Rafael Jauregui,Forward,California
+304,Raleigh,North Carolina FC,2018/03/02,U-15,Marvin Mariche Prudente,Forward,North Carolina
+305,Redmond,Crossfire Premier,2018/03/02,U-15,Korede Osundina,Forward,Washington
+306,Miami,Weston FC,2018/03/02,U-15,Aran Perez,Forward,Florida
+307,Corona,FC Golden State,2018/03/02,U-15,Favian Vazquez,Forward,California
+368,Norridge,Chicago Magic,2016/04/01,U-15,Damian Las,Goalkeeper,Illinois
+369,Happy Valley,Portland Timbers,2016/04/01,U-15,Kashope Oladapo,Goalkeeper,Oregon
+370,Chicago,Chicago Fire North,2016/04/01,U-15,Axel Alejandre,Defender,Illinois
+371,Olney,Bethesda Olney,2016/04/01,U-15,Noah Atanda,Defender,Maryland
+372,Douglasville,Ambush,2016/04/01,U-15,George Bello,Defender,Georgia
+373,Houston,Houston Dynamo,2016/04/01,U-15,James Crath,Defender,Texas
+374,San Francisco,Ballistic United,2016/04/01,U-15,Max Goeggel,Defender,California
+375,Cary,CASL,2016/04/01,U-15,Jake O'Connor,Defender,North Carolina
+376,Chester,New York Red Bulls,2016/04/01,U-15,Peter Stroud,Defender,New Jersey
+377,Bluffton,Storm,2016/04/01,U-15,Juan Zuniga,Defender,South Carolina
+378,Los Angeles,LA Galaxy,2016/04/01,U-15,Efrain Alvarez,Midfielder,California
+379,Greensboro,North Carolina Fusion,2016/04/01,U-15,Gianluca Busio,Midfielder,North Carolina
+380,Tracy,Ballistic United,2016/04/01,U-15,Gilbert Fuentes,Midfielder,California
+381,Naperville,LA Galaxy,2016/04/01,U-15,Cade Hagan,Midfielder,Illinois
+382,San Jose,De Anza Force,2016/04/01,U-15,Jack Imperato,Midfielder,California
+383,Oxford,Oakwood,2016/04/01,U-15,Mikey Maunsell,Midfielder,Connecticut
+384,Bakersfield,Central CA Aztecs,2016/04/01,U-15,Marco Ceja,Forward,California
+385,Austin,Lonestar Soccer Club,2016/04/01,U-15,Julian Gaines,Forward,Texas
+386,Waianae,Maui United,2016/04/01,U-15,Kanoa Kelii,Forward,Hawaii
+387,Bedford,NYCFC,2016/04/01,U-15,Giovanni Reyna,Forward,New York
+388,Chino Hills,Pateadores,2018/06/01,U-17,Aaron Cervantes,Goalkeeper,California
+389,Chicago,Chicago Fire,2018/06/01,U-17,Damian Las,Goalkeeper,Illinois
+390,Calgary,Vancouver Whitecaps FC,2018/06/01,U-17,Chituru Odunze,Goalkeeper,Canada
+391,Cambridge,FC Greater Boston Bolts,2018/06/01,U-17,Marzuq Puckerin,Goalkeeper,Massachusetts
+392,Surrey,Chelsea FC,2018/06/01,U-17,Ethan Wady,Goalkeeper,United Kingdom
+393,Chicago,FC United,2018/06/01,U-17,Axel Alejandre,Defender,Illinois
+394,Guadalajara,Atlas FC,2018/06/01,U-17,Michael Barragan,Defender,Mexico
+395,Stockton,Sacramento Republic FC,2018/06/01,U-17,Erik Centeno,Defender,California
+396,Elmont,New York Red Bulls,2018/06/01,U-17,Amir Daley,Defender,New York
+397,Bronx,New York City FC,2018/06/01,U-17,Tayvon Gray,Defender,New York
+398,Saint Johns,Portland Timbers,2018/06/01,U-17,Owen Guske,Defender,Florida
+399,Los Angeles,LA Galaxy,2018/06/01,U-17,Kobe Hernandez,Defender,California
+400,Tampa,Chargers Soccer Club,2018/06/01,U-17,Mason Judge,Defender,Florida
+401,Chatham,New York Red Bulls,2018/06/01,U-17,John Tolkin,Defender,New Jersey
+402,Norcross,United Futbol Academy,2018/06/01,U-17,Simon Carlson,Midfielder,Georgia
+403,Half Moon Bay,Shattuck- Saint Mary's,2018/06/01,U-17,Luis Flores,Midfielder,California
+404,Tracy,San Jose Earthquakes,2018/06/01,U-17,Gilbert Fuentes,Midfielder,California
+405,San Jose,De Anza Force,2018/06/01,U-17,Jack Imperato,Midfielder,California
+406,Greenwich,New York City FC,2018/06/01,U-17,Harrison Robledo,Midfielder,Connecticut
+407,Panorama City,Real So Cal,2018/06/01,U-17,Adam Saldana,Midfielder,California
+408,Graham,Seattle Sounders FC,2018/06/01,U-17,Ray Serrano,Midfielder,Washington
+409,Chester,New York Red Bulls,2018/06/01,U-17,Peter Stroud,Midfielder,New Jersey
+410,Greenwich,New York City FC,2018/06/01,U-17,Andres Jasson,Forward,Connecticut
+411,Chino,Atlanta United FC,2018/06/01,U-17,Diego Lopez,Forward,California
+412,Fresno,Seattle Sounders FC,2018/06/01,U-17,Alfonso Ocampo Chavez,Forward,California
+413,Amsterdam,AFC Ajax,2018/06/01,U-17,Joshua Pynadath,Forward,Netherlands
+414,Carrollton,FC Dallas,2018/06/01,U-17,Benjamin Redzic,Forward,Texas
+415,Irving,FC Dallas,2018/06/01,U-17,David Rodriguez,Forward,Texas
+416,Clifton,DC United,2018/06/01,U-17,Griffin Yow,Forward,New Jersey
+441,Brownsville,RGV Toros,2018/03/12,U-16,Isaac Acevedo,Goalkeeper,Texas
+442,Fair Oaks,Sacramento Republic,2018/03/12,U-16,Gavin Krenecki,Goalkeeper,California
+443,Cumming,Atlanta United FC,2018/03/12,U-16,Vincente Reyes,Goalkeeper,Georgia
+444,Los Angeles,LA Galaxy,2018/03/12,U-16, Adrian Aguilar,Defender,California
+445,Phoenix,Barca Academy,2018/03/12,U-16,Edwin Arias,Defender,Arizona
+446,Aurora,Internationals Soccer Academy,2018/03/12,U-16,Max Brown,Defender,Ohio
+447,San Jose,San Jose Earthquakes,2018/03/12,U-16,Israel Carrillo,Defender,California
+448,Los Angeles,LA Galaxy,2018/03/12,U-16,Mauricio Cuevas,Defender,California
+449,Phoenix,Sereno Soccer Club,2018/03/12,U-16,Abedi Godefroid,Defender,Arizona
+450,Cincinnati,Columbus Crew SC,2018/03/12,U-16,Noah Hall,Defender,Ohio
+451,Frisco,FC Dallas,2018/03/12,U-16,Kyle Jordan,Defender,Texas
+452,Las Condes,Club Deportivo Universidad Católica,2018/03/12,U-16,Dylan Kelemen,Defender,Chile
+453,Tacoma,Seattle Sounders FC,2018/03/12,U-16,Eric Kinzner,Defender,Washington
+454,San Diego,Albion SC,2018/03/12,U-16,Victor Salazar,Defender,California
+455,Ann Arbor,Crew SC Academy,2018/03/12,U-16,Anton Sorenson,Defender,Michigan
+456,Montgomery,Atlanta United FC,2018/03/12,U-16,Kobey Stoup,Defender,Alabama
+457,Mill Valley,San Jose Earthquakes,2018/03/12,U-16,Casey Walls,Defender,California
+458,Addison,Chicago Fire,2018/03/12,U-16, Javier Casas Jr.,Midfielder,Illinois
+459,Blacklick,Columbus Crew SC,2018/03/12,U-16,Elton Chifamba,Midfielder,Ohio
+460,Leeds,Sheffield Wednesday Football Club,2018/03/12,U-16,Chitua Hani-Okoroafor,Midfielder,England
+461,Edmonds,Seattle Sounders,2018/03/12,U-16,Sota Kitahara,Midfielder,Washington
+462,Seattle,Seattle Sounders FC,2018/03/12,U-16,Daniel Leyva,Midfielder,Washington
+463,Sunnyvale,San Jose Earthquakes,2018/03/12,U-16,Diego Luna,Midfielder,California
+464,Middle Village,BW Gottschee,2018/03/12,U-16,Jack McGlynn,Midfielder,New York
+465,Naperville,Chicago Fire,2018/03/12,U-16,Alex Monis,Midfielder,Illinois
+466,El Paso,FC Dallas,2018/03/12,U-16,Edwin Villarreal,Midfielder,Texas
+467,Compton,CDA Slammers FC,2018/03/12,U-16,Eduardo Villeda,Midfielder,California
+468,Philadelphia,Philadelphia Union,2018/03/12,U-16,Patrick Bohui,Forward,Pennsylvania
+469,Duluth,Atlanta United FC,2018/03/12,U-16,Joseph Collins,Forward,Georgia
+470,Wiltshire,Southhampton FC,2018/03/12,U-16,Vaughn Covil,Forward,England
+471,Shawnee,Sporting KC,2018/03/12,U-16,Tyler Freeman,Forward,Kansas
+472,Madison,Vestavia Hills Soccer Club,2018/03/12,U-16,Tega Ikoba,Forward,Illinois
+473,Royersford,Philadelphia Union,2018/03/12,U-16,Selmir Miscic,Forward,Pennsylvania
+474,Frisco,FC Dallas,2018/03/12,U-16,Dante Sealy,Forward,Texas
+475,Trenton,PDA,2018/03/12,U-16,Dantouma Toure,Forward,New Jersey
+476,Rocklin,Sacramento Republic,2018/03/12,U-16,Dominic Vegaalban,Forward,California
+477,Southwest Ranches,Everton FC,2017/04/10,U-16,Nicolas Defreitas-Hansen,Goalkeeper,Florida
+478,Oxnard,Real Salt Lake,2017/04/10,U-16,David Ochoa,Goalkeeper,California
+479,Lompoc,Santa Barbara SC,2017/04/10,U-16,Julian Araujo,Defender,California
+480,Riverside,FC Golden State,2017/04/10,U-16,Abraham Gonzalez,Defender,California
+481,Wilton,Karlsruher SC,2017/04/10,U-16,Ian Hoffmann,Defender,Connecticut
+482,Montebello,IMG Academy,2017/04/10,U-16,Kevin Peraza,Defender,California
+483,Panorama City,FC Golden State,2017/04/10,U-16,Victor Rangel,Defender,California
+484,Livermore,San Jose Earthquakes,2017/04/10,U-16,Mario Anaya,Midfielder,California
+485,Chula Vista,San Diego Surf,2017/04/10,U-16,Armando Haro,Midfielder,California
+486,Woodbridge,DC United,2017/04/10,U-16,Nelson Martinez,Midfielder,Virginia
+487,Frisco,FC Dallas,2017/03/10,U-16,Michael Collodi,Goalkeeper,Texas
+488,Pittsburgh,Pittsburgh Riverhounds,2017/03/10,U-16,Dane Jacomen,Goalkeeper,Pennsylvania
+489,Lompoc,Santa Barbara SC,2017/03/10,U-16, Julian Araujo,Defender,California
+490,Wilton,New York City FC,2017/03/10,U-16,Nico Benalcazar,Defender,Connecticut
+491,Salida,Sacramento Republic FC,2017/03/10,U-16,Edward Berumen,Defender,California
+492,Napa,Real Salt Lake,2017/03/10,U-16,Eduardo Blancas,Defender,California
+493,Brooklyn,New York City FC,2017/03/10,U-16,Justin Haak,Defender,New York
+494,Long Beach,LA Galaxy,2017/03/10,U-16,John Hilton,Defender,California
+495,Huntington Station,New York City FC,2017/03/10,U-16,Alexsi Morel,Defender,New York
+496,Highlands Ranch,Colorado Rapids,2017/03/10,U-16,Eben Noverr,Defender,Colorado
+497,Folsom,Sacramento Republic FC,2017/03/10,U-16,Cole Rovegno,Defender,California
+498,McKinney,FC Dallas,2017/03/10,U-16,Nathan Toledo,Defender,Texas
+499,Indio,IMG Academy,2017/03/10,U-16,Oscar Cervantes,Midfielder,California
+500,Olathe,Sporting KC,2017/03/10,U-16,Cameron Duke,Midfielder,Kansas
+501,Woodbridge,DC United,2017/03/10,U-16,Nelson Martinez,Midfielder,Virginia
+502,Buenos Aires,A.A. Argentinos Juniors,2017/03/10,U-16,Matko Milijevic,Midfielder,Argentina
+503,Houston,Houston Dynamo,2017/03/10,U-16,Marcelo Palomino,Midfielder,Texas
+504,Frisco,FC Dallas,2017/03/10,U-16,Thomas Roberts,Midfielder,Texas
+505,Santa Rosa,Real Salt Lake,2017/03/10,U-16,Luis Arriaga,Forward,California
+506,Lake Mary,Orlando City SC,2017/03/10,U-16,Jordan Bender,Forward,Florida
+507,Renton,Seattle Sounders FC,2017/03/10,U-16,Azriel Gonzalez,Forward,Washington
+508,Orem,Real Salt Lake,2017/03/10,U-16,Ben Ortiz,Forward,Utah
+509,Bethesa,Bethesda SC,2017/03/10,U-16,Gabe Segal,Forward,Maryland
+510,Millburn,New York Red Bulls,2017/03/10,U-16,Scotty Taylor,Forward,New Jersey
+547,Southwest Ranches,Weston FC,2017/02/03,U-16,Nicolas Defreitas-Hansen,Goalkeeper,Florida
+548,Casa Grande,Real Salt Lake AZ,2017/02/03,U-16,David Ochoa,Goalkeeper,Arizona
+549,Lompoc,Santa Barbara SC,2017/02/03,U-16,Julian Araujo,Defender,California
+550,Douglasville,Atlanta United FC,2017/02/03,U-16,George Bello,Defender,Georgia
+551,Long Beach,LA Galaxy,2017/02/03,U-16,John Hilton,Defender,California
+552,Corona,LA Galaxy,2017/02/03,U-16,Leonardo Sepulveda,Defender,California
+553,McKinney,FC Dallas,2017/02/03,U-16,Nathan Toledo,Defender,Texas
+554,Alexandria,D.C. United,2017/02/03,U-16,Everson Amaya Mejia,Midfielder,Virginia
+555,Livermore,San Jose Earthquakes,2017/02/03,U-16,Mario Anaya,Midfielder,California
+556,Lake Mary,Orlando City SC,2017/02/03,U-16,Jordan Bender,Midfielder,Florida
+557,Eden,Real Salt Lake AZ,2017/02/03,U-16,Taylor Booth,Midfielder,Utah
+558,Olathe,Sporting KC,2017/02/03,U-16,Cameron Duke,Midfielder,Kansas
+559,Woodbridge,DC United,2017/02/03,U-16,Nelson Martinez Rivera,Midfielder,Virginia
+560,Buenos Aires,A.A. Argentinos Juniors,2017/02/03,U-16,Matko Miljevic,Midfielder,Argentina
+561,Houston,Houston Dynamo,2017/02/03,U-16,Marcelo Palomino,Midfielder,Texas
+562,Savannah,IMG Academy,2017/02/03,U-16,Indiana Vassilev,Midfielder,Georgia
+563,Coconut Creek,Clube de Regatas do Flamengo,2017/02/03,U-16,Nicholas Mendonca,Forward,Florida
+564,Orem,La Roca FC,2017/02/03,U-16,Benjamin Ortiz,Forward,Utah
+565,Little Elm,FC Dallas,2017/02/03,U-16,Bryan Reynolds,Forward,Texas
+566,Bethesda,Bethesda-Olney,2017/02/03,U-16,Gabriel Segal,Forward,Maryland
+567,Weston,Weston FC,2017/02/03,U-16,Jose Rivas,Forward,Florida
+568,Southwest Ranches,Weston FC,2016/12/14,U-16,Nicolas Defreitas-Hansen,Goalkeeper,Florida
+569,Casa Grande,Real Salt Lake AZ,2016/12/14,U-16,David Ochoa,Goalkeeper,Arizona
+570,Lompoc,Santa Barbara Soccer Club,2016/12/14,U-16,Julian Araujo,Defender,California
+571,Douglasville,Atlanta United FC,2016/12/14,U-16,George Bello,Defender,Georgia
+572,Wilton,NYCFC,2016/12/14,U-16,Nico Benalcazar,Defender,Connecticut
+573,Salida,Sacramento Republic FC,2016/12/14,U-16,Edward Berumen,Defender,California
+574,Long Beach,LA Galaxy,2016/12/14,U-16,John Hilton,Defender,California
+575,Corona,LA Galaxy,2016/12/14,U-16,Leonardo Sepulveda,Defender,California
+576,Westerville,Crew SC Academy,2016/12/14,U-16,Sebastian Berhalter,Midfielder,Ohio
+577,Eden,Real Salt Lake AZ,2016/12/14,U-16,Taylor Booth,Midfielder,Utah
+578,Indio,LA Premier FC,2016/12/14,U-16,Oscar Cervantes,Midfielder,California
+579,Brooklyn,NYCFC,2016/12/14,U-16,Justin Haak,Midfielder,New York
+580,Woodbridge,DC United,2016/12/14,U-16,Nelson Martinez,Midfielder,Virginia
+581,Olathe,Sporting Kansas City,2016/12/14,U-16,Jonathan Munoz,Midfielder,Kansas
+582,Houston,Houston Dynamo,2016/12/14,U-16,Marcelo Palomino,Midfielder,Texas
+583,Savannah,IMG Academy,2016/12/14,U-16,Indiana Vassilev,Midfielder,Georgia
+584,Alexandria,D.C. United,2016/12/14,U-16,Everson Amaya,Forward,Virginia
+585,Renton,Seattle Sounders FC,2016/12/14,U-16,Azriel Gonzalez,Forward,Washington
+586,Newport Beach,Pateadores,2016/12/14,U-16,Cameron Harper,Forward,California
+587,Orem,La Roca,2016/12/14,U-16,Ben Ortiz,Forward,Utah
+588,Round Rock,Philadelphia Union,2016/12/14,U-16,Axel Picazo,Forward,Texas
+589,Little Elm,FC Dallas,2016/12/14,U-16,Bryan Reynolds,Forward,Texas
+590,Bethesda,Bethesda SC,2016/12/14,U-16,Gabe Segal,Forward,Maryland
+734,Southwest Ranches,Weston FC,2016/04/19,U-16,Nicolas Defreitas-Hansen,Goalkeeper,Florida
+735,New York,NYCFC,2016/04/19,U-16,Alex Rando,Goalkeeper,New York
+736,Napa,Napa Soccer Academy,2016/04/19,U-16,Eduardo Blancas,Defender,California
+737,Lincoln Park,PDA,2016/04/19,U-16,Dominic De Almeida,Defender,New Jersey
+738,Littleton,Colorado Rush,2016/04/19,U-16,Luke Hansen,Defender,Colorado
+739,Long Beach,unattached,2016/04/19,U-16,John Hilton,Defender,California
+740,Corona,LA Galaxy,2016/04/19,U-16,Leonardo Sepulveda,Defender,California
+741,Miami,Weston FC,2016/04/19,U-16,Sebastian Serpa,Defender,Florida
+742,Eden,RSL-Arizona,2016/04/19,U-16,Taylor Booth,Midfielder,Utah
+743,Barcelona,FC Barcelona,2016/04/19,U-16,Konrad De la Fuente,Midfielder,Spain
+744,Roseville,Sacramento Republic FC,2016/04/19,U-16,Roberto Hategan,Midfielder,California
+745,Huntington Station,NYCFC,2016/04/19,U-16,Alexsi Morel,Midfielder,New York
+746,Houston,Houston Dynamo,2016/04/19,U-16,Marcelo Palomino,Midfielder,Texas
+747,Wenonah,Philadelphia Union,2016/04/19,U-16,Michael Pellegrino,Midfielder,New Jersey
+748,Santa Rosa,RSL-Arizona,2016/04/19,U-16,Luis Arriaga,Forward,California
+749,Lynwood,LA Galaxy,2016/04/19,U-16,Ulysses Llanez,Forward,California
+750,Coconut,Flamengo,2016/04/19,U-16,Nicholas Mendonca,Forward,Florida
+751,Weston,Weston FC,2016/04/19,U-16,Jose Rivas,Forward,Florida
+752,Bethesda,Bethesda-Olney,2016/04/19,U-16,Gabriel Segal,Forward,Maryland
+753,Savannah,IMG Academy,2016/04/19,U-16,Indiana Vassilev,Forward,Georgia
+783,Chino Hills,Pateadores,2018/04/13,U-17,Aaron Cervantes,Goalkeeper,California
+784,Chicago,Chicago Fire,2018/04/13,U-17,Damian Las,Goalkeeper,Illinois
+785,Chicago,FC United,2018/04/13,U-17,Axel Alejandre,Defender,Illinois
+786,Guadalajara,Atlas FC,2018/04/13,U-17,Michael Barragan,Defender,Mexico
+787,Douglasville,Atlanta United FC,2018/04/13,U-17,George Bello,Defender,Georgia
+788,Bronx,New York City FC,2018/04/13,U-17,Tayvon Gray,Defender,New York
+789,Los Angeles,LA Galaxy,2018/04/13,U-17,Kobe Hernandez,Defender,California
+790,Tampa,Chargers Soccer Club,2018/04/13,U-17,Mason Judge,Defender,Florida
+791,Lake Grove,New York City FC,2018/04/13,U-17,Joseph Scally,Defender,New York
+792,Chatham,New York Red Bulls,2018/04/13,U-17,John Tolkin,Defender,New Jersey
+793,Half Moon Bay,Shattuck-Saint Mary's,2018/04/13,U-17,Luis Flores,Midfielder,California
+794,Tracy,San Jose Earthquakes,2018/04/13,U-17,Gilbert Fuentes,Midfielder,California
+795,Carrollton,FC Dallas,2018/04/13,U-17,Cesar Garcia,Midfielder,Texas
+796,San Jose,De Anza Force,2018/04/13,U-17,Jack Imperato,Midfielder,California
+797,Greenwich,New York City FC,2018/04/13,U-17,Andres Jasson,Midfielder,Connecticut
+798,Panorama City,Real So Cal,2018/04/13,U-17,Adam Saldana,Midfielder,California
+799,Chester,New York Red Bulls,2018/04/13,U-17,Peter Stroud,Midfielder,New Jersey
+800,Cary,North Carolina FC Youth,2018/04/13,U-17,Adam Armour,Forward,North Carolina
+801,Greensboro,Sporting Kansas City,2018/04/13,U-17,Gianluca Busio,Forward,North Carolina
+802,Chino,Atlanta United FC,2018/04/13,U-17,Diego Lopez,Forward,California
+803,Amsterdam,AFC Ajax,2018/04/13,U-17,Joshua Pynadath,Forward,Netherlands
+804,Carrollton,FC Dallas,2018/04/13,U-17,Benjamin Redzic,Forward,Texas
+805,Bedford Corners,New York City FC,2018/04/13,U-17,Giovanni Reyna,Forward,New York
+806,Graham,Seattle Sounders FC,2018/04/13,U-17,Ray Serrano,Forward,Washington
+807,Chino Hills,Pateadores,2018/02/23,U-17,Aaron Cervantes,Goalkeeper,California
+808,Whitefish Bay,Shattuck- Saint Mary's,2018/02/23,U-17,John Tyler Harms,Goalkeeper,Wisconsin
+809,Chicago,Chicago Fire,2018/02/23,U-17,Damian Las,Goalkeeper,Illinois
+810,Cambridge,FC Greater Boston Bolts,2018/02/23,U-17,Marzuq Puckerin,Goalkeeper,Massachusetts
+811,Chicago,FC United,2018/02/23,U-17,Axel Alejandre,Defender,Illinois
+812,Guadalajara,Atlas FC,2018/02/23,U-17,Michael Barragan,Defender,Mexico
+813,Elmont,New York Red Bulls,2018/02/23,U-17,Amir Daley,Defender,New York
+814,Bronx,New York City FC,2018/02/23,U-17,Tayvon Gray,Defender,New York
+815,Saint Johns,Portland Timbers,2018/02/23,U-17,Owen Guske,Defender,Florida
+816,Los Angeles,LA Galaxy,2018/02/23,U-17,Kobe Hernandez,Defender,California
+817,Tampa,Chargers Soccer Club,2018/02/23,U-17,Mason Judge,Defender,Florida
+818,Chatham,New York Red Bulls,2018/02/23,U-17,John Tolkin,Defender,New Jersey
+819,Bellevue,Seattle Sounders,2018/02/23,U-17,Joshua Atencio,Midfielder,Washington
+820,Half Moon Bay,Shattuck- Saint Mary's,2018/02/23,U-17,Luis Flores,Midfielder,California
+821,Tracy,San Jose Earthquakes,2018/02/23,U-17,Gilbert Fuentes,Midfielder,California
+822,Carrollton,FC Dallas,2018/02/23,U-17,Benjamin Redzic,Midfielder,Texas
+823,Panorama City,Real So Cal,2018/02/23,U-17,Adam Saldana,Midfielder,California
+824,Chester,New York Red Bulls,2018/02/23,U-17,Peter Stroud,Midfielder,New Jersey
+825,Austin,Lonestar Soccer Club,2018/02/23,U-17,Julian Gaines,Forward,Texas
+826,Greenwich,New York City FC,2018/02/23,U-17,Andres Jasson,Forward,Connecticut
+827,Chino,Atlanta United FC,2018/02/23,U-17,Diego Lopez,Forward,California
+828,Duluth,Atlanta United FC,2018/02/23,U-17,Daniel Mangarov,Forward,Georgia
+829,Bedford Corners,New York City FC,2018/02/23,U-17,Giovanni Reyna,Forward,New York
+830,Graham,Seattle Sounders FC,2018/02/23,U-17,Ray Serrano,Forward,Washington
+831,Frisco,FC Dallas,2016/10/18,U-16,Michael Collodi,Goalkeeper,Texas
+832,Southwest Ranches,Weston FC,2016/10/18,U-16,Nicolas Defreitas-Hansen,Goalkeeper,Florida
+833,Wilton,NYCFC,2016/10/18,U-16,Nico Benalcazar,Defender,Connecticut
+834,Napa,Real Salt Lake,2016/10/18,U-16,Eduardo Blancas,Defender,California
+835,Olathe,Sporting KC,2016/10/18,U-16,Cameron Duke,Defender,Kansas
+836,Long Beach,Unattached,2016/10/18,U-16,John Hilton,Defender,California
+837,Garland,FC Dallas,2016/10/18,U-16,Julian Hinojosa,Defender,Texas
+838,Norridge,Chicago Fire,2017/12/03,U-17,Damian Las,Goalkeeper,Illinois
+839,Happy Valley,Portland Timbers,2017/12/03,U-17,Kashope Oladapo,Goalkeeper,Oregon
+840,Chicago,FC United Soccer Club,2017/12/03,U-17,Axel Alejandre,Defender,Illinois
+841,Highlands Ranch,Colorado Rapids,2017/12/03,U-17,Sebastian Anderson,Defender,Colorado
+842,Douglasville,Atlanta United FC,2017/12/03,U-17,George Bello,Defender,Georgia
+843,Tampa,Chargers Soccer Club,2017/12/03,U-17,Mason Judge,Defender,Florida
+844,Irvine,Pateadores,2017/12/03,U-17,Kenneth Nielsen,Defender,California
+845,Lake Grove,New York City FC,2017/12/03,U-17,Joseph Scally,Defender,New York
+846,Bellevue,Seattle Sounders FC,2017/12/03,U-17,Joshua Atencio,Midfielder,Washington
+847,Greensboro,Sporting Kansas City,2017/12/03,U-17,Gianluca Busio,Midfielder,North Carolina
+848,Panorama City,Real So Cal,2017/12/03,U-17,Adam Saldana,Midfielder,California
+849,Tracy,San Jose Earthquakes,2017/12/03,U-17,Gilbert Fuentes Perez,Midfielder,California
+850,San Francisco,VFB Stuttgart,2017/12/03,U-17,Maximillian Goeggel,Midfielder,California
+851,Chester,New York Red Bulls,2017/12/03,U-17,Peter Stroud,Midfielder,New Jersey
+852,Austin,Lonestar Soccer Club,2017/12/03,U-17,Julian Gaines,Forward,Texas
+853,Naperville,Sockers FC,2017/12/03,U-17,Cade Hagan,Forward,Illinois
+854,Chino,FC Golden State,2017/12/03,U-17,Diego Lopez,Forward,California
+855,Fresno,Seattle Sounders FC,2017/12/03,U-17,Alfonso Ocampo Chavez,Forward,California
+856,Frisco,FC Dallas,2017/12/03,U-17,Dante Sealy,Forward,Texas
+857,Graham,Seattle Sounders FC,2017/12/03,U-17,Ray Serrano,Forward,Washington
+955,Norridge,Chicago Fire,2017/11/28,U-17,Damian Las,Goalkeeper,Illinois
+956,Happy Valley,Portland Timbers,2017/11/28,U-17,Kashope Oladapo,Goalkeeper,Oregon
+957,Chicago,FC United Soccer Club,2017/11/28,U-17,Axel Alejandre,Defender,Illinois
+958,Highlands Ranch,Colorado Rapids,2017/11/28,U-17,Sebastian Anderson,Defender,Colorado
+959,Douglasville,Atlanta United FC,2017/11/28,U-17,George Bello,Defender,Georgia
+960,Tampa,Chargers Soccer Club,2017/11/28,U-17,Mason Judge,Defender,Florida
+961,Irvine,Pateadores,2017/11/28,U-17,Kenneth Nielsen,Defender,California
+962,Lake Grove,New York City FC,2017/11/28,U-17,Joseph Scally,Defender,New York
+963,Bellevue,Seattle Sounders FC,2017/11/28,U-17,Joshua Atencio,Midfielder,Washington
+964,Greenboro,Sporting Kansas City,2017/11/28,U-17,Gianluca Busio,Midfielder,North Carolina
+965,Panorama City,Real So Cal,2017/11/28,U-17,Adam Saldana,Midfielder,California
+966,Tracy,San Jose Earthquakes,2017/11/28,U-17,Gilbert Fuentes Perez,Midfielder,California
+967,San Francisco,VFB Stuttgart,2017/11/28,U-17,Maximillian Goeggel,Midfielder,California
+968,Chester,New York Red Bulls,2017/11/28,U-17,Peter Stroud,Midfielder,New Jersey
+969,Austin,Lonestar Soccer Club,2017/11/28,U-17,Julian Gaines,Forward,Texas
+970,Naperville,Sockers FC,2017/11/28,U-17,Cade Hagan,Forward,Illinois
+971,Chino,FC Golden State,2017/11/28,U-17,Diego Lopez,Forward,California
+972,Fresno,Seattle Sounders FC,2017/11/28,U-17,Alfonso Ocampo Chavez,Forward,California
+973,Frisco,FC Dallas,2017/11/28,U-17,Dante Sealy,Forward,Texas
+974,Graham,Seattle Sounders FC,2017/11/28,U-17,Ray Serrano,Forward,Washington
+975,Arlington Heights,Sockers FC,2017/10/19,U-17,Alex Budnik,Goalkeeper,Illinois
+976,Philadelphia,Benfica,2017/10/19,U-17,Carlos Joaquim Dos Santos,Goalkeeper,Pennsylvania
+977,Miami,Atlanta United FC,2017/10/19,U-17,Justin Garces,Goalkeeper,Florida
+978,Almere-stad,Ajax,2017/10/19,U-17,Sergiño Dest,Defender,Netherlands
+979,Montclair,New York Red Bulls,2017/10/19,U-17,Christopher Gloster,Defender,New Jersey
+980,Charlotte,Sporting Kansas City,2017/10/19,U-17,Jaylin Lindsey,Defender,North Carolina
+981,Rye,New York City FC,2017/10/19,U-17,James Sands,Defender,New York
+982,Greenwich,New York City FC,2017/10/19,U-17,Tyler Shaver,Defender,Connecticut
+983,Fort Wayne,Portland Timbers,2017/10/19,U-17,Akil Watts,Defender,Indiana
+984,Hollywood,North Carolina FC,2017/10/19,U-17,George Acosta,Midfielder,Florida
+985,Eden,Real Salt Lake,2017/10/19,U-17,Taylor Booth,Midfielder,Utah
+986,Glen Allen,D.C. United,2017/10/19,U-17,Christopher Durkin,Midfielder,Virginia
+987,Southlake,Solar Soccer Club,2017/10/19,U-17,Blaine Ferri,Midfielder,Texas
+988,Locust Grove,Atlanta United FC,2017/10/19,U-17,Chris Goslin,Midfielder,Georgia
+989,Savannah,Unattached,2017/10/19,U-17,Indiana Vassilev,Midfielder,Georgia
+990,Brampton,Toronto FC,2017/10/19,U-17,Ayo Akinola,Forward,Ont.
+991,Powder Springs,Atlanta United FC,2017/10/19,U-17,Andrew Carleton,Forward,Georgia
+992,Houston,C.F. Monterrey,2017/10/19,U-17,Jacobo Reyes,Forward,Texas
+993,Little Elm,FC Dallas,2017/10/19,U-17,Bryan Reynolds,Forward,Texas
+994,O'Fallon,St. Louis Scott Gallagher Missouri,2017/10/19,U-17,Joshua Sargent,Forward,Missouri
+995,Rosedale,Paris Saint-Germain F.C.,2017/10/19,U-17,Tim Weah,Forward,New York
+996,Norridge,Chicago Fire,2017/11/21,U-17,Damian Las,Goalkeeper,Illinois
+997,Happy Valley,Portland Timbers,2017/11/21,U-17,Kashope Oladapo,Goalkeeper,Oregon
+998,Chicago,FC United Soccer Club,2017/11/21,U-17,Axel Alejandre,Defender,Illinois
+999,Highlands Ranch,Colorado Rapids,2017/11/21,U-17,Sebastian Anderson,Defender,Colorado
+1000,Douglasville,Atlanta United FC,2017/11/21,U-17,George Bello,Defender,Georgia
+1001,Tampa,Chargers Soccer Club,2017/11/21,U-17,Mason Judge,Defender,Florida
+1002,Irvine,Pateadores,2017/11/21,U-17,Kenneth Nielsen,Defender,California
+1003,Lake Grove,New York City FC,2017/11/21,U-17,Joseph Scally,Defender,New York
+1004,Bellevue,Seattle Sounders FC,2017/11/21,U-17,Joshua Atencio,Midfielder,Washington
+1005,Greenboro,Sporting Kansas City,2017/11/21,U-17,Gianluca Busio,Midfielder,North Carolina
+1006,Panorama City,Real So Cal,2017/11/21,U-17,Adam Saldana,Midfielder,California
+1007,Tracy,San Jose Earthquakes,2017/11/21,U-17,Gilbert Fuentes Perez,Midfielder,California
+1008,San Francisco,VFB Stuttgart,2017/11/21,U-17,Maximillian Goeggel,Midfielder,California
+1009,Chester,New York Red Bulls,2017/11/21,U-17,Peter Stroud,Midfielder,New Jersey
+1010,Austin,Lonestar Soccer Club,2017/11/21,U-17,Julian Gaines,Forward,Texas
+1011,Naperville,Sockers FC,2017/11/21,U-17,Cade Hagan,Forward,Illinois
+1012,Chino,FC Golden State,2017/11/21,U-17,Diego Lopez,Forward,California
+1013,Fresno,Seattle Sounders FC,2017/11/21,U-17,Alfonso Ocampo Chavez,Forward,California
+1014,Frisco,FC Dallas,2017/11/21,U-17,Dante Sealy,Forward,Texas
+1015,Graham,Seattle Sounders FC,2017/11/21,U-17,Ray Serrano,Forward,Washington
+1016,Walled Lake,Crew Sc Academy Wolves,2018/06/01,U-18,Owen Finnerty,Goalkeeper,Michigan
+1017,Bakersfield,LA Galaxy,2018/06/01,U-18,John Pulskamp,Goalkeeper,California
+1018,New York,New York City FC,2018/06/01,U-18,Alex Rando,Goalkeeper,New York
+1019,Lompoc,Barca Academy,2018/06/01,U-18,Julian Araujo,Defender,California
+1020,Salida,Sacramento Republic FC,2018/06/01,U-18,Edward Berumen,Defender,California
+1021,Atlanta,Atlanta United FC,2018/06/01,U-18,Kendall Edwards,Defender,Georgia
+1022,Brooklyn,New York City FC,2018/06/01,U-18,Justin Haak,Defender,New York
+1023,Garland,FC Dallas,2018/06/01,U-18,Julian Hinojosa,Defender,Texas
+1024,Gilbert,Real Salt Lake,2018/06/01,U-18,Erwin Martinez,Defender,Arizona
+1025,Gage Park,Chicago Fire,2018/06/01,U-18,David Mendoza,Defender,Illinois
+1026,Chicago,Chicago Fire,2018/06/01,U-18,Andre Reynolds,Defender,Illinois
+1027,Corona,LA Galaxy,2018/06/01,U-18,Leonardo Sepulveda,Defender,California
+1028,Santa Rosa,Real Salt Lake,2018/06/01,U-18,Luis Arriaga,Midfielder,California
+1029,Madrid,Atletico Madrid,2018/06/01,U-18,Michael Carmona,Midfielder,Spain
+1030,Tampa,Chargers SC,2018/06/01,U-18,Jeffery Copper,Midfielder,Florida
+1031,Overland Park,Sporting Kansas City,2018/06/01,U-18,Cameron Duke,Midfielder,Kansas
+1032,Lincoln,Sacramento Republic FC,2018/06/01,U-18,Hunter George,Midfielder,California
+1033,Las Vegas,Seattle Sounders FC,2018/06/01,U-18,Azriel Gonzalez,Midfielder,Nevada
+1034,Ft. Lauderdale,Crew SC Academy,2018/06/01,U-18,Aidan Morris,Midfielder,Florida
+1035,Little Rock,FC Dallas,2018/06/01,U-18,Thomas Roberts,Midfielder,Arkansas
+1036,Birmingham,FC Dallas,2018/06/01,U-18,Tanner Tessmann,Midfielder,Alabama
+1037,Sacramento,Sacramento Republic FC,2018/06/01,U-18,Quincy Butler,Forward,California
+1038,Manhattan,S.S.C. Napoli,2018/06/01,U-18,Salvatore Esposito,Forward,New York
+1039,Wickford,Southend United,2018/06/01,U-18,Charlie Kelman,Forward,England
+1040,Dallas,FC Dallas,2018/06/01,U-18,Gibran Rayo,Forward,Texas
+1041,Bethesda,Bethesda SC,2018/06/01,U-18,Gabriel Segal,Forward,Maryland
+1042,Sandy,Real Salt Lake,2018/06/01,U-18,Julian Vazquez,Forward,Utah
+1043,Herriman,Real Salt Lake,2017/11/20,U-18,David Ochoa,Goalkeeper,Utah
+1044,New York,New York City FC,2017/11/20,U-18,Alex Rando,Goalkeeper,New York
+1045,Lompoc,Barca Academy,2017/11/20,U-18,Julian Araujo,Defender,California
+1046,Douglasville,Atlanta United FC,2017/11/20,U-18,George Bello,Defender,Georgia
+1047,Wilton,New York City FC,2017/11/20,U-18,Nico Benalcazar,Defender,Connecticut
+1048,Littleton,Colorado Rapids,2017/11/20,U-18,Luke Hansen,Defender,Colorado
+1049,Chicago,Chicago Fire,2017/11/20,U-18,David Mendoza,Defender,Illinois
+1050,Corona,LA Galaxy,2017/11/20,U-18,Leonardo Sepulveda,Defender,California
+1051,Indio,LA Galaxy,2017/11/20,U-18,Oscar Cervantes,Midfielder,California
+1052,Overland Park,Sporting Kansas City,2017/11/20,U-18,Cameron Duke,Midfielder,Kansas
+1053,Brooklyn,New York City FC,2017/11/20,U-18,Justin Haak,Midfielder,New York
+1054,Mesquite,FC Dallas,2017/11/20,U-18,Luis Hernandez,Midfielder,Texas
+1055,Woodbridge,D.C. United,2017/11/20,U-18,Nelson Martinez,Midfielder,Virginia
+1056,New Albany,Crew SC Academy,2017/11/20,U-18,Aidan Morris,Midfielder,Ohio
+1057,Los Angeles,LA Galaxy,2017/01/23,U-18,Eric Lopez,Goalkeeper,California
+1058,Tukwila,Seattle Sounders,2017/01/23,U-18,Trey Muse,Goalkeeper,Washington
+1059,Greensboro,NC Fusion,2017/01/23,U-18,Alec Smir,Goalkeeper,North Carolina
+1081,Norridge,Chicago Fire,2017/11/30,U-17,Damian Las,Goalkeeper,Illinois
+1082,Happy Valley,Portland Timbers,2017/11/30,U-17,Kashope Oladapo,Goalkeeper,Oregon
+1083,Chicago,FC United Soccer Club,2017/11/30,U-17,Axel Alejandre,Defender,Illinois
+1084,Highlands Ranch,Colorado Rapids,2017/11/30,U-17,Sebastian Anderson,Defender,Colorado
+1085,Douglasville,Atlanta United FC,2017/11/30,U-17,George Bello,Defender,Georgia
+1086,Tampa,Chargers Soccer Club,2017/11/30,U-17,Mason Judge,Defender,Florida
+1087,Irvine,Pateadores,2017/11/30,U-17,Kenneth Nielsen,Defender,California
+1088,Lake Grove,New York City FC,2017/11/30,U-17,Joseph Scally,Defender,New York
+1089,Bellevue,Seattle Sounders FC,2017/11/30,U-17,Joshua Atencio,Midfielder,Washington
+1090,Greenboro,Sporting Kansas City,2017/11/30,U-17,Gianluca Busio,Midfielder,North Carolina
+1091,Panorama City,Real So Cal,2017/11/30,U-17,Adam Saldana,Midfielder,California
+1092,Tracy,San Jose Earthquakes,2017/11/30,U-17,Gilbert Fuentes Perez,Midfielder,California
+1093,San Francisco,VFB Stuttgart,2017/11/30,U-17,Maximillian Goeggel,Midfielder,California
+1094,Chester,New York Red Bulls,2017/11/30,U-17,Peter Stroud,Midfielder,New Jersey
+1095,Austin,Lonestar Soccer Club,2017/11/30,U-17,Julian Gaines,Forward,Texas
+1096,Naperville,Sockers FC,2017/11/30,U-17,Cade Hagan,Forward,Illinois
+1097,Chino,FC Golden State,2017/11/30,U-17,Diego Lopez,Forward,California
+1098,Fresno,Seattle Sounders FC,2017/11/30,U-17,Alfonso Ocampo Chavez,Forward,California
+1099,Frisco,FC Dallas,2017/11/30,U-17,Dante Sealy,Forward,Texas
+1100,Graham,Seattle Sounders FC,2017/11/30,U-17,Ray Serrano,Forward,Washington
+1145,Los Angeles,LA Galaxy,2017/10/02,U-18,Eric Lopez,Goalkeeper,California
+1146,Petaluma,FC Koln,2017/10/02,U-18,Brady Scott,Goalkeeper,California
+1147,Lompoc,Barca Academy,2017/10/02,U-18,Julian Araujo,Defender,California
+1148,Bear,Wake Forest,2017/10/02,U-18,Mark McKenzie,Defender,Delaware
+1149,Drexel Hill,Philadelphia Union,2017/10/02,U-18,Matthew Real,Defender,Pennsylvania
+1150,Columbia,Saint Louis FC Academy,2017/10/02,U-18,Aedan Stanely,Defender,Illinois
+1151,San Diego,Club Tijuana,2017/10/02,U-18,Angel Uribe,Defender,California
+1152,Santa Barbara,Stanford,2017/10/02,U-18,Carson Vom Steeg,Defender,California
+1153,Granite Bay,Sacramento Republic FC,2016/06/01,U-18,Cameron Douglas,Goalkeeper,California
+1154,Los Angeles,LA Galaxy,2016/06/01,U-18,Eric Lopez,Goalkeeper,California
+1155,Petaluma,De Anza Force Academy,2016/06/01,U-18,Brady Scott,Goalkeeper,California
+1156,Wappingers Fall,New York Red Bulls,2016/06/01,U-18,Tyler Adams,Defender,New York
+1157,Saddle River,Leicester City,2016/06/01,U-18,Kyle Gruno,Defender,New Jersey
+1158,West Hartford,New England Revolution Academy,2016/06/01,U-18,Daniel Jones,Defender,Connecticut
+1159,Drexel Hill,Philadelphia Union,2016/06/01,U-18,Matthew Real,Defender,New Jersey
+1160,Columbia,St. Louis Scott Gallagher SC,2016/06/01,U-18,Aedan Stanely,Defender,Illinois
+1161,San Diego,Club Tijuana,2016/06/01,U-18,Angel Uribe,Defender,California
+1162,Santa Barbara,Real So Cal,2016/06/01,U-18,Carson Vom Steeg,Defender,California
+1163,Sanford,Orlando City SC Academy,2016/06/01,U-18,Raul Aguilera,Midfielder,Florida
+1164,Del Ray Beach,Genoa C.F.C,2016/06/01,U-18,Paolo Belloni Urso,Midfielder,Florida
+1165,Granite Bay,Sacramento Republic,2016/08/08,U-18,Cameron Douglas,Goalkeeper,California
+1166,Petaluma,De Anza Force,2016/08/08,U-18,Brady Scott,Goalkeeper,California
+1167,Saddle River,Leicester City,2016/08/08,U-18,Kyle Gruno,Defender,New Jersey
+1168,West Hartford,New England Revolution,2016/08/08,U-18,Daniel Jones,Defender,Connecticut
+1169,Caseyville,St. Louis Scott Gallagher,2016/08/08,U-18,Jack Maher,Defender,Illinois
+1170,Drexel Hill,Philadelphia Union,2016/08/08,U-18,Matthew Real,Defender,Pennsylvania
+1171,Columbia,Saint Louis FC,2016/08/08,U-18,Aedan Stanley,Defender,Illinois
+1172,Santa Barbara,Real So Cal,2016/08/08,U-18,Carson Vom Steeg,Defender,California
+1173,Manassas,DC United,2016/08/08,U-18,Jose Carranza,Midfielder,Virginia
+1174,Santa Rosa,C.F. Monterrey,2016/08/08,U-18,Jonathan Gonzalez,Midfielder,California
+1175,San Jose,San Jose Earthquakes,2016/08/08,U-18,Andrew Paoli,Midfielder,California
+1176,Highland Village,FC Dallas,2016/08/08,U-18,Paxton Pomykal,Midfielder,Texas
+1177,Birmingham,FC Dallas,2016/08/08,U-18,Brandon Servania,Midfielder,Alabama
+1178,Midlothian,Unattached,2016/08/08,U-18,Nick Taitague,Midfielder,Virginia
+1179,Sacramento,Sacramento Republic,2016/08/08,U-18,Shaft Brewer,Forward,California
+1180,Evergreen,Colorado Rush,2016/08/08,U-18,Griffin Dorsey,Forward,Colorado
+1181,San Diego,Club Tijuana,2016/08/08,U-18,Ernesto Espinoza,Forward,California
+1182,New York,AIK Fotboll,2016/08/08,U-18,Nebiyou Perry,Forward,New York
+1183,Hamilton,New England Revolution,2016/08/08,U-18,Justin Rennicks,Forward,Massachusetts
+1184,Sarasota,Unattached,2016/08/08,U-18,Aristotle Zarris,Forward,Florida
+1193,Kingwood,Texans SC Houston,2016/04/26,U-18,Andrew Morrison,Goalkeeper,Texas
+1194,Petaluma,De Anza Force Academy,2016/04/26,U-18,Brady Scott,Goalkeeper,California
+1195,Leicester,Leicester City,2016/04/26,U-18,Kyle Gruno,Defender,England
+1196,Highlands Ranch,Real Colorado,2016/04/26,U-18,Bailey Heller,Defender,Colorado
+1197,Drexel Hill,Philadelphia Union,2016/04/26,U-18,Matthew Real,Defender,Pennsylvania
+1198,Dallas,FC Dallas,2016/04/26,U-18,Mark Salas,Defender,Texas
+1199,Columbia,St. Louis Scott Gallagher Missouri Academy,2016/04/26,U-18,Aedan Stanley,Defender,Illinois
+1200,Tijuana,Club Tijuana,2016/04/26,U-18,Angel Uribe,Defender,Mexico
+1201,Santa Barbara,Real So Cal,2016/04/26,U-18,Carson Vom Steeg,Defender,California
+1202,Sanford,Orlando City SC Acadmey,2016/04/26,U-18,Raul Aguilera Jr.,Midfielder,Florida
+1203,Manassas,DC United,2016/04/26,U-18,Jose Carranza,Midfielder,Virginia
+1204,Newark,Philadelphia Union,2016/04/26,U-18,Anthony Fontana,Midfielder,Delaware
+1205,San Jose,San Jose Earthquakes,2016/04/26,U-18,Andrew Paoli,Midfielder,California
+1206,Highland Village,FC Dallas,2016/04/26,U-18,Paxton Pomykal,Midfielder,Texas
+1207,Dallas,FC Dallas,2016/04/26,U-18,Brandon Servania,Midfielder,Texas
+1208,Midlothian,Carolina RailHawks FC,2016/04/26,U-18,Nicholas Taitague,Midfielder,Virginia
+1209,Sacramento,Sacramento Republic FC,2016/04/26,U-18,Shaft Brewer Jr.,Forward,California
+1210,Evergreen,Colorado Rush,2016/04/26,U-18,Griffin Dorsey,Forward,Colorado
+1211,Melbourne Beach,Orlando City SC Academy,2016/04/26,U-18,Landen Haig,Forward,Florida
+1212,Eden Prairie,Minnesota Thunder,2016/04/26,U-18,Thomas Katsiyiannis,Forward,Minnesota
+1213,Hamilton,New England Revolution Academy,2016/04/26,U-18,Justin Rennicks,Forward,Massachusetts
+1214,Bellevue,Seattle Sounders,2016/04/26,U-18,Kei Tomozawa,Forward,Washington
+1215,Casa Grande,Real Salt Lake AZ,2016/04/26,U-18,Aristotle Zarris,Forward,Arizona
+1216,Issaquah,Seattle Sounders FC,2018/05/03,U-19,Sam Fowler,Goalkeeper,Washington
+1217,Miami,Atlanta United FC,2018/05/03,U-19,Justin Garces,Goalkeeper,Florida
+1218,Glendora,LA Galaxy,2018/05/03,U-19,Jake Arteaga,Defender,California
+1219,Roswell,Atlanta United FC,2018/05/03,U-19,Charlie Asensio,Defender,Georgia
+1220,San Jose,San Jose Earthquakes,2018/05/03,U-19,Jean-Julien Foe Nuphaus,Defender,California
+1221,Montclair,Hannover 96,2018/05/03,U-19,Chris Gloster,Defender,New Jersey
+1222,Palm Beach,Atlanta United FC,2018/05/03,U-19,Rayshaun McGann,Defender,Florida
+1223,Rye,New York City FC,2018/05/03,U-19,James Sands,Defender,New York
+1224,Fort Wayne,Unattached,2018/05/03,U-19,Akil Watts,Defender,Indiana
+1225,Eden,Unattached,2018/05/03,U-19,Taylor Booth,Midfielder,Utah
+1226,Southlake,Solar Soccer Club,2018/05/03,U-19,Blaine Ferri,Midfielder,Texas
+1227,Kirkland,Crossfire Premier,2018/05/03,U-19,Declan McGlynn,Midfielder,Washington
+1228,Cleveland,Columbus Crew,2018/05/03,U-19,Isaiah Parente,Midfielder,Ohio
+1229,Olmsted Falls,Crew SC Academy,2018/05/03,U-19,Sean Zawadzki,Midfielder,Ohio
+1230,San Marcos,Pateadores,2018/05/03,U-19,Kyle Holcomb,Forward,California
+1231,Littleton,Colorado Rapids,2018/05/03,U-19,Matt Hundley,Forward,Colorado
+1232,Clarkston,FC Schalke 04,2018/05/03,U-19,Zyen Jones,Forward,Georgia
+1233,Delran,Philadelphia Union,2018/05/03,U-19,Jeremy Rafanello,Forward,New Jersey
+1234,Monterrey,C.F. Monterrey,2018/05/03,U-19,Jacobo Reyes,Forward,Mexico
+1235,Casa Grande,Real Salt Lake,2018/05/03,U-19,Sebastian Soto,Forward,Arizona
+1236,Wayne,Philadelphia Union,2017/02/03,U-19,Matthew Freese,Goalkeeper,Pennsylvania
+1237,Mitchellville,D.C. United,2017/02/03,U-19,Noah Lawrence,Goalkeeper,Maryland
+1238,Bethlehem,UCLA,2017/02/03,U-19,Kevin Silva,Goalkeeper,Pennsylvania
+1239,Allentown,West Bromwich Albion F.C.,2017/02/03,U-19,Daniel Barbir,Defender,Pennsylvania
+1240,Nashville,Clemson,2017/02/03,U-19,Tanner Dieterich,Defender,Tennessee
+1241,Portland,Portland Timbers,2017/02/03,U-19,Marco Farfan,Defender,Oregon
+1242,Indianapolis,Indianapolis Fire,2017/02/03,U-19,Justin Ingram,Defender,Indiana
+1243,McKinney,SMU,2017/02/03,U-19,Edwin Munjoma,Defender,Texas
+1244,Highland Village,FC Dallas,2017/02/03,U-19,Brandon Terwege,Defender,Texas
+1245,Spring Valley,Cal Poly,2017/02/03,U-19, Christian Enriquez,Midfielder,California
+1246,Wethersfield,Providence College,2017/02/03,U-19,Daniel Griffin,Midfielder,Connecticut
+1247,Murfreesboro,Swope Park Rangers,2017/02/03,U-19,Felipe Hernandez,Midfielder,Tennessee
+1248,Lawrenceville,Atlanta United FC,2017/02/03,U-19,Michael Ille,Midfielder,Georgia
+1249,Escondido,Real Salt Lake,2017/02/03,U-19,Milan Iloski,Midfielder,California
+1250,Roseville,Sacramento Republic FC,2017/02/03,U-19,Ryley Kraft,Midfielder,California
+1251,Tucker,Atlanta United FC,2017/02/03,U-19,Lagos Kunga,Midfielder,Georgia
+1252,Bellevue,California-Berkley,2017/02/03,U-19,Simon Lekressner,Midfielder,Washington
+1253,Johnson City,Swope Park Rangers,2017/02/03,U-19,William Little III,Midfielder,Tennessee
+1254,Bridgeview,Chicago Fire,2017/02/03,U-19,Djordje Mihailovic,Midfielder,Illinois
+1255,Columbia,George Mason,2017/02/03,U-19,Grant Robinson,Midfielder,Maryland
+1256,Mary Esther,Leg-A-Z,2017/02/03,U-19,Nelson Hunsinger,Forward,Florida
+1257,South Orange,PDA,2017/02/03,U-19,Mason Toye,Forward,New Jersey
+1258,Mechanicsville,Borussia Dortmund,2016/11/04,U-19,Will Pulisic,Goalkeeper,Virginia
+1259,Weston,Ft. Lauderdale Strikers,2016/11/04,U-19,Matias Reynares,Goalkeeper,Florida
+1260,Allentown,West Bromwich Albion,2016/11/04,U-19,Danny Barbir,Defender,Pennsylvania
+1261,Nashville,Clemson,2016/11/04,U-19,Tanner Dieterich,Defender,Tennessee
+1262,Portland,Portland Timbers,2016/11/04,U-19,Marco Farfan,Defender,Oregon
+1263,Frisco,Grand Canyon University,2016/11/04,U-19,Hector Montalvo,Defender,Texas
+1264,Medina,Internationals SC,2016/11/04,U-19,John Nelson,Defender,Ohio
+1265,Glencoe,Scott Gallagher St. Louis,2016/11/04,U-19,Logan Panchot,Defender,Missouri
+1266,San Diego,NY Cosmos,2016/11/04,U-19,Alexis Velela,Defender,California
+1267,Seattle,Seattle Sounders FC,2016/11/04,U-19,Habib Barry,Midfielder,Washington
+1268,Port Chester,Orlando City SC,2016/11/04,U-19,Pierre Da Silva,Midfielder,New York
+1269,Spring Valley,Cal Poly,2016/11/04,U-19,Christian Enriquez,Midfielder,California
+1270,Santa Ana,Patedores SC,2016/11/04,U-19,Ronaldo Escudero,Midfielder,California
+1271,Murfreesboro,Sporting KC,2016/11/04,U-19,Felipe Hernandez,Midfielder,Tennessee
+1272,Bridgeview,Chicago Fire,2016/11/04,U-19,Djordje Mihailovic,Midfielder,Illinois
+1273,New York,Alianza Lima,2016/11/04,U-19,Adam Ozeri,Midfielder,New York
+1274,Cary,Capitol Area Railhawks,2016/11/04,U-19,Alex Rose,Forward,North Carolina
+1275,Chula Vista,Club Tijuana,2016/11/04,U-19,Brandon Vazquez,Forward,California
+1276,Berlin,PDA,2016/11/04,U-19,Isaiah Young,Forward,New Jersey
+1297,Oxnard,Real Salt Lake,2018/02/02,U-18,David Ochoa,Goalkeeper,California
+1298,Palm Harbor,Chargers Soccer Club,2018/02/02,U-18,Jacob Schick,Goalkeeper,Florida
+1299,Austin,Philadelphia Union,2018/02/02,U-18,Kris Shakes,Goalkeeper,Texas
+1300,Lompoc,Barca Academy,2018/02/02,U-18,Julian Araujo,Defender,California
+1301,Wilton,New York City FC,2018/02/02,U-18,Nico Benalcazar,Defender,Connecticut
+1302,Karlsruher,Karlsuher SC,2018/02/02,U-18,Ian Hoffmann,Defender,Germany
+1303,Woodbrigde,D.C. United,2018/02/02,U-18,Nelson Martinez,Defender,Virginia
+1304,Gage Park,Chicago Fire,2018/02/02,U-18,David Mendoza,Defender,Illinois
+1305,Corona,LA Galaxy,2018/02/02,U-18,Leonardo Sepulveda,Defender,California
+1306,Eden,Unattached,2018/02/02,U-18,Taylor Booth,Midfielder,Utah
+1348,Los Angeles,Queretaro,2016/04/15,U-19,Benn Diaz,Goalkeeper,California
+1349,Frisco,FC Dallas,2016/04/15,U-19,Ben Hale,Goalkeeper,Texas
+1350,Norwalk,LA Galaxy,2016/04/15,U-19,Hugo Arellano,Defender,California
+1351,Allentown,West Bromwich Albion,2016/04/15,U-19,Danny Barbir,Defender,Pennsylvania
+1352,Surbiton,Fulham FC,2016/04/15,U-19,Marlon Fossey,Defender,England
+1353,Sacramento,Sacramento Republic,2016/04/15,U-19,Nabilai Kibunguchy,Defender,California
+1354,Frisco,FC Dallas,2016/04/15,U-19,Hector Montalvo,Defender,Texas
+1355,San Diego,New York Cosmos,2016/04/15,U-19,Alexis Velela,Defender,California
+1356,Palmdale,New York Cosmos,2016/04/15,U-19,Eric Calvillo,Midfielder,California
+1357,Port Chester,Orlando City SC,2016/04/15,U-19,Pierre Da Silva,Midfielder,New York
+1358,San Diego,Fulham FC,2016/04/15,U-19,Luca De La Torre,Midfielder,California
+1359,San Diego,RSL Arizona,2016/04/15,U-19,Sebastien Des Pres,Midfielder,California
+1360,Getxo,Athletic Bilbao,2016/04/15,U-19,Ander Egiluz,Midfielder,Spain
+1361,Mary Esther,Leg A-Z,2016/04/15,U-19,Nelson Hunsinger,Midfielder,Florida
+1362,Little Elm,FC Dallas,2016/04/15,U-19,Weston McKinnie,Midfielder,Texas
+1363,Cary,Capital Area Railhawks,2016/04/15,U-19,Colby Agu,Forward,North Carolina
+1364,San Diego,Club Tijuana,2016/04/15,U-19,Ernesto Espinoza,Forward,California
+1365,San Diego,Unattached,2016/04/15,U-19,Joe Gallardo,Forward,California
+1366,Chula Vista,Club Tijuana,2016/04/15,U-19,Brandon Vazquez,Forward,California
+1367,Berlin,PDA,2016/04/15,U-19,Isaiah Young,Forward,New Jersey
+1368,Miami,Atlanta United FC,2018/07/13,U-20,Justin Garces,Goalkeeper,Florida
+1369,Raleigh,Clemson University,2018/07/13,U-20,George Marks,Goalkeeper,North Carolina
+1370,Tukwila,Indiana University,2018/07/13,U-20,Trey Muse,Goalkeeper,Washington
+1371,South Orange,Hannover 96,2018/07/13,U-20,Chris Gloster,Defender,New Jersey
+1372,Berlin,FC Union Berlin,2018/07/13,U-20,Lennard Maloney,Defender,Germany
+1373,Garner,N.C. State University,2018/07/13,U-20,Manny Perez,Defender,North Carolina
+1374,Seattle,Seattle Sounds FC,2018/07/13,U-20,Sam Rogers,Defender,Washington
+1375,Columbia,St. Louis FC,2018/07/13,U-20,Aedan Stanley,Defender,Illinois
+1376,Eden,Unattached,2018/07/13,U-20,Taylor Booth,Midfielder,Utah
+1377,Atlanta,Atlanta United FC,2018/07/13,U-20,Chris Goslin,Midfielder,Georgia
+1378,Casa Grande,Real Salt Lake,2018/07/13,U-20,Richie Ledezma,Midfielder,Arizona
+1379,Highland Village,FC Dallas,2018/07/13,U-20,Paxton Pomykal,Midfielder,Texas
+1380,Birmingham,FC Dallas,2018/07/13,U-20,Brandon Servania,Midfielder,Alabama
+1381,Sarasota,LA Galaxy,2018/07/13,U-20,Aristotle Zarris,Midfielder,Florida
+1382,Olmsted Falls,Crew SC Academy,2018/07/13,U-20,Sean Zawadski,Midfielder,Ohio
+1383,Miami,Boca Juniors,2018/07/13,U-20,George Acosta,Forward,Florida
+1384,Sacramento,LAFC,2018/07/13,U-20,Shaft Brewer Jr.,Forward,California
+1385,Evergreen,Indiana University,2018/07/13,U-20,Griffin Dorsey,Forward,Colorado
+1386,Hamilton,Indiana University,2018/07/13,U-20,Justin Rennicks,Forward,Massachusetts
+1387,Carlsbad,Real Salt Lake,2018/07/13,U-20,Sebastian Soto,Forward,California
+1388,Oxnard,Real Salt Lake,2018/05/09,U-20,David Ochoa,Goalkeeper,California
+1389,O'Fallon,Saint Louis FC,2018/05/09,U-20,Seth Stiebel,Goalkeeper,Missouri
+1390,Phoenix,Real Salt Lake,2018/05/09,U-20,Glademir Mendoza,Defender,Arizona
+1391,Garner,N.C. State University,2018/05/09,U-20,Manny Perez,Defender,North Carolina
+1392,Drexel Hill,Philadelphia Union,2018/05/09,U-20,Matthew Real,Defender,Pennsylvania
+1393,Hoover,FC Dallas,2018/05/09,U-20,Chris Richards,Defender,Alabama
+1394,Seattle,Seattle Sounders FC,2018/05/09,U-20,Sam Rogers,Defender,Washington
+1395,San Diego,Club Tijuana,2018/05/09,U-20,Angel Uribe,Defender,California
+1396,Santa Ana,Pateadores,2018/05/09,U-20,Frankie Amaya,Midfielder,California
+1397,Powder Springs,Atlanta United FC,2018/05/09,U-20,Andrew Carleton,Midfielder,Georgia
+1398,Atlanta,Atlanta United FC,2018/05/09,U-20,Chris Goslin,Midfielder,Georgia
+1399,Miami,Envigado FC,2018/05/09,U-20,Andres Jimenez,Midfielder,Florida
+1400,Casa Grande,Real Salt Lake,2018/05/09,U-20,Richie Ledezma,Midfielder,Arizona
+1401,Los Angeles,LA Galaxy,2018/05/09,U-20,Alex Mendez,Midfielder,California
+1402,Sarasota,LA Galaxy,2018/05/09,U-20,Aristotle Zarris,Midfielder,Florida
+1403,Brooklyn,Oakwood Academy SC,2018/05/09,U-20,Simon Becher,Forward,Connecticut
+1404,Sacramento,LAFC,2018/05/09,U-20,Shaft Brewer Jr.,Forward,California
+1405,Encino,Sporting Kansas City,2018/05/09,U-20,Wilson Harris,Forward,California
+1406,Manchester,Virginia Commonwealth University,2018/05/09,U-20,Abdulkadir Haji,Forward,New Hampshire
+1407,Lynwood,LA Galaxy,2018/05/09,U-20,Ulysses Llanez Jr.,Forward,California
+1408,Hamilton,Indiana University,2018/05/09,U-20,Justin Rennicks,Forward,Massachusetts
+1409,Philadelphia,S.L. Benfica,2018/03/16,U-20,CJ Dos Santos,Goalkeeper,Pennsylvania
+1410,Minneapolis,Nacional Atlético Clube,2018/03/16,U-20,Phillip Ejimadu,Goalkeeper,Minnesota
+1411,Petaluma,FC Köln,2018/03/16,U-20,Brady Scott,Goalkeeper,California
+1412,Almere-Stad,AFC Ajax,2018/03/16,U-20,Sergino Dest,Defender,Netherlands
+1413,Bear,Philadelphia Union,2018/03/16,U-20,Mark McKenzie,Defender,Delaware
+1414,Fort Lauderdale,Seattle Sounders FC,2018/03/16,U-20,Jake Morris,Defender,Florida
+1415,Garner,N.C. State University,2018/03/16,U-20,Manny Perez,Defender,North Carolina
+1416,Drexel Hill,Philadelphia Union,2018/03/16,U-20,Matthew Real,Defender,Pennsylvania
+1417,Seattle,Seattle Sounds FC,2018/03/16,U-20,Sam Rogers,Defender,Washington
+1418,Columbia,St. Louis FC,2018/03/16,U-20,Aedan Stanley,Defender,Illinois
+1419,San Diego,Club Tijuana,2018/03/16,U-20,Angel Uribe,Defender,California
+1420,Santa Ana,Pateadores,2018/03/16,U-20,Frankie Amaya,Midfielder,California
+1421,Powder Springs,Atlanta United FC,2018/03/16,U-20,Andrew Carleton,Midfielder,Georgia
+1422,Atlanta,Atlanta United FC,2018/03/16,U-20,Chris Goslin,Midfielder,Georgia
+1423,Miami,Envigado FC,2018/03/16,U-20,Andres Jimenez,Midfielder,Florida
+1424,Casa Grande,Real Salt Lake,2018/03/16,U-20,Richie Ledezma,Midfielder,Arizona
+1425,Los Angeles,LA Galaxy,2018/03/16,U-20,Alex Mendez,Midfielder,California
+1426,Highland Village,FC Dallas,2018/03/16,U-20,Paxton Pomykal,Midfielder,Texas
+1427,Lilbirn,K.S.C. Lokeren Oost-Vlaanderen,2018/03/16,U-20,Juan Pablo Torres,Midfielder,Georgia
+1428,Sacramento,Los Angeles FC,2018/03/16,U-20,Shaft Brewer,Forward,California
+1429,Clarkston,FC Schalke 04,2018/03/16,U-20,Zyen Jones,Forward,Georgia
+1430,Lynwood,LA Galaxy,2018/03/16,U-20,Ulysses Llanez Jr.,Forward,California
+1431,New York,FC Köln,2018/03/16,U-20,Nebiyou Perry,Forward,New York
+1432,Hamilton,Indiana University,2018/03/16,U-20,Justin Rennicks,Forward,Massachusetts
+1433,O'Fallon,SV Werder Bremen,2018/03/16,U-20,Josh Sargent,Forward,Missouri
+1510,Newport Beach,University of California,2017/06/03,U-20,Jonathan Klinsmann,Goalkeeper,California
+1511,Alamo,Georgetown,2017/06/03,U-20,J.T. Marcinkowski,Goalkeeper,California
+1512,Petaluma,De Anza Force,2017/06/03,U-20,Brady Scott,Goalkeeper,California
+1513,Salt Lake City,Real Salt Lake,2017/06/03,U-20,Danny Acosta,Defender,Utah
+1514,Westcliff-on-Sea,Tottenham Hotspur FC,2017/06/03,U-20,Cameron Carter-Vickers,Defender,England
+1515,Tucson,Real Salt Lake,2017/06/03,U-20,Justen Glad,Defender,Arizona
+1516,Las Cruces,University of New Mexico,2017/06/03,U-20,Aaron Herrera,Defender,New Mexico
+1517,Lee's Summit,Sporting Kansas City,2017/06/03,U-20,Erik Palmer-Brown,Defender,Missouri
+1518,Oviedo,Orlando City SC,2017/06/03,U-20,Tommy Redding,Defender,Florida
+1519,Media,Philadelphia Union,2017/06/03,U-20,Auston Trusty,Defender,Pennsylvania
+1520,Wappingers Falls,New York Red Bulls,2017/06/03,U-20,Tyler Adams,Midfielder,New York
+1521,San Diego,Fulham FC,2017/06/03,U-20,Luca de la Torre,Midfielder,California
+1522,Philadelphia,Philadelphia Union,2017/06/03,U-20,Derrick Jones,Midfielder,Pennsylvania
+1523,Alexandria,University of Maryland,2017/06/03,U-20,Eryk Williamson,Midfielder,Virginia
+1524,Bethesda,Arsenal FC,2017/06/03,U-20,Gedion Zelalem,Midfielder,Maryland
+1525,Bethesda,Portland Timbers,2017/06/03,U-20,Jeremy Ebobisse,Forward,Maryland
+1526,Newport Beach,University of California,2017/05/31,U-20,Jonathan Klinsmann,Goalkeeper,California
+1527,Alamo,Georgetown,2017/05/31,U-20,J.T. Marcinkowski,Goalkeeper,California
+1528,Petaluma,De Anza Force,2017/05/31,U-20,Brady Scott,Goalkeeper,California
+1529,Salt Lake City,Real Salt Lake,2017/05/31,U-20,Danny Acosta,Defender,Utah
+1530,Westcliff-on-Sea,Tottenham Hotspur FC,2017/05/31,U-20,Cameron Carter-Vickers,Defender,England
+1531,Tucson,Real Salt Lake,2017/05/31,U-20,Justen Glad,Defender,Arizona
+1532,Las Cruces,University of New Mexico,2017/05/31,U-20,Aaron Herrera,Defender,New Mexico
+1533,Lee's Summit,Sporting Kansas City,2017/05/31,U-20,Erik Palmer-Brown,Defender,Missouri
+1534,Oviedo,Orlando City SC,2017/05/31,U-20,Tommy Redding,Defender,Florida
+1535,Media,Philadelphia Union,2017/05/31,U-20,Auston Trusty,Defender,Pennsylvania
+1536,Wappingers Falls,New York Red Bulls,2017/05/31,U-20,Tyler Adams,Midfielder,New York
+1537,San Diego,Fulham FC,2017/05/31,U-20,Luca de la Torre,Midfielder,California
+1538,Philadelphia,Philadelphia Union,2017/05/31,U-20,Derrick Jones,Midfielder,Pennsylvania
+1539,Alexandria,University of Maryland,2017/05/31,U-20,Eryk Williamson,Midfielder,Virginia
+1540,Bethesda,Arsenal FC,2017/05/31,U-20,Gedion Zelalem,Midfielder,Maryland
+1541,Bethesda,Portland Timbers,2017/05/31,U-20,Jeremy Ebobisse,Forward,Maryland
+1542,Maple Grove,MK Dons,2015/11/11,U-23,Cody Cropper,Goalkeeper,Minnesota
+1543,Cleveland,Leeds United,2015/11/11,U-23,Charlie Horton,Goalkeeper,Ohio
+1544,Leawood,Sporting Kansas City,2015/11/11,U-23,Jon Kempin,Goalkeeper,Kansas
+1545,Berlin,Hertha BSC,2015/11/11,U-23,John Brooks,Defender,Germany
+1546,Westcliff on Sea,Tottenham Hotspur,2015/11/11,U-23,Cameron Carter-Vickers,Defender,England
+1547,Woodbury,Montreal Impact,2015/11/11,U-23,Eric Miller,Defender,Minnesota
+1548,Boulder,Royal Mouscron,2015/11/11,U-23,Shane O’Neill,Defender,Colorado
+1549,Edmund,Real Salt Lake,2015/11/11,U-23,Boyd Okwuonu,Defender,Oklahoma
+1550,Irvine,LA Galaxy,2015/11/11,U-23,Dave Romney,Defender,California
+1551,Los Angeles,LA Galaxy,2015/11/11,U-23,Oscar Sorto,Defender,California
+1552,Northville,San Jose Earthquakes,2015/11/11,U-23,Fatai Alashe,Midfielder,Michigan
+1553,Tampa,Bayern Munich,2015/11/11,U-23,Julian Green,Midfielder,Florida
+1554,Chula Vista,Club Tijuana,2015/11/11,U-23,Alejandro Guido,Midfielder,California
+1555,Milwaukee,Chicago Fire,2015/11/11,U-23,Matt Polster,Midfielder,Wisconsin
+1556,Brighton,Colorado Rapids,2015/11/11,U-23,Dillon Serna,Midfielder,Colorado
+1557,Bethesda,Rangers,2015/11/11,U-23,Gedion Zelalem,Midfielder,Maryland
+1558,Berlin,VfB Stuttgart,2015/11/11,U-23,Jerome Kiesewetter,Forward,Germany
+1559,Leander,New York City FC,2015/11/11,U-23,Khiry Shelton,Forward,Texas
+1560,Washington,FC Sion,2015/11/11,U-23,Maki Tall,Forward,District of Columbia
+1561,Cleveland,Leeds,2015/10/09,U-23,Charlie Horton,Goalkeeper,Ohio
+1562,Highlands Ranch,Molde,2015/10/09,U-23,Ethan Horvath,Goalkeeper,Colorado
+1563,Downington,Freiburg,2015/10/09,U-23,Zack Steffen,Goalkeeper,Pennsylvania
+1564,Westcliff on Sea,Tottenham Hotspur,2015/10/09,U-23,Cameron Carter-Vickers,Defender,England
+1565,Clifton,New York Red Bulls,2015/10/09,U-23,Matt Miazga,Defender,New Jersey
+1566,Woodbury,Montreal Impact,2015/10/09,U-23,Eric Miller,Defender,Minnesota
+1567,Concord,Unattached,2015/10/09,U-23,William Packwood,Defender,Massachusetts
+1568,Brighton,Colorado Rapids,2015/10/09,U-23,Dillon Serna,Defender,Colorado
+1569,Northville,San Jose Earthquakes,2015/10/09,U-23,Fatai Alashe,Midfielder,Michigan
+1570,Arlington,Chesterfield,2015/10/09,U-23,Gboly Ariyibi,Midfielder,Virginia
+1571,Garden Grove,Real Salt Lake,2015/10/09,U-23,Luis Gil,Midfielder,California
+1572,Dallas,Fulham,2015/10/09,U-23,Emerson Hyndman,Midfielder,Texas
+1573,Sunnyvale,San Jose Earthquakes,2015/10/09,U-23,Marc Pelosi,Midfielder,California
+1574,Milwaukee,Chicago Fire,2015/10/09,U-23,Matt Polster,Midfielder,Wisconsin
+1575,Gahanna,Columbus Crew SC,2015/10/09,U-23,Wil Trapp,Midfielder,Ohio
+1576,Bethesda,Rangers,2015/10/09,U-23,Gedion Zelalem,Midfielder,Maryland
+1577,El Paso,C.D. Juarez,2015/10/09,U-23,Alonso Hernandez,Forward,Texas
+1578,Berlin,VfB Stuttgart,2015/10/09,U-23,Jerome Kiesewetter,Forward,Germany
+1579,Mercer Island,Stanford,2015/10/09,U-23,Jordan Morris,Forward,Washington
+1580,Washington,FC Sion,2015/10/09,U-23,Maki Tall,Forward,District of Columbia
