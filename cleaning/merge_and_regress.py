@@ -23,14 +23,19 @@ merge1 = merge1[pd.notnull(merge1.County)] # Drop European based players
 callups = merge1[~merge1.duplicated(subset=['name'])]
 county_players = callups.groupby('County',as_index=False).city.count()
 county_players.columns = ['County','num_players']
+county_players.County = county_players.County.str.strip()
 
 # Merge players to economic data
 census = pd.read_csv(os.path.join(data_dir,'2016CombinedCountyIncomePopulation.csv'))
-census['County'] = census.County.str.split().str.get(0).str.upper()
+census['year'] = census.State
+census['state'] = census.County.str.split().str.get(-1).str.replace('(','').str.replace(')','')
+census['County'] = census.County.str.split('County').str.get(0).str.upper().str.strip()
 census['income'] = census['Median Household Income'].str.replace('$','').str.replace(',','').astype('float')
+is_state = census['County Fips'].map(lambda x: x%100==0)
+census = census[~is_state]
 
-data = county_players.merge(census,on='County',how='outer')
-
+data = county_players.merge(census,on='County')
+del data['State']
 
 # Run regression
 model  = sm.OLS(data.num_players,data[['income','Population']])
@@ -46,6 +51,6 @@ data.to_csv(os.path.join(data_dir,'final_data.csv'))
 
 
 # Predict model out of sample
-X = np.array(census['income','Population'])
-census['y_pred'] = model.predict(X)
-census.to_csv('out_of_sample_predictions.csv')
+X = np.array(census[['income','Population']])
+census['y_pred'] = res.predict(X)
+census.to_csv(os.path.join(data_dir,'out_of_sample_predictions.csv'))

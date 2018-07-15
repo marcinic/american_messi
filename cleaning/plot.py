@@ -12,5 +12,5 @@ plt.savefig(os.path.join(viz_dir,'residplot.png'))
 plt.close()
 
 ax = seaborn.regplot('income','num_players',data=data)
-ax.set_title('Regression of County-level Income on Number of USYNT Players 2015-2018')
+ax.set_title('County-level Income on Number of USYNT Players 2015-2018')
 plt.savefig(os.path.join(viz_dir,'regplot.png'))
