@@ -21,9 +21,10 @@ merge1 = merge1[pd.notnull(merge1.County)] # Drop European based players
 
 # Get unique player callups
 callups = merge1[~merge1.duplicated(subset=['name'])]
-county_players = callups.groupby('County',as_index=False).city.count()
-county_players.columns = ['County','num_players']
+county_players = callups.groupby(['County','State short'],as_index=False).city.count()
+county_players.columns = ['County','State short','num_players']
 county_players.County = county_players.County.str.strip()
+county_players['county_state'] = county_players['County']+', '+county_players['State short']
 
 # Merge players to economic data
 census = pd.read_csv(os.path.join(data_dir,'2016CombinedCountyIncomePopulation.csv'))
@@ -31,10 +32,11 @@ census['year'] = census.State
 census['state'] = census.County.str.split().str.get(-1).str.replace('(','').str.replace(')','')
 census['County'] = census.County.str.split('County').str.get(0).str.upper().str.strip()
 census['income'] = census['Median Household Income'].str.replace('$','').str.replace(',','').astype('float')
+census['county_state'] = census['County']+', '+census['state']
 is_state = census['County Fips'].map(lambda x: x%100==0)
 census = census[~is_state]
 
-data = county_players.merge(census,on='County')
+data = county_players.merge(census,on='county_state')
 del data['State']
 
 # Run regression
